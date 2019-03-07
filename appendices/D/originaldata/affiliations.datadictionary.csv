@@ -1,0 +1,6 @@
+Field Name,	Explanation,
+year,	A specific year or season in which professional baseball was played,
+parent_league,	The Major League (American or National) with which a Minor League team is affiliated in a particular season,
+parent_team,	The Major League team with which a Minor League team is affiliated in a specific season/year,
+affiliate_league,	The league organization to which a specific team belonged in a specific year or season,
+affiliate_team,	The name of a specific professional team in a specific year or season,
