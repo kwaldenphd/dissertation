@@ -1,0 +1,9 @@
+id_person,birth_year,birth_month,birth_day,birth_country,birth_state,birth_city,death_year,death_month,death_day,death_country,death_state,death_city,ethnicity,year,classification,league_name,team_name,F_P_G,F_C_G,F_1B_G,F_2B_G,F_3B_G,F_SS_G,F_OF_G,F_LF_G,F_CF_G,F_RF_G
+1,1985,1,31,DO,San Pedro de Macoris,San Pedro de Macoris,,,,,,,,2006,Rk,Appalachian,Bluefield,16,0,0,0,0,0,0,0,0,0
+1,1985,1,31,DO,San Pedro de Macoris,San Pedro de Macoris,,,,,,,,2007,Rk,Appalachian,Bluefield,19,0,0,0,0,0,0,0,0,0
+1,1985,1,31,DO,San Pedro de Macoris,San Pedro de Macoris,,,,,,,,2008,Rk,Appalachian,Bluefield,1,0,0,0,0,0,0,0,0,0
+5,1955,10,3,US,HI,Honolulu,,,,,,,,1973,A-,New York-Pennsylvania,Jamestown,10,0,0,0,0,0,0,,,
+5,1955,10,3,US,HI,Honolulu,,,,,,,,1974,A,Carolina,Kinston,4,,,,,,,,,
+5,1955,10,3,US,HI,Honolulu,,,,,,,,1974,A,Florida State,West Palm Beach,5,,,,,,,,,
+16,1983,3,17,US,FL,Sebring,,,,,,,,2005,A-,New York-Pennsylvania,New Jersey,0,2,0,0,0,0,0,0,0,0
+16,1983,3,17,US,FL,Sebring,,,,,,,,2005,A,South Atlantic,West Virginia,0,2,0,0,0,0,0,0,0,0
