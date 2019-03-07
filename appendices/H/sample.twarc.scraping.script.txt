@@ -1,0 +1,14 @@
+twarc timeline MLB > MLB.json
+twarc timeline Dbacks > Dbacks.json
+twarc timeline Braves > Braves.json
+twarc timeline Orioles > Orioles.json
+twarc timeline RedSox > RedSox.json
+twarc timeline Cubs > Cubs.json
+twarc timeline whitesox > whitesox.json
+twarc timeline Reds > Reds.json
+twarc timeline Indians > Indians.json
+twarc timeline Rockies > Rockies.json
+twarc timeline tigers > tigers.json
+twarc timeline astros > astros.json
+twarc timeline Royals > Royals.json
+twarc timeline Angels > Angels.json
