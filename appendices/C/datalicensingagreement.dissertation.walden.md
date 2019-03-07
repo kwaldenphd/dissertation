@@ -52,7 +52,7 @@ Upon receipt of notice of termination, Licensee agrees to immediately destroy al
 <br></br>
 **SEVERABILITY.** Unless otherwise provided herein, if any provision of this Agreement shall be invalid, illegal or unenforceable, the validity, legality and enforceability of the remaining provisions shall not in any way be affected or impaired thereby.
 <br></br>
-**APPLICABLE LAWS.** This agreement is governed by the laws of the State of Michigan and the United States. Any claim arising out of this agreement will be brought in Wayne County, Michigan.</div>
+**APPLICABLE LAWS.** This agreement is governed by the laws of the State of Michigan and the United States. Any claim arising out of this agreement will be brought in Wayne County, Michigan.</div> 
 
 ____________________________________________	_________________________
 
