@@ -1,0 +1,20 @@
+Field Name,	Explanation
+id_person, A unique identifier referring to a specific baseball player. 80938 unique players are represented in the dataset.
+birth_year,  The year in which a specific professional baseball player was born or known to have been born. Players born in the years 1906 through 1999 are represented in the dataset. Birth years are not provided or available for 779 players in the dataset.
+birth_month,	The month in which a specific professional baseball player was born or known to have been born
+birth_day,	The day on which a specific professional baseball player was born or known to have been born
+birth_country,	The country in which a specific professional baseball player was born or known to have been born. Country of origin refers to physical birthplace location and does not address citizenship status/ethnicity or other forms of cultural identification. No birth country is provided or available for 28227 distinct/specific players.
+birth_state,	The state or province in which a specific professional baseball player was born or known to have been born
+birth_city,	The city in which a specific professional baseball player was born or known to have been born
+death_year,	The year in which a specific professional baseball player died or is known to have died. Death year information was not provided or available for 78226 distinct players in the dataset which represents 96.6% of the players in the dataset.
+death_month,	The month in which a specific professional baseball player died or is known to have died
+death_day,	The day on which a specific professional baseball player died or is known to have died
+death_country,	The country in which a specific professional baseball player died or is known to have died. Death country information was not provided or available for 78735 distinct players in the dataset which represents 97.2% of the players in the dataset.
+death_state,	The state or province in which a specific professional baseball player died or is known to have died
+death_city,	The city in which a specific professional baseball player died or is known to have died
+ethnicity,	A category not clearly defined in the data delivery but refers to ethnicity as assigned or determined by a specific professional baseball player’s phenotypical appearance or presentation. Categories include L (Latin American); B (Black); W (White); A (Asian); N (Native American); P (Polynesian/Pacific Islander); S [sic ‘B’] (Black); S (A/T) [sic ‘A’] (Asian); T (Arab/South Asian Indian); NI [sic ‘N’] (Native American). Ethnicity information was not provided or available for 70486 players in the dataset which represents 87.1% of the players in the dataset.
+year,	A specific professional baseball season (year) in which a specific player played for a professional team or professional teams. The dataset represents players who professional baseball players who played from the years 1960 through 2016.
+classification,	The hierarchical level of a specific professional team in a specific season. Classifications represented in the dataset include the following categories: A; A-; A+; AA; AAA; B; C; D; D; Frk (Foreign Rookie); MLB (Major League Baseball); Rk (Rookie). All classifications except Major League Baseball are Minor League classifications.
+league_name,	The league organization to which a specific team belonged in a specific year/season. The National League and American League are comprised of Major League teams and all other Leagues in the dataset consist of Minor League teams. 
+team_name,	The name of a specific professional team in a specific year/season. The number of distinct teams is represented/accounted for in the ‘Affiliations’ table.
+F_P_G; F_C_G; F_1B_G; F_2B_G; F_3B_G; F_SS_G; F_OF_G; F_LF_G; F_CF_G; F_RF_G,	Number of games a specific professional baseball player appeared in for a specific team in a specific season. The position categories include P (pitcher); C (catcher); 1B (first base); 2B (second base); 3B (third base); SS (short stop); LF (left field); RF (right field); OF (out field); CF (center field).
