@@ -1,0 +1,7 @@
+Field Name,	Explanation,
+year,	A specific year or season in which professional baseball was played,
+league_name,	The league organization to which a specific team belonged in a specific year or season,
+team_name,	The name of a specific professional team in a specific year or season,
+country,	The country in which a specific team was located for a specific year/season,
+state,	The state or province in which a specific team was located for a specific year/season,
+city,	The city in which a specific team was located for a specific year/season,
