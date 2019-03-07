@@ -1,0 +1,740 @@
+
+
+  1 {
+  2   "$id": "something_json_test", 
+  3   "type": "object", 
+  4   "definitions": {}, 
+  5   "$schema": "http://json-schema.org/draft-07/schema#", 
+  6   "properties": {
+  7     "contributors": {
+  8       "$id": "/properties/contributors", 
+  9       "type": "null", 
+ 10       "title": "The Contributors Schema ", 
+ 11       "default": null, 
+ 12       "examples": [
+ 13         null
+ 14       ]
+ 15     }, 
+ 16     "truncated": {
+ 17       "$id": "/properties/truncated", 
+ 18       "type": "boolean", 
+ 19       "title": "The Truncated Schema ", 
+ 20       "default": false, 
+ 21       "examples": [
+ 22         false
+ 23       ]
+ 24     }, 
+ 25     "is_quote_status": {
+ 26       "$id": "/properties/is_quote_status", 
+ 27       "type": "boolean", 
+ 28       "title": "The Is_quote_status Schema ", 
+ 29       "default": false, 
+ 30       "examples": [
+ 31         false
+ 32       ]
+ 33     }, 
+ 34     "in_reply_to_status_id": {
+ 35       "$id": "/properties/in_reply_to_status_id", 
+ 36       "type": "integer", 
+ 37       "title": "The In_reply_to_status_id Schema ", 
+ 38       "default": 0, 
+ 39       "examples": [
+ 40         1011313653763706900
+ 41       ]
+ 42     }, 
+ 43     "id": {
+ 44       "$id": "/properties/id", 
+ 45       "type": "integer", 
+ 46       "title": "The Id Schema ", 
+ 47       "default": 0, 
+ 48       "examples": [
+ 49         1011314327977185300
+ 50       ]
+ 51     }, 
+ 52     "favorite_count": {
+ 53       "$id": "/properties/favorite_count", 
+ 54       "type": "integer", 
+ 55       "title": "The Favorite_count Schema ", 
+ 56       "default": 0, 
+ 57       "examples": [
+ 58         0
+ 59       ]
+ 60     }, 
+ 61     "full_text": {
+ 62       "$id": "/properties/full_text", 
+ 63       "type": "string", 
+ 64       "title": "The Full_text Schema ", 
+ 65       "default": "", 
+ 66       "examples": [
+ 67         "@NWAHenry Or you can share for the fun of it!"
+ 68       ]
+ 69     }, 
+ 70     "source": {
+ 71       "$id": "/properties/source", 
+ 72       "type": "string", 
+ 73       "title": "The Source Schema ", 
+ 74       "default": "", 
+ 75       "examples": [
+ 76         "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>"
+ 77       ]
+ 78     }, 
+ 79     "retweeted": {
+ 80       "$id": "/properties/retweeted", 
+ 81       "type": "boolean", 
+ 82       "title": "The Retweeted Schema ", 
+ 83       "default": false, 
+ 84       "examples": [
+ 85         false
+ 86       ]
+ 87     }, 
+ 88     "coordinates": {
+ 89       "$id": "/properties/coordinates", 
+ 90       "type": "null", 
+ 91       "title": "The Coordinates Schema ", 
+ 92       "default": null, 
+ 93       "examples": [
+ 94         null
+ 95       ]
+ 96     }, 
+ 97     "entities": {
+ 98       "$id": "/properties/entities", 
+ 99       "type": "object", 
+100       "properties": {
+101         "symbols": {
+102           "$id": "/properties/entities/properties/symbols", 
+103           "type": "array"
+104         }, 
+105         "user_mentions": {
+106           "$id": "/properties/entities/properties/user_mentions", 
+107           "type": "array", 
+108           "items": {
+109             "$id": "/properties/entities/properties/user_mentions/items", 
+110             "type": "object", 
+111             "properties": {
+112               "id": {
+113                 "$id": "/properties/entities/properties/user_mentions/items/properties/id", 
+114                 "type": "integer", 
+115                 "title": "The Id Schema ", 
+116                 "default": 0, 
+117                 "examples": [
+118                   177992995
+119                 ]
+120               }, 
+121               "indices": {
+122                 "$id": "/properties/entities/properties/user_mentions/items/properties/indices", 
+123                 "type": "array", 
+124                 "items": {
+125                   "$id": "/properties/entities/properties/user_mentions/items/properties/indices/items", 
+126                   "type": "integer", 
+127                   "title": "The 0th Schema ", 
+128                   "default": 0, 
+129                   "examples": [
+130                     0, 
+131                     9
+132                   ]
+133                 }
+134               }, 
+135               "id_str": {
+136                 "$id": "/properties/entities/properties/user_mentions/items/properties/id_str", 
+137                 "type": "string", 
+138                 "title": "The Id_str Schema ", 
+139                 "default": "", 
+140                 "examples": [
+141                   "177992995"
+142                 ]
+143               }, 
+144               "screen_name": {
+145                 "$id": "/properties/entities/properties/user_mentions/items/properties/screen_name", 
+146                 "type": "string", 
+147                 "title": "The Screen_name Schema ", 
+148                 "default": "", 
+149                 "examples": [
+150                   "NWAHenry"
+151                 ]
+152               }, 
+153               "name": {
+154                 "$id": "/properties/entities/properties/user_mentions/items/properties/name", 
+155                 "type": "string", 
+156                 "title": "The Name Schema ", 
+157                 "default": "", 
+158                 "examples": [
+159                   "Henry Apple"
+160                 ]
+161               }
+162             }
+163           }
+164         }, 
+165         "hashtags": {
+166           "$id": "/properties/entities/properties/hashtags", 
+167           "type": "array"
+168         }, 
+169         "urls": {
+170           "$id": "/properties/entities/properties/urls", 
+171           "type": "array"
+172         }
+173       }
+174     }, 
+175     "in_reply_to_screen_name": {
+176       "$id": "/properties/in_reply_to_screen_name", 
+177       "type": "string", 
+178       "title": "The In_reply_to_screen_name Schema ", 
+179       "default": "", 
+180       "examples": [
+181         "NWAHenry"
+182       ]
+183     }, 
+184     "in_reply_to_user_id": {
+185       "$id": "/properties/in_reply_to_user_id", 
+186       "type": "integer", 
+187       "title": "The In_reply_to_user_id Schema ", 
+188       "default": 0, 
+189       "examples": [
+190         177992995
+191       ]
+192     }, 
+193     "display_text_range": {
+194       "$id": "/properties/display_text_range", 
+195       "type": "array", 
+196       "items": {
+197         "$id": "/properties/display_text_range/items", 
+198         "type": "integer", 
+199         "title": "The 0th Schema ", 
+200         "default": 0, 
+201         "examples": [
+202           10, 
+203           45
+204         ]
+205       }
+206     }, 
+207     "retweet_count": {
+208       "$id": "/properties/retweet_count", 
+209       "type": "integer", 
+210       "title": "The Retweet_count Schema ", 
+211       "default": 0, 
+212       "examples": [
+213         0
+214       ]
+215     }, 
+216     "id_str": {
+217       "$id": "/properties/id_str", 
+218       "type": "string", 
+219       "title": "The Id_str Schema ", 
+220       "default": "", 
+221       "examples": [
+222         "1011314327977185280"
+223       ]
+224     }, 
+225     "favorited": {
+226       "$id": "/properties/favorited", 
+227       "type": "boolean", 
+228       "title": "The Favorited Schema ", 
+229       "default": false, 
+230       "examples": [
+231         false
+232       ]
+233     }, 
+234     "user": {
+235       "$id": "/properties/user", 
+236       "type": "object", 
+237       "properties": {
+238         "follow_request_sent": {
+239           "$id": "/properties/user/properties/follow_request_sent", 
+240           "type": "boolean", 
+241           "title": "The Follow_request_sent Schema ", 
+242           "default": false, 
+243           "examples": [
+244             false
+245           ]
+246         }, 
+247         "has_extended_profile": {
+248           "$id": "/properties/user/properties/has_extended_profile", 
+249           "type": "boolean", 
+250           "title": "The Has_extended_profile Schema ", 
+251           "default": false, 
+252           "examples": [
+253             true
+254           ]
+255         }, 
+256         "profile_use_background_image": {
+257           "$id": "/properties/user/properties/profile_use_background_image", 
+258           "type": "boolean", 
+259           "title": "The Profile_use_background_image Schema ", 
+260           "default": false, 
+261           "examples": [
+262             true
+263           ]
+264         }, 
+265         "default_profile_image": {
+266           "$id": "/properties/user/properties/default_profile_image", 
+267           "type": "boolean", 
+268           "title": "The Default_profile_image Schema ", 
+269           "default": false, 
+270           "examples": [
+271             false
+272           ]
+273         }, 
+274         "id": {
+275           "$id": "/properties/user/properties/id", 
+276           "type": "integer", 
+277           "title": "The Id Schema ", 
+278           "default": 0, 
+279           "examples": [
+280             34363347
+281           ]
+282         }, 
+283         "profile_background_image_url_https": {
+284           "$id": "/properties/user/properties/profile_background_image_url_https", 
+285           "type": "string", 
+286           "title": "The Profile_background_image_url_https Schema ", 
+287           "default": "", 
+288           "examples": [
+289             "https://abs.twimg.com/images/themes/theme9/bg.gif"
+290           ]
+291         }, 
+292         "verified": {
+293           "$id": "/properties/user/properties/verified", 
+294           "type": "boolean", 
+295           "title": "The Verified Schema ", 
+296           "default": false, 
+297           "examples": [
+298             true
+299           ]
+300         }, 
+301         "translator_type": {
+302           "$id": "/properties/user/properties/translator_type", 
+303           "type": "string", 
+304           "title": "The Translator_type Schema ", 
+305           "default": "", 
+306           "examples": [
+307             "none"
+308           ]
+309         }, 
+310         "profile_text_color": {
+311           "$id": "/properties/user/properties/profile_text_color", 
+312           "type": "string", 
+313           "title": "The Profile_text_color Schema ", 
+314           "default": "", 
+315           "examples": [
+316             "131417"
+317           ]
+318         }, 
+319         "profile_image_url_https": {
+320           "$id": "/properties/user/properties/profile_image_url_https", 
+321           "type": "string", 
+322           "title": "The Profile_image_url_https Schema ", 
+323           "default": "", 
+324           "examples": [
+325             "https://pbs.twimg.com/profile_images/983800561656061953/Kaw7jSJe_normal.jpg"
+326           ]
+327         }, 
+328         "profile_sidebar_fill_color": {
+329           "$id": "/properties/user/properties/profile_sidebar_fill_color", 
+330           "type": "string", 
+331           "title": "The Profile_sidebar_fill_color Schema ", 
+332           "default": "", 
+333           "examples": [
+334             "CCCACA"
+335           ]
+336         }, 
+337         "entities": {
+338           "$id": "/properties/user/properties/entities", 
+339           "type": "object", 
+340           "properties": {
+341             "url": {
+342               "$id": "/properties/user/properties/entities/properties/url", 
+343               "type": "object", 
+344               "properties": {
+345                 "urls": {
+346                   "$id": "/properties/user/properties/entities/properties/url/properties/urls", 
+347                   "type": "array", 
+348                   "items": {
+349                     "$id": "/properties/user/properties/entities/properties/url/properties/urls/items", 
+350                     "type": "object", 
+351                     "properties": {
+352                       "url": {
+353                         "$id": "/properties/user/properties/entities/properties/url/properties/urls/items/properties/url", 
+354                         "type": "string", 
+355                         "title": "The Url Schema ", 
+356                         "default": "", 
+357                         "examples": [
+358                           "https://t.co/Ie82CxnpKo"
+359                         ]
+360                       }, 
+361                       "indices": {
+362                         "$id": "/properties/user/properties/entities/properties/url/properties/urls/items/properties/indices", 
+363                         "type": "array", 
+364                         "items": {
+365                           "$id": "/properties/user/properties/entities/properties/url/properties/urls/items/properties/indices/items", 
+366                           "type": "integer", 
+367                           "title": "The 0th Schema ", 
+368                           "default": 0, 
+369                           "examples": [
+370                             0, 
+371                             23
+372                           ]
+373                         }
+374                       }, 
+375                       "expanded_url": {
+376                         "$id": "/properties/user/properties/entities/properties/url/properties/urls/items/properties/expanded_url", 
+377                         "type": "string", 
+378                         "title": "The Expanded_url Schema ", 
+379                         "default": "", 
+380                         "examples": [
+381                           "http://MiLB.com"
+382                         ]
+383                       }, 
+384                       "display_url": {
+385                         "$id": "/properties/user/properties/entities/properties/url/properties/urls/items/properties/display_url", 
+386                         "type": "string", 
+387                         "title": "The Display_url Schema ", 
+388                         "default": "", 
+389                         "examples": [
+390                           "MiLB.com"
+391                         ]
+392                       }
+393                     }
+394                   }
+395                 }
+396               }
+397             }, 
+398             "description": {
+399               "$id": "/properties/user/properties/entities/properties/description", 
+400               "type": "object", 
+401               "properties": {
+402                 "urls": {
+403                   "$id": "/properties/user/properties/entities/properties/description/properties/urls", 
+404                   "type": "array"
+405                 }
+406               }
+407             }
+408           }
+409         }, 
+410         "followers_count": {
+411           "$id": "/properties/user/properties/followers_count", 
+412           "type": "integer", 
+413           "title": "The Followers_count Schema ", 
+414           "default": 0, 
+415           "examples": [
+416             174999
+417           ]
+418         }, 
+419         "profile_sidebar_border_color": {
+420           "$id": "/properties/user/properties/profile_sidebar_border_color", 
+421           "type": "string", 
+422           "title": "The Profile_sidebar_border_color Schema ", 
+423           "default": "", 
+424           "examples": [
+425             "FFFFFF"
+426           ]
+427         }, 
+428         "id_str": {
+429           "$id": "/properties/user/properties/id_str", 
+430           "type": "string", 
+431           "title": "The Id_str Schema ", 
+432           "default": "", 
+433           "examples": [
+434             "34363347"
+435           ]
+436         }, 
+437         "profile_background_color": {
+438           "$id": "/properties/user/properties/profile_background_color", 
+439           "type": "string", 
+440           "title": "The Profile_background_color Schema ", 
+441           "default": "", 
+442           "examples": [
+443             "1A191A"
+444           ]
+445         }, 
+446         "listed_count": {
+447           "$id": "/properties/user/properties/listed_count", 
+448           "type": "integer", 
+449           "title": "The Listed_count Schema ", 
+450           "default": 0, 
+451           "examples": [
+452             2674
+453           ]
+454         }, 
+455         "is_translation_enabled": {
+456           "$id": "/properties/user/properties/is_translation_enabled", 
+457           "type": "boolean", 
+458           "title": "The Is_translation_enabled Schema ", 
+459           "default": false, 
+460           "examples": [
+461             false
+462           ]
+463         }, 
+464         "utc_offset": {
+465           "$id": "/properties/user/properties/utc_offset", 
+466           "type": "null", 
+467           "title": "The Utc_offset Schema ", 
+468           "default": null, 
+469           "examples": [
+470             null
+471           ]
+472         }, 
+473         "statuses_count": {
+474           "$id": "/properties/user/properties/statuses_count", 
+475           "type": "integer", 
+476           "title": "The Statuses_count Schema ", 
+477           "default": 0, 
+478           "examples": [
+479             122859
+480           ]
+481         }, 
+482         "description": {
+483           "$id": "/properties/user/properties/description", 
+484           "type": "string", 
+485           "title": "The Description Schema ", 
+486           "default": "", 
+487           "examples": [
+488             "160 teams, thousands of prospects, millions of fans, and endless fun. The official home for all things #MiLB, on and off the field."
+489           ]
+490         }, 
+491         "friends_count": {
+492           "$id": "/properties/user/properties/friends_count", 
+493           "type": "integer", 
+494           "title": "The Friends_count Schema ", 
+495           "default": 0, 
+496           "examples": [
+497             3851
+498           ]
+499         }, 
+500         "location": {
+501           "$id": "/properties/user/properties/location", 
+502           "type": "string", 
+503           "title": "The Location Schema ", 
+504           "default": "", 
+505           "examples": [
+506             "A Ballpark Near You"
+507           ]
+508         }, 
+509         "profile_link_color": {
+510           "$id": "/properties/user/properties/profile_link_color", 
+511           "type": "string", 
+512           "title": "The Profile_link_color Schema ", 
+513           "default": "", 
+514           "examples": [
+515             "045CB5"
+516           ]
+517         }, 
+518         "profile_image_url": {
+519           "$id": "/properties/user/properties/profile_image_url", 
+520           "type": "string", 
+521           "title": "The Profile_image_url Schema ", 
+522           "default": "", 
+523           "examples": [
+524             "http://pbs.twimg.com/profile_images/983800561656061953/Kaw7jSJe_normal.jpg"
+525           ]
+526         }, 
+527         "following": {
+528           "$id": "/properties/user/properties/following", 
+529           "type": "boolean", 
+530           "title": "The Following Schema ", 
+531           "default": false, 
+532           "examples": [
+533             true
+534           ]
+535         }, 
+536         "geo_enabled": {
+537           "$id": "/properties/user/properties/geo_enabled", 
+538           "type": "boolean", 
+539           "title": "The Geo_enabled Schema ", 
+540           "default": false, 
+541           "examples": [
+542             true
+543           ]
+544         }, 
+545         "profile_banner_url": {
+546           "$id": "/properties/user/properties/profile_banner_url", 
+547           "type": "string", 
+548           "title": "The Profile_banner_url Schema ", 
+549           "default": "", 
+550           "examples": [
+551             "https://pbs.twimg.com/profile_banners/34363347/1527100606"
+552           ]
+553         }, 
+554         "profile_background_image_url": {
+555           "$id": "/properties/user/properties/profile_background_image_url", 
+556           "type": "string", 
+557           "title": "The Profile_background_image_url Schema ", 
+558           "default": "", 
+559           "examples": [
+560             "http://abs.twimg.com/images/themes/theme9/bg.gif"
+561           ]
+562         }, 
+563         "screen_name": {
+564           "$id": "/properties/user/properties/screen_name", 
+565           "type": "string", 
+566           "title": "The Screen_name Schema ", 
+567           "default": "", 
+568           "examples": [
+569             "MiLB"
+570           ]
+571         }, 
+572         "lang": {
+573           "$id": "/properties/user/properties/lang", 
+574           "type": "string", 
+575           "title": "The Lang Schema ", 
+576           "default": "", 
+577           "examples": [
+578             "en"
+579           ]
+580         }, 
+581         "profile_background_tile": {
+582           "$id": "/properties/user/properties/profile_background_tile", 
+583           "type": "boolean", 
+584           "title": "The Profile_background_tile Schema ", 
+585           "default": false, 
+586           "examples": [
+587             false
+588           ]
+589         }, 
+590         "favourites_count": {
+591           "$id": "/properties/user/properties/favourites_count", 
+592           "type": "integer", 
+593           "title": "The Favourites_count Schema ", 
+594           "default": 0, 
+595           "examples": [
+596             4642
+597           ]
+598         }, 
+599         "name": {
+600           "$id": "/properties/user/properties/name", 
+601           "type": "string", 
+602           "title": "The Name Schema ", 
+603           "default": "", 
+604           "examples": [
+605             "Minor League Baseball"
+606           ]
+607         }, 
+608         "notifications": {
+609           "$id": "/properties/user/properties/notifications", 
+610           "type": "boolean", 
+611           "title": "The Notifications Schema ", 
+612           "default": false, 
+613           "examples": [
+614             false
+615           ]
+616         }, 
+617         "url": {
+618           "$id": "/properties/user/properties/url", 
+619           "type": "string", 
+620           "title": "The Url Schema ", 
+621           "default": "", 
+622           "examples": [
+623             "https://t.co/Ie82CxnpKo"
+624           ]
+625         }, 
+626         "created_at": {
+627           "$id": "/properties/user/properties/created_at", 
+628           "type": "string", 
+629           "title": "The Created_at Schema ", 
+630           "default": "", 
+631           "examples": [
+632             "Wed Apr 22 19:05:27 +0000 2009"
+633           ]
+634         }, 
+635         "contributors_enabled": {
+636           "$id": "/properties/user/properties/contributors_enabled", 
+637           "type": "boolean", 
+638           "title": "The Contributors_enabled Schema ", 
+639           "default": false, 
+640           "examples": [
+641             false
+642           ]
+643         }, 
+644         "time_zone": {
+645           "$id": "/properties/user/properties/time_zone", 
+646           "type": "null", 
+647           "title": "The Time_zone Schema ", 
+648           "default": null, 
+649           "examples": [
+650             null
+651           ]
+652         }, 
+653         "protected": {
+654           "$id": "/properties/user/properties/protected", 
+655           "type": "boolean", 
+656           "title": "The Protected Schema ", 
+657           "default": false, 
+658           "examples": [
+659             false
+660           ]
+661         }, 
+662         "default_profile": {
+663           "$id": "/properties/user/properties/default_profile", 
+664           "type": "boolean", 
+665           "title": "The Default_profile Schema ", 
+666           "default": false, 
+667           "examples": [
+668             false
+669           ]
+670         }, 
+671         "is_translator": {
+672           "$id": "/properties/user/properties/is_translator", 
+673           "type": "boolean", 
+674           "title": "The Is_translator Schema ", 
+675           "default": false, 
+676           "examples": [
+677             false
+678           ]
+679         }
+680       }
+681     }, 
+682     "geo": {
+683       "$id": "/properties/geo", 
+684       "type": "null", 
+685       "title": "The Geo Schema ", 
+686       "default": null, 
+687       "examples": [
+688         null
+689       ]
+690     }, 
+691     "in_reply_to_user_id_str": {
+692       "$id": "/properties/in_reply_to_user_id_str", 
+693       "type": "string", 
+694       "title": "The In_reply_to_user_id_str Schema ", 
+695       "default": "", 
+696       "examples": [
+697         "177992995"
+698       ]
+699     }, 
+700     "lang": {
+701       "$id": "/properties/lang", 
+702       "type": "string", 
+703       "title": "The Lang Schema ", 
+704       "default": "", 
+705       "examples": [
+706         "en"
+707       ]
+708     }, 
+709     "created_at": {
+710       "$id": "/properties/created_at", 
+711       "type": "string", 
+712       "title": "The Created_at Schema ", 
+713       "default": "", 
+714       "examples": [
+715         "Mon Jun 25 18:24:59 +0000 2018"
+716       ]
+717     }, 
+718     "in_reply_to_status_id_str": {
+719       "$id": "/properties/in_reply_to_status_id_str", 
+720       "type": "string", 
+721       "title": "The In_reply_to_status_id_str Schema ", 
+722       "default": "", 
+723       "examples": [
+724         "1011313653763706880"
+725       ]
+726     }, 
+727     "place": {
+728       "$id": "/properties/place", 
+729       "type": "null", 
+730       "title": "The Place Schema ", 
+731       "default": null, 
+732       "examples": [
+733         null
+734       ]
+735     }
+736   }
+737 }
+
