@@ -1,0 +1,8 @@
+id_location,City,State,Country,Region,Group,latitude,longitude
+AF,,,AF,Southern Asia,Asia,33.000087,64.999847
+Kabul_AF,Kabul,,AF,Southern Asia,,34.519706,69.16243
+LaPlata_BuenosAires_AR,La Plata,Buenos Aires,AR,South America,Latin America and the Caribbean,-34.92068,-57.953764
+BuenosAires_BuenosAires_AR,Buenos Aires,Buenos Aires,AR,South America,Latin America and the Caribbean,-34.612869,-58.445979
+VicenteLopez_BuenosAires_AR,Vicente Lopez,Buenos Aires,AR,South America,Latin America and the Caribbean,-34.524448,-58.503628
+Rosario_SantaFe_AR,Rosario,Santa Fe,AR,South America,Latin America and the Caribbean,-32.9595,-60.661541
+VillaDolores_Cordoba_AR,Villa Dolores,Cordoba,AR,South America,Latin America and the Caribbean,-31.944478,-65.190031
