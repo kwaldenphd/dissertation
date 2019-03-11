@@ -97,4 +97,4 @@
 <br></br><sup id="fn142">142. Jordan Minch (Jordan_Minch), "I Make More Money a Month Driving for Uber Than I Do During the Season," [*Twitter,* 2018.](https://web.archive.org/web/20190228190422/https://twitter.com/Jordan_Minch/status/1075830132215083010)<a href="#ref142" title="Jump back to footnote 142 in the text.">↩</a></sup>
 <br></br><sup id="fn143">143. ["Per Diem Rates,"](https://web.archive.org/web/20190216102550/https://www.gsa.gov/travel/plan-book/per-diem-rates) GSA.gov, 2018.<a href="#ref143" title="Jump back to footnote 143 in the text.">↩</a></sup>
 <br></br><sup id="fn144">144. Bouton.<a href="#ref144" title="Jump back to footnote 144 in the text.">↩</a></sup>
-<br></br></sup id="fn145">145. Jackie Robinson and Alfred Duckett, *I Never Had It Made: An Autobiography of Jackie Robinson* (New York: HarperCollins, 1994).<a href="#ref145" title="Jump back to footnote 145 in the text.">↩</a></sup>
+<br></br><sup id="fn145">145. Jackie Robinson and Alfred Duckett, *I Never Had It Made: An Autobiography of Jackie Robinson* (New York: HarperCollins, 1994).<a href="#ref145" title="Jump back to footnote 145 in the text.">↩</a></sup>
