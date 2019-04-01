@@ -1,0 +1,264 @@
+﻿OBJECTID,Team_ID,Season,Parent_League,Parent_Team,League,Team,Team_1,Classification,Location_ID,City,State,Country,Lat,Long
+11425,2016_American_BAL,2016, , ,American,Baltimore,BAL,MLB,Baltimore_MD_US,Baltimore,MD,US,39.290861,-76.610807
+11426,2016_American_BOS,2016, , ,American,Boston,BOS,MLB,Boston_MA_US,Boston,MA,US,42.360482,-71.059568
+11427,2016_American_CWS,2016, , ,American,Chicago,CWS,MLB,Chicago_IL_US,Chicago,IL,US,41.875555,-87.624421
+11428,2016_American_CLE,2016, , ,American,Cleveland,CLE,MLB,Cleveland_OH_US,Cleveland,OH,US,41.505161,-81.693445
+11429,2016_American_DET,2016, , ,American,Detroit,DET,MLB,Detroit_MI_US,Detroit,MI,US,42.348664,-83.056737
+11430,2016_American_HOU,2016, , ,American,Houston,HOU,MLB,Houston_TX_US,Houston,TX,US,29.758938,-95.367697
+11431,2016_American_KC,2016, , ,American,Kansas City,KC,MLB,KansasCity_MO_US,Kansas City,MO,US,39.084469,-94.56303
+11432,2016_American_LAA,2016, , ,American,Los Angeles,LAA,MLB,LosAngeles_CA_US,Los Angeles,CA,US,34.054394,-118.243941
+11433,2016_American_MIN,2016, , ,American,Minnesota,MIN,MLB,Minneapolis_MN_US,Minneapolis,MN,US,44.9773,-93.265469
+11434,2016_American_NYY,2016, , ,American,New York,NYY,MLB,NewYork_NY_US,New York,NY,US,43.102443,-75.291082
+11435,2016_American_OAK,2016, , ,American,Oakland,OAK,MLB,Oakland_CA_US,Oakland,CA,US,37.804456,-122.271356
+11436,2016_American_SEA,2016, , ,American,Seattle,SEA,MLB,Seattle_WA_US,Seattle,WA,US,47.603832,-122.330062
+11437,2016_American_TB,2016, , ,American,Tampa Bay,TB,MLB,Tampa_FL_US,Tampa,FL,US,27.94776,-82.458444
+11438,2016_American_TEX,2016, , ,American,Texas,TEX,MLB,Arlington_TX_US,Arlington,TX,US,32.735582,-97.107119
+11439,2016_American_TOR,2016, , ,American,Toronto,TOR,MLB,Toronto_ON_CA,Toronto,ON,CA,43.652921,-79.384901
+11440,2016_Appalachian_Bluefield,2016,American,TOR,Appalachian,Bluefield,Bluefield,Rk,Bluefield_VA_US,Bluefield,VA,US,37.252617,-81.27121
+11441,2016_Appalachian_Bristol,2016,National,PIT,Appalachian,Bristol,Bristol,Rk,Bristol_VA_US,Bristol,VA,US,36.596495,-82.188467
+11442,2016_Appalachian_Burlington,2016,American,KC,Appalachian,Burlington,Burlington,Rk,Burlington_NC_US,Burlington,NC,US,36.095692,-79.437799
+11443,2016_Appalachian_Danville,2016,National,ATL,Appalachian,Danville,Danville,Rk,Danville_GA_US,Danville,GA,US,32.60571,-83.245436
+11444,2016_Appalachian_Elizabethton,2016,American,MIN,Appalachian,Elizabethton,Elizabethton,Rk,Elizabethton_TN_US,Elizabethton,TN,US,36.34872,-82.210688
+11445,2016_Appalachian_Greeneville,2016,American,HOU,Appalachian,Greeneville,Greeneville,Rk,Greeneville_TN_US,Greeneville,TN,US,36.163158,-82.830986
+11446,2016_Appalachian_JohnsonCity,2016,National,STL,Appalachian,Johnson City,Johnson City,Rk,JohnsonCity_TN_US,Johnson City,TN,US,36.31344,-82.353473
+11447,2016_Appalachian_Kingsport,2016,National,NYM,Appalachian,Kingsport,Kingsport,Rk,Kingsport_TN_US,Kingsport,TN,US,36.548434,-82.561819
+11448,2016_Appalachian_Princeton,2016,American,TB,Appalachian,Princeton,Princeton,Rk,Princeton_WV_US,Princeton,WV,US,37.366328,-81.102577
+11449,2016_Appalachian_Pulaski,2016,American,NYY,Appalachian,Pulaski,Pulaski,Rk,Pulaski_VA_US,Pulaski,VA,US,37.047898,-80.779793
+11450,2016_Arizona_Angels,2016,American,LAA,Arizona,Angels,Angels,Rk,AZ_US, ,AZ,US,34.395342,-111.763275
+11451,2016_Arizona_Athletics,2016,American,OAK,Arizona,Athletics,Athletics,Rk,AZ_US, ,AZ,US,34.395342,-111.763275
+11452,2016_Arizona_Brewers,2016,National,MIL,Arizona,Brewers,Brewers,Rk,AZ_US, ,AZ,US,34.395342,-111.763275
+11453,2016_Arizona_Cubs,2016,National,CHC,Arizona,Cubs,Cubs,Rk,AZ_US, ,AZ,US,34.395342,-111.763275
+11454,2016_Arizona_Diamondbacks,2016,National,ARI,Arizona,Diamondbacks,Diamondbacks,Rk,AZ_US, ,AZ,US,34.395342,-111.763275
+11455,2016_Arizona_Dodgers,2016,National,LAD,Arizona,Dodgers,Dodgers,Rk,AZ_US, ,AZ,US,34.395342,-111.763275
+11456,2016_Arizona_Giants,2016,National,SF,Arizona,Giants,Giants,Rk,AZ_US, ,AZ,US,34.395342,-111.763275
+11457,2016_Arizona_Indians,2016,American,CLE,Arizona,Indians,Indians,Rk,AZ_US, ,AZ,US,34.395342,-111.763275
+11458,2016_Arizona_Mariners,2016,American,SEA,Arizona,Mariners,Mariners,Rk,AZ_US, ,AZ,US,34.395342,-111.763275
+11459,2016_Arizona_Padres,2016,National,SD,Arizona,Padres,Padres,Rk,AZ_US, ,AZ,US,34.395342,-111.763275
+11460,2016_Arizona_Rangers,2016,American,TEX,Arizona,Rangers,Rangers,Rk,AZ_US, ,AZ,US,34.395342,-111.763275
+11461,2016_Arizona_Reds,2016,National,CIN,Arizona,Reds,Reds,Rk,AZ_US, ,AZ,US,34.395342,-111.763275
+11462,2016_Arizona_Royals,2016,American,KC,Arizona,Royals,Royals,Rk,AZ_US, ,AZ,US,34.395342,-111.763275
+11463,2016_Arizona_WhiteSox,2016,American,CWS,Arizona,White Sox,White Sox,Rk,AZ_US, ,AZ,US,34.395342,-111.763275
+11464,2016_California_Bakersfield,2016,American,SEA,California,Bakersfield,Bakersfield,A+,Bakersfield_CA_US,Bakersfield,CA,US,35.373871,-119.019464
+11465,2016_California_HighDesert,2016,American,TEX,California,High Desert,High Desert,A+,Adelanto_CA_US,Adelanto,CA,US,34.58277,-117.409215
+11466,2016_California_InlandEmpire,2016,American,LAA,California,Inland Empire,Inland Empire,A+,SanBernardino_CA_US,San Bernardino,CA,US,34.108345,-117.289765
+11467,2016_California_LakeElsinore,2016,National,SD,California,Lake Elsinore,Lake Elsinore,A+,LakeElsinore_CA_US,Lake Elsinore,CA,US,33.668077,-117.327261
+11468,2016_California_Lancaster,2016,American,HOU,California,Lancaster,Lancaster,A+,Lancaster_CA_US,Lancaster,CA,US,34.698106,-118.136615
+11469,2016_California_Modesto,2016,National,COL,California,Modesto,Modesto,A+,Modesto_CA_US,Modesto,CA,US,37.639097,-120.996878
+11470,2016_California_RanchoCucamonga,2016,National,LAD,California,Rancho Cucamonga,Rancho Cucamonga,A+,RanchoCucamonga_CA_US,Rancho Cucamonga,CA,US,34.103319,-117.575173
+11471,2016_California_SanJose,2016,National,SF,California,San Jose,San Jose,A+,SanJose_CA_US,San Jose,CA,US,37.336191,-121.890583
+11472,2016_California_Stockton,2016,American,OAK,California,Stockton,Stockton,A+,Stockton_CA_US,Stockton,CA,US,37.957702,-121.29078
+11473,2016_California_Visalia,2016,National,ARI,California,Visalia,Visalia,A+,Visalia_CA_US,Visalia,CA,US,36.330228,-119.292058
+11474,2016_Carolina_Carolina,2016,National,ATL,Carolina,Carolina,Carolina,A+,Zebulon_NC_US,Zebulon,NC,US,35.824321,-78.31472
+11475,2016_Carolina_Frederick,2016,American,BAL,Carolina,Frederick,Frederick,A+,Frederick_MD_US,Frederick,MD,US,39.414443,-77.410578
+11476,2016_Carolina_Lynchburg,2016,American,CLE,Carolina,Lynchburg,Lynchburg,A+,Lynchburg_VA_US,Lynchburg,VA,US,37.413754,-79.142246
+11477,2016_Carolina_MyrtleBeach,2016,National,CHC,Carolina,Myrtle Beach,Myrtle Beach,A+,MyrtleBeach_SC_US,Myrtle Beach,SC,US,33.695646,-78.890041
+11478,2016_Carolina_Potomac,2016,National,WSH,Carolina,Potomac,Potomac,A+,Woodbridge_VA_US,Woodbridge,VA,US,38.658172,-77.249705
+11479,2016_Carolina_Salem,2016,American,BOS,Carolina,Salem,Salem,A+,Salem_VA_US,Salem,VA,US,37.293378,-80.054667
+11480,2016_Carolina_Wilmington,2016,American,KC,Carolina,Wilmington,Wilmington,A+,Wilmington_NC_US,Wilmington,NC,US,34.225728,-77.944711
+11481,2016_Carolina_Winston-Salem,2016,American,CWS,Carolina,Winston-Salem,Winston-Salem,A+,Winston-Salem_NC_US,Winston-Salem,NC,US,36.099817,-80.244144
+11482,2016_DominicanSummer_Angels,2016, , ,Dominican Summer,Angels,Angels,FRk,DO, , ,DO,19.097403,-70.302803
+11483,2016_DominicanSummer_AstrosBlue,2016, , ,Dominican Summer,Astros Blue,Astros Blue,FRk,DO, , ,DO,19.097403,-70.302803
+11484,2016_DominicanSummer_AstrosOrange,2016, , ,Dominican Summer,Astros Orange,Astros Orange,FRk,DO, , ,DO,19.097403,-70.302803
+11485,2016_DominicanSummer_Athletics,2016, , ,Dominican Summer,Athletics,Athletics,FRk,DO, , ,DO,19.097403,-70.302803
+11486,2016_DominicanSummer_BlueJays,2016, , ,Dominican Summer,Blue Jays,Blue Jays,FRk,DO, , ,DO,19.097403,-70.302803
+11487,2016_DominicanSummer_Braves,2016, , ,Dominican Summer,Braves,Braves,FRk,DO, , ,DO,19.097403,-70.302803
+11488,2016_DominicanSummer_Brewers,2016, , ,Dominican Summer,Brewers,Brewers,FRk,DO, , ,DO,19.097403,-70.302803
+11489,2016_DominicanSummer_Cardinals,2016,National,STL,Dominican Summer,Cardinals,Cardinals,FRk,DO, , ,DO,19.097403,-70.302803
+11490,2016_DominicanSummer_Cubs1,2016, , ,Dominican Summer,Cubs 1,Cubs 1,FRk,DO, , ,DO,19.097403,-70.302803
+11491,2016_DominicanSummer_Cubs2,2016, , ,Dominican Summer,Cubs 2,Cubs 2,FRk,DO, , ,DO,19.097403,-70.302803
+11492,2016_DominicanSummer_Diamondbacks1,2016, , ,Dominican Summer,Diamondbacks 1,Diamondbacks 1,FRk,DO, , ,DO,19.097403,-70.302803
+11493,2016_DominicanSummer_Diamondbacks2,2016, , ,Dominican Summer,Diamondbacks 2,Diamondbacks 2,FRk,DO, , ,DO,19.097403,-70.302803
+11494,2016_DominicanSummer_Dodgers1,2016, , ,Dominican Summer,Dodgers 1,Dodgers 1,FRk,DO, , ,DO,19.097403,-70.302803
+11495,2016_DominicanSummer_Dodgers2,2016, , ,Dominican Summer,Dodgers 2,Dodgers 2,FRk,DO, , ,DO,19.097403,-70.302803
+11496,2016_DominicanSummer_Giants,2016, , ,Dominican Summer,Giants,Giants,FRk,DO, , ,DO,19.097403,-70.302803
+11497,2016_DominicanSummer_Indians,2016, , ,Dominican Summer,Indians,Indians,FRk,DO, , ,DO,19.097403,-70.302803
+11498,2016_DominicanSummer_Mariners,2016, , ,Dominican Summer,Mariners,Mariners,FRk,DO, , ,DO,19.097403,-70.302803
+11499,2016_DominicanSummer_Marlins,2016, , ,Dominican Summer,Marlins,Marlins,FRk,DO, , ,DO,19.097403,-70.302803
+11500,2016_DominicanSummer_Mets1,2016, , ,Dominican Summer,Mets 1,Mets 1,FRk,DO, , ,DO,19.097403,-70.302803
+11501,2016_DominicanSummer_Mets2,2016, , ,Dominican Summer,Mets 2,Mets 2,FRk,DO, , ,DO,19.097403,-70.302803
+11502,2016_DominicanSummer_Nationals,2016, , ,Dominican Summer,Nationals,Nationals,FRk,DO, , ,DO,19.097403,-70.302803
+11503,2016_DominicanSummer_Orioles1,2016, , ,Dominican Summer,Orioles 1,Orioles 1,FRk,DO, , ,DO,19.097403,-70.302803
+11504,2016_DominicanSummer_Orioles2,2016, , ,Dominican Summer,Orioles 2,Orioles 2,FRk,DO, , ,DO,19.097403,-70.302803
+11505,2016_DominicanSummer_Padres,2016, , ,Dominican Summer,Padres,Padres,FRk,DO, , ,DO,19.097403,-70.302803
+11506,2016_DominicanSummer_Phillies1,2016, , ,Dominican Summer,Phillies 1,Phillies 1,FRk,DO, , ,DO,19.097403,-70.302803
+11507,2016_DominicanSummer_Phillies2,2016, , ,Dominican Summer,Phillies 2,Phillies 2,FRk,DO, , ,DO,19.097403,-70.302803
+11508,2016_DominicanSummer_Pirates,2016, , ,Dominican Summer,Pirates,Pirates,FRk,DO, , ,DO,19.097403,-70.302803
+11509,2016_DominicanSummer_Rangers1,2016, , ,Dominican Summer,Rangers 1,Rangers 1,FRk,DO, , ,DO,19.097403,-70.302803
+11510,2016_DominicanSummer_Rangers2,2016, , ,Dominican Summer,Rangers 2,Rangers 2,FRk,DO, , ,DO,19.097403,-70.302803
+11511,2016_DominicanSummer_Rays1,2016, , ,Dominican Summer,Rays 1,Rays 1,FRk,DO, , ,DO,19.097403,-70.302803
+11512,2016_DominicanSummer_Rays2,2016, , ,Dominican Summer,Rays 2,Rays 2,FRk,DO, , ,DO,19.097403,-70.302803
+11513,2016_DominicanSummer_Reds,2016, , ,Dominican Summer,Reds,Reds,FRk,DO, , ,DO,19.097403,-70.302803
+11514,2016_DominicanSummer_RedSox1,2016, , ,Dominican Summer,Red Sox 1,Red Sox 1,FRk,DO, , ,DO,19.097403,-70.302803
+11515,2016_DominicanSummer_RedSox2,2016, , ,Dominican Summer,Red Sox 2,Red Sox 2,FRk,DO, , ,DO,19.097403,-70.302803
+11516,2016_DominicanSummer_Rockies,2016, , ,Dominican Summer,Rockies,Rockies,FRk,DO, , ,DO,19.097403,-70.302803
+11517,2016_DominicanSummer_Rojos,2016, , ,Dominican Summer,Rojos,Rojos,FRk,DO, , ,DO,19.097403,-70.302803
+11518,2016_DominicanSummer_Royals,2016, , ,Dominican Summer,Royals,Royals,FRk,DO, , ,DO,19.097403,-70.302803
+11519,2016_DominicanSummer_Tigers,2016, , ,Dominican Summer,Tigers,Tigers,FRk,DO, , ,DO,19.097403,-70.302803
+11520,2016_DominicanSummer_Twins,2016,American,MIN,Dominican Summer,Twins,Twins,FRk,DO, , ,DO,19.097403,-70.302803
+11521,2016_DominicanSummer_WhiteSox,2016, , ,Dominican Summer,White Sox,White Sox,FRk,DO, , ,DO,19.097403,-70.302803
+11522,2016_DominicanSummer_Yankees1,2016, , ,Dominican Summer,Yankees 1,Yankees 1,FRk,DO, , ,DO,19.097403,-70.302803
+11523,2016_DominicanSummer_Yankees2,2016, , ,Dominican Summer,Yankees 2,Yankees 2,FRk,DO, , ,DO,19.097403,-70.302803
+11524,2016_Eastern_Akron,2016,American,CLE,Eastern,Akron,Akron,AA,Akron_OH_US,Akron,OH,US,41.083064,-81.518485
+11525,2016_Eastern_Altoona,2016,National,PIT,Eastern,Altoona,Altoona,AA,Altoona_PA_US,Altoona,PA,US,40.518681,-78.394736
+11526,2016_Eastern_Binghamton,2016,National,NYM,Eastern,Binghamton,Binghamton,AA,Binghamton_NY_US,Binghamton,NY,US,42.096968,-75.914341
+11527,2016_Eastern_Bowie,2016,American,BAL,Eastern,Bowie,Bowie,AA,Bowie_MD_US,Bowie,MD,US,38.942966,-76.731234
+11528,2016_Eastern_Erie,2016,American,DET,Eastern,Erie,Erie,AA,Erie_PA_US,Erie,PA,US,42.129066,-80.085242
+11529,2016_Eastern_Harrisburg,2016,National,WSH,Eastern,Harrisburg,Harrisburg,AA,Harrisburg_PA_US,Harrisburg,PA,US,40.266311,-76.886112
+11530,2016_Eastern_Hartford,2016,National,COL,Eastern,Hartford,Hartford,AA,Hartford_PA_US,Hartford,PA,US,31.1024,-85.696878
+11531,2016_Eastern_NewHampshire,2016,American,TOR,Eastern,New Hampshire,New Hampshire,AA,Manchester_NH_US,Manchester,NH,US,42.99564,-71.454789
+11532,2016_Eastern_Portland,2016,American,BOS,Eastern,Portland,Portland,AA,Portland_OR_US,Portland,OR,US,45.520247,-122.674195
+11533,2016_Eastern_Reading,2016,National,PHI,Eastern,Reading,Reading,AA,Reading_PA_US,Reading,PA,US,40.335345,-75.927949
+11534,2016_Eastern_Richmond,2016,National,SF,Eastern,Richmond,Richmond,AA,Richmond_VA_US,Richmond,VA,US,37.538509,-77.43428
+11535,2016_Eastern_Trenton,2016,American,NYY,Eastern,Trenton,Trenton,AA,Trenton_NJ_US,Trenton,NJ,US,40.217058,-74.742946
+11536,2016_FloridaState_Bradenton,2016,National,PIT,Florida State,Bradenton,Bradenton,A+,Bradenton_FL_US,Bradenton,FL,US,27.498928,-82.574819
+11537,2016_FloridaState_BrevardCounty,2016,National,MIL,Florida State,Brevard County,Brevard County,A+,BrevardCounty_FL_US,Brevard County,FL,US,28.180242,-80.673248
+11538,2016_FloridaState_Charlotte,2016,American,TB,Florida State,Charlotte,Charlotte,A+,PortCharlotte_FL_US,Port Charlotte,FL,US,26.976171,-82.090645
+11539,2016_FloridaState_Clearwater,2016,National,PHI,Florida State,Clearwater,Clearwater,A+,Clearwater_FL_US,Clearwater,FL,US,27.965853,-82.800103
+11540,2016_FloridaState_Daytona,2016,National,CIN,Florida State,Daytona,Daytona,A+,DaytonaBeach_FL_US,Daytona Beach,FL,US,29.210815,-81.022833
+11541,2016_FloridaState_Dunedin,2016,American,TOR,Florida State,Dunedin,Dunedin,A+,Dunedin_FL_US,Dunedin,FL,US,28.046071,-82.79673
+11542,2016_FloridaState_FortMyers,2016,American,MIN,Florida State,Fort Myers,Fort Myers,A+,FortMyers_FL_US,Fort Myers,FL,US,26.640628,-81.872308
+11543,2016_FloridaState_Jupiter,2016,National,MIA,Florida State,Jupiter,Jupiter,A+,Jupiter_FL_US,Jupiter,FL,US,26.926705,-80.122091
+11544,2016_FloridaState_Lakeland,2016,American,DET,Florida State,Lakeland,Lakeland,A+,Lakeland_FL_US,Lakeland,FL,US,28.039465,-81.949804
+11545,2016_FloridaState_PalmBeach,2016,National,STL,Florida State,Palm Beach,Palm Beach,A+,PalmBeach_FL_US,Palm Beach,FL,US,26.705565,-80.03647
+11546,2016_FloridaState_St.Lucie,2016,National,NYM,Florida State,St. Lucie,St. Lucie,A+,StLucie_FL_US,St. Lucie,FL,US,27.293933,-80.350328
+11547,2016_FloridaState_Tampa,2016,American,NYY,Florida State,Tampa,Tampa,A+,Tampa_FL_US,Tampa,FL,US,27.94776,-82.458444
+11548,2016_GulfCoast_Astros,2016,American,HOU,Gulf Coast,Astros,Astros,Rk,FL_US, ,FL,US,27.756767,-81.463983
+11549,2016_GulfCoast_BlueJays,2016,American,TOR,Gulf Coast,Blue Jays,Blue Jays,Rk,FL_US, ,FL,US,27.756767,-81.463983
+11550,2016_GulfCoast_Braves,2016,National,ATL,Gulf Coast,Braves,Braves,Rk,FL_US, ,FL,US,27.756767,-81.463983
+11551,2016_GulfCoast_Cardinals,2016,National,STL,Gulf Coast,Cardinals,Cardinals,Rk,FL_US, ,FL,US,27.756767,-81.463983
+11552,2016_GulfCoast_Marlins,2016,National,MIA,Gulf Coast,Marlins,Marlins,Rk,FL_US, ,FL,US,27.756767,-81.463983
+11553,2016_GulfCoast_Mets,2016,National,NYM,Gulf Coast,Mets,Mets,Rk,FL_US, ,FL,US,27.756767,-81.463983
+11554,2016_GulfCoast_Nationals,2016,National,WSH,Gulf Coast,Nationals,Nationals,Rk,FL_US, ,FL,US,27.756767,-81.463983
+11555,2016_GulfCoast_Orioles,2016,American,BAL,Gulf Coast,Orioles,Orioles,Rk,FL_US, ,FL,US,27.756767,-81.463983
+11556,2016_GulfCoast_Phillies,2016,National,PHI,Gulf Coast,Phillies,Phillies,Rk,FL_US, ,FL,US,27.756767,-81.463983
+11557,2016_GulfCoast_Pirates,2016,National,PIT,Gulf Coast,Pirates,Pirates,Rk,FL_US, ,FL,US,27.756767,-81.463983
+11558,2016_GulfCoast_Rays,2016,American,TB,Gulf Coast,Rays,Rays,Rk,FL_US, ,FL,US,27.756767,-81.463983
+11559,2016_GulfCoast_RedSox,2016,American,BOS,Gulf Coast,Red Sox,Red Sox,Rk,FL_US, ,FL,US,27.756767,-81.463983
+11560,2016_GulfCoast_TigersEast,2016,American,DET,Gulf Coast,Tigers East,Tigers East,Rk,FL_US, ,FL,US,27.756767,-81.463983
+11561,2016_GulfCoast_TigersWest,2016,American,DET,Gulf Coast,Tigers West,Tigers West,Rk,FL_US, ,FL,US,27.756767,-81.463983
+11562,2016_GulfCoast_Twins,2016,American,MIN,Gulf Coast,Twins,Twins,Rk,FL_US, ,FL,US,27.756767,-81.463983
+11563,2016_GulfCoast_YankeesEast,2016,American,NYY,Gulf Coast,Yankees East,Yankees East,Rk,FL_US, ,FL,US,27.756767,-81.463983
+11564,2016_GulfCoast_YankeesWest,2016,American,NYY,Gulf Coast,Yankees West,Yankees West,Rk,FL_US, ,FL,US,27.756767,-81.463983
+11565,2016_International_Buffalo,2016,American,TOR,International,Buffalo,Buffalo,AAA,Buffalo_NY_US,Buffalo,NY,US,42.886717,-78.878392
+11566,2016_International_Charlotte,2016,American,CWS,International,Charlotte,Charlotte,AAA,Charlotte_NC_US,Charlotte,NC,US,35.227087,-80.843127
+11567,2016_International_Columbus,2016,American,CLE,International,Columbus,Columbus,AAA,Columbus_OH_US,Columbus,OH,US,39.96226,-83.000706
+11568,2016_International_Durham,2016,American,TB,International,Durham,Durham,AAA,Durham_NC_US,Durham,NC,US,35.994033,-78.898619
+11569,2016_International_Gwinnett,2016,National,ATL,International,Gwinnett,Gwinnett,AAA,Gwinnett_GA_US,Gwinnett,GA,US,32.329381,-83.113737
+11570,2016_International_Indianapolis,2016,National,PIT,International,Indianapolis,Indianapolis,AAA,Indianapolis_IN_US,Indianapolis,IN,US,39.768333,-86.15835
+11571,2016_International_LehighValley,2016,National,PHI,International,Lehigh Valley,Lehigh Valley,AAA,Allentown_PA_US,Allentown,PA,US,40.602206,-75.471279
+11572,2016_International_Louisville,2016,National,CIN,International,Louisville,Louisville,AAA,Louisville_KY_US,Louisville,KY,US,38.254238,-85.759407
+11573,2016_International_Norfolk,2016,American,BAL,International,Norfolk,Norfolk,AAA,Norfolk_VA_US,Norfolk,VA,US,36.846288,-76.292925
+11574,2016_International_Pawtucket,2016,American,BOS,International,Pawtucket,Pawtucket,AAA,Pawtucket_RI_US,Pawtucket,RI,US,41.878711,-71.382556
+11575,2016_International_Rochester,2016,American,MIN,International,Rochester,Rochester,AAA,Rochester_NY_US,Rochester,NY,US,43.157285,-77.615214
+11576,2016_International_Scranton/Wilkes-Barre,2016,American,NYY,International,Scranton/Wilkes-Barre,Scranton/Wilkes-Barre,AAA,Moosic_PA_US,Moosic,PA,US,41.353413,-75.738248
+11577,2016_International_Syracuse,2016,National,WSH,International,Syracuse,Syracuse,AAA,Syracuse_NY_US,Syracuse,NY,US,43.048122,-76.147424
+11578,2016_International_Toledo,2016,American,DET,International,Toledo,Toledo,AAA,Toledo_OH_US,Toledo,OH,US,41.678675,-83.512728
+11579,2016_Midwest_Beloit,2016,American,OAK,Midwest,Beloit,Beloit,A,Beloit_MI_US,Beloit,MI,US,39.458684,-98.108282
+11580,2016_Midwest_BowlingGreen,2016,American,TB,Midwest,Bowling Green,Bowling Green,A,BowlingGreen_KY_US,Bowling Green,KY,US,36.99032,-86.443602
+11581,2016_Midwest_Burlington,2016,American,LAA,Midwest,Burlington,Burlington,A,Burlington_IA_US,Burlington,IA,US,40.807539,-91.112923
+11582,2016_Midwest_CedarRapids,2016,American,MIN,Midwest,Cedar Rapids,Cedar Rapids,A,CedarRapids_IA_US,Cedar Rapids,IA,US,41.975887,-91.670405
+11583,2016_Midwest_Clinton,2016,American,SEA,Midwest,Clinton,Clinton,A,Clinton_IA_US,Clinton,IA,US,41.844474,-90.188738
+11584,2016_Midwest_Dayton,2016,National,CIN,Midwest,Dayton,Dayton,A,Dayton_OH_US,Dayton,OH,US,39.758948,-84.191607
+11585,2016_Midwest_FortWayne,2016,National,SD,Midwest,Fort Wayne,Fort Wayne,A,FortWayne_IN_US,Fort Wayne,IN,US,41.07999,-85.138601
+11586,2016_Midwest_GreatLakes,2016,National,LAD,Midwest,Great Lakes,Great Lakes,A,Midland_MI_US,Midland,MI,US,35.227366,-80.500622
+11587,2016_Midwest_KaneCounty,2016,National,ARI,Midwest,Kane County,Kane County,A,Geneva_IL_US,Geneva,IL,US,41.887528,-88.305352
+11588,2016_Midwest_LakeCounty,2016,American,CLE,Midwest,Lake County,Lake County,A,Eastlake_OH_US,Eastlake,OH,US,41.659241,-81.432209
+11589,2016_Midwest_Lansing,2016,American,TOR,Midwest,Lansing,Lansing,A,Lansing_MI_US,Lansing,MI,US,42.733771,-84.55538
+11590,2016_Midwest_Peoria,2016,National,STL,Midwest,Peoria,Peoria,A,Peoria_IL_US,Peoria,IL,US,40.693861,-89.589101
+11591,2016_Midwest_QuadCities,2016,American,HOU,Midwest,Quad Cities,Quad Cities,A,Davenport_IA_US,Davenport,IA,US,41.523644,-90.577637
+11592,2016_Midwest_SouthBend,2016,National,CHC,Midwest,South Bend,South Bend,A,SouthBend_IN_US,South Bend,IN,US,41.683381,-86.250007
+11593,2016_Midwest_WestMichigan,2016,American,DET,Midwest,West Michigan,West Michigan,A,ComstockPark_MI_US,Comstock Park,MI,US,39.78373,-100.445882
+11594,2016_Midwest_Wisconsin,2016,National,MIL,Midwest,Wisconsin,Wisconsin,A,Appleton_WI_US,Appleton,WI,US,44.261134,-88.40676
+11595,2016_National_ARI,2016, , ,National,Arizona,ARI,MLB,AZ_US, ,AZ,US,34.395342,-111.763275
+11596,2016_National_ATL,2016, , ,National,Atlanta,ATL,MLB,Atlanta_GA_US,Atlanta,GA,US,33.749099,-84.390185
+11597,2016_National_CHC,2016, , ,National,Chicago,CHC,MLB,Chicago_IL_US,Chicago,IL,US,41.875555,-87.624421
+11598,2016_National_CIN,2016, , ,National,Cincinnati,CIN,MLB,Cincinnati_OH_US,Cincinnati,OH,US,39.101454,-84.51246
+11599,2016_National_COL,2016, , ,National,Colorado,COL,MLB,Denver_CO_US,Denver,CO,US,39.739154,-104.984703
+11600,2016_National_LAD,2016, , ,National,Los Angeles,LAD,MLB,LosAngeles_CA_US,Los Angeles,CA,US,34.054394,-118.243941
+11601,2016_National_MIA,2016, , ,National,Miami,MIA,MLB,Miami_FL_US,Miami,FL,US,25.774266,-80.193659
+11602,2016_National_MIL,2016, , ,National,Milwaukee,MIL,MLB,Milwaukee_WI_US,Milwaukee,WI,US,43.034993,-87.922497
+11603,2016_National_NYM,2016, , ,National,New York,NYM,MLB,NewYork_NY_US,New York,NY,US,43.102443,-75.291082
+11604,2016_National_PHI,2016, , ,National,Philadelphia,PHI,MLB,Philadelphia_PA_US,Philadelphia,PA,US,39.952399,-75.16359
+11605,2016_National_PIT,2016, , ,National,Pittsburgh,PIT,MLB,Pittsburgh_PA_US,Pittsburgh,PA,US,40.441694,-79.990086
+11606,2016_National_SD,2016, , ,National,San Diego,SD,MLB,SanDiego_CA_US,San Diego,CA,US,32.717421,-117.162771
+11607,2016_National_SF,2016, , ,National,San Francisco,SF,MLB,SanFrancisco_CA_US,San Francisco,CA,US,37.779277,-122.41927
+11608,2016_National_STL,2016, , ,National,St. Louis,STL,MLB,StLouis_MO_US,St. Louis,MO,US,38.627273,-90.197889
+11609,2016_National_WSH,2016, , ,National,Washington,WSH,MLB,Washington_DC_US,Washington,DC,US,38.894955,-77.036646
+11610,2016_NewYork-Pennsylvania_Aberdeen,2016,American,BAL,New York-Pennsylvania,Aberdeen,Aberdeen,A-,Aberdeen_MD_US,Aberdeen,MD,US,39.509556,-76.16412
+11611,2016_NewYork-Pennsylvania_Auburn,2016,National,WSH,New York-Pennsylvania,Auburn,Auburn,A-,Auburn_NY_US,Auburn,NY,US,42.93202,-76.567203
+11612,2016_NewYork-Pennsylvania_Batavia,2016,National,MIA,New York-Pennsylvania,Batavia,Batavia,A-,Batavia_NY_US,Batavia,NY,US,42.998014,-78.187551
+11613,2016_NewYork-Pennsylvania_Brooklyn,2016,National,NYM,New York-Pennsylvania,Brooklyn,Brooklyn,A-,Brooklyn_NY_US,Brooklyn,NY,US,40.650104,-73.949582
+11614,2016_NewYork-Pennsylvania_Connecticut,2016,American,DET,New York-Pennsylvania,Connecticut,Connecticut,A-,Norwich_CT_US,Norwich,CT,US,41.524265,-72.07591
+11615,2016_NewYork-Pennsylvania_HudsonValley,2016,American,TB,New York-Pennsylvania,Hudson Valley,Hudson Valley,A-,WappingersFalls_NY_US,Wappingers Falls,NY,US,41.596564,-73.91121
+11616,2016_NewYork-Pennsylvania_Lowell,2016,American,BOS,New York-Pennsylvania,Lowell,Lowell,A-,Lowell_MA_US,Lowell,MA,US,42.633425,-71.316172
+11617,2016_NewYork-Pennsylvania_MahoningValley,2016,American,CLE,New York-Pennsylvania,Mahoning Valley,Mahoning Valley,A-,Niles_OH_US,Niles,OH,US,41.182835,-80.765358
+11618,2016_NewYork-Pennsylvania_StateCollege,2016,National,STL,New York-Pennsylvania,State College,State College,A-,StateCollege_PA_US,State College,PA,US,40.794026,-77.860697
+11619,2016_NewYork-Pennsylvania_StatenIsland,2016,American,NYY,New York-Pennsylvania,Staten Island,Staten Island,A-,StatenIsland_NY_US,Staten Island,NY,US,40.583456,-74.149605
+11620,2016_NewYork-Pennsylvania_Tri-City,2016,American,HOU,New York-Pennsylvania,Tri-City,Tri-City,A-,Troy_NY_US,Troy,NY,US,42.728412,-73.691785
+11621,2016_NewYork-Pennsylvania_Vermont,2016,American,OAK,New York-Pennsylvania,Vermont,Vermont,A-,Burlington_VT_US,Burlington,VT,US,44.472399,-73.211494
+11622,2016_NewYork-Pennsylvania_WestVirginia,2016,National,PIT,New York-Pennsylvania,West Virginia,West Virginia,A-,Charleston_WV_US,Charleston,WV,US,38.350599,-81.633281
+11623,2016_NewYork-Pennsylvania_Williamsport,2016,National,PHI,New York-Pennsylvania,Williamsport,Williamsport,A-,Williamsport_PA_US,Williamsport,PA,US,41.249329,-77.002767
+11624,2016_Northwest_Boise,2016,National,COL,Northwest,Boise,Boise,A-,Boise_ID_US,Boise,ID,US,43.61656,-116.200835
+11625,2016_Northwest_Eugene,2016,National,CHC,Northwest,Eugene,Eugene,A-,Eugene_OR_US,Eugene,OR,US,44.101181,-123.152384
+11626,2016_Northwest_Everett,2016,American,SEA,Northwest,Everett,Everett,A-,Everett_WA_US,Everett,WA,US,47.967306,-122.2014
+11627,2016_Northwest_Hillsboro,2016,National,ARI,Northwest,Hillsboro,Hillsboro,A-,Hillsboro_OR_US,Hillsboro,OR,US,45.522894,-122.989827
+11628,2016_Northwest_Salem-Keizer,2016,National,SF,Northwest,Salem-Keizer,Salem-Keizer,A-,Keizer_OR_US,Keizer,OR,US,44.995808,-123.019717
+11629,2016_Northwest_Spokane,2016,American,TEX,Northwest,Spokane,Spokane,A-,Spokane_WA_US,Spokane,WA,US,47.65886,-117.424713
+11630,2016_Northwest_Tri-City,2016,National,SD,Northwest,Tri-City,Tri-City,A-,Troy_NY_US,Troy,NY,US,42.728412,-73.691785
+11631,2016_Northwest_Vancouver,2016,American,TOR,Northwest,Vancouver,Vancouver,A-,Vancouver_BC_CA,Vancouver,BC,CA,49.260894,-123.113938
+11632,2016_PacificCoast_Albuquerque,2016,National,COL,Pacific Coast,Albuquerque,Albuquerque,AAA,Albuquerque_NM_US,Albuquerque,NM,US,35.084103,-106.650985
+11633,2016_PacificCoast_ColoradoSprings,2016,National,MIL,Pacific Coast,Colorado Springs,Colorado Springs,AAA,ColoradoSprings_CO_US,Colorado Springs,CO,US,38.833958,-104.825348
+11634,2016_PacificCoast_ElPaso,2016,National,SD,Pacific Coast,El Paso,El Paso,AAA,ElPaso_TX_US,El Paso,TX,US,31.760037,-106.487287
+11635,2016_PacificCoast_Fresno,2016,American,HOU,Pacific Coast,Fresno,Fresno,AAA,Fresno_CA_US,Fresno,CA,US,36.72953,-119.708861
+11636,2016_PacificCoast_Iowa,2016,National,CHC,Pacific Coast,Iowa,Iowa,AAA,DesMoines_IA_US,Des Moines,IA,US,41.591064,-93.603715
+11637,2016_PacificCoast_LasVegas,2016,National,NYM,Pacific Coast,Las Vegas,Las Vegas,AAA,LasVegas_NV_US,Las Vegas,NV,US,36.166286,-115.149225
+11638,2016_PacificCoast_Memphis,2016,National,STL,Pacific Coast,Memphis,Memphis,AAA,Memphis_TN_US,Memphis,TN,US,35.149022,-90.051628
+11639,2016_PacificCoast_Nashville,2016,American,OAK,Pacific Coast,Nashville,Nashville,AAA,Nashville_TN_US,Nashville,TN,US,36.16223,-86.774353
+11640,2016_PacificCoast_NewOrleans,2016,National,MIA,Pacific Coast,New Orleans,New Orleans,AAA,NewOrleans_LA_US,New Orleans,LA,US,29.949932,-90.070116
+11641,2016_PacificCoast_OklahomaCity,2016,National,LAD,Pacific Coast,Oklahoma City,Oklahoma City,AAA,OklahomaCity_OK_US,Oklahoma City,OK,US,35.472989,-97.517054
+11642,2016_PacificCoast_Omaha,2016,American,KC,Pacific Coast,Omaha,Omaha,AAA,Omaha_NE_US,Omaha,NE,US,41.258732,-95.937873
+11643,2016_PacificCoast_Reno,2016,National,ARI,Pacific Coast,Reno,Reno,AAA,Reno_NV_US,Reno,NV,US,39.52927,-119.813674
+11644,2016_PacificCoast_RoundRock,2016,American,TEX,Pacific Coast,Round Rock,Round Rock,AAA,RoundRock_TX_US,Round Rock,TX,US,30.508235,-97.678893
+11645,2016_PacificCoast_Sacramento,2016,National,SF,Pacific Coast,Sacramento,Sacramento,AAA,Sacramento_CA_US,Sacramento,CA,US,38.581572,-121.4944
+11646,2016_PacificCoast_SaltLake,2016,American,LAA,Pacific Coast,Salt Lake,Salt Lake,AAA,SaltLakeCity_UT_US,Salt Lake City,UT,US,40.767013,-111.890431
+11647,2016_PacificCoast_Tacoma,2016,American,SEA,Pacific Coast,Tacoma,Tacoma,AAA,Tacoma_WA_US,Tacoma,WA,US,47.24958,-122.439875
+11648,2016_Pioneer_Billings,2016,National,CIN,Pioneer,Billings,Billings,Rk,Billings_MT_US,Billings,MT,US,45.787496,-108.49607
+11649,2016_Pioneer_GrandJunction,2016,National,COL,Pioneer,Grand Junction,Grand Junction,Rk,GrandJunction_CO_US,Grand Junction,CO,US,39.063956,-108.550732
+11650,2016_Pioneer_GreatFalls,2016,American,CWS,Pioneer,Great Falls,Great Falls,Rk,GreatFalls_MT_US,Great Falls,MT,US,47.504885,-111.291891
+11651,2016_Pioneer_Helena,2016,National,MIL,Pioneer,Helena,Helena,Rk,Helena_MT_US,Helena,MT,US,46.592712,-112.036109
+11652,2016_Pioneer_IdahoFalls,2016,American,KC,Pioneer,Idaho Falls,Idaho Falls,Rk,IdahoFalls_ID_US,Idaho Falls,ID,US,43.493079,-112.044349
+11653,2016_Pioneer_Missoula,2016,National,ARI,Pioneer,Missoula,Missoula,Rk,Missoula_MT_US,Missoula,MT,US,46.87008,-113.99528
+11654,2016_Pioneer_Ogden,2016,National,LAD,Pioneer,Ogden,Ogden,Rk,Ogden_UT_US,Ogden,UT,US,41.223005,-111.973843
+11655,2016_Pioneer_Orem,2016,American,LAA,Pioneer,Orem,Orem,Rk,Orem_UT_US,Orem,UT,US,40.297519,-111.694468
+11656,2016_SouthAtlantic_Asheville,2016,National,COL,South Atlantic,Asheville,Asheville,A,Asheville_NC_US,Asheville,NC,US,35.60095,-82.554016
+11657,2016_SouthAtlantic_Augusta,2016,National,SF,South Atlantic,Augusta,Augusta,A,Augusta_GA_US,Augusta,GA,US,33.470971,-81.974843
+11658,2016_SouthAtlantic_Charleston,2016,American,NYY,South Atlantic,Charleston,Charleston,A,Charleston_SC_US,Charleston,SC,US,32.787601,-79.940273
+11659,2016_SouthAtlantic_Columbia,2016,National,NYM,South Atlantic,Columbia,Columbia,A,Columbia_SC_US,Columbia,SC,US,34.000749,-81.034331
+11660,2016_SouthAtlantic_Delmarva,2016,American,BAL,South Atlantic,Delmarva,Delmarva,A,Salisbury_MD_US,Salisbury,MD,US,38.366211,-75.600888
+11661,2016_SouthAtlantic_Greensboro,2016,National,MIA,South Atlantic,Greensboro,Greensboro,A,Greensboro_NC_US,Greensboro,NC,US,36.072636,-79.791975
+11662,2016_SouthAtlantic_Greenville,2016,American,BOS,South Atlantic,Greenville,Greenville,A,Greenville_SC_US,Greenville,SC,US,34.851354,-82.398488
+11663,2016_SouthAtlantic_Hagerstown,2016,National,WSH,South Atlantic,Hagerstown,Hagerstown,A,Hagerstown_MD_US,Hagerstown,MD,US,39.641922,-77.720264
+11664,2016_SouthAtlantic_Hickory,2016,American,TEX,South Atlantic,Hickory,Hickory,A,Hickory_NC_US,Hickory,NC,US,35.73319,-81.341201
+11665,2016_SouthAtlantic_Kannapolis,2016,American,CWS,South Atlantic,Kannapolis,Kannapolis,A,Kannapolis_NC_US,Kannapolis,NC,US,35.487361,-80.621734
+11666,2016_SouthAtlantic_Lakewood,2016,National,PHI,South Atlantic,Lakewood,Lakewood,A,Lakewood_NJ_US,Lakewood,NJ,US,40.097893,-74.217643
+11667,2016_SouthAtlantic_Lexington,2016,American,KC,South Atlantic,Lexington,Lexington,A,Lexington_KY_US,Lexington,KY,US,38.046407,-84.497039
+11668,2016_SouthAtlantic_Rome,2016,National,ATL,South Atlantic,Rome,Rome,A,Rome_GA_US,Rome,GA,US,34.257038,-85.164673
+11669,2016_SouthAtlantic_WestVirginia,2016,National,PIT,South Atlantic,West Virginia,West Virginia,A,Charleston_WV_US,Charleston,WV,US,38.350599,-81.633281
+11670,2016_Southern_Biloxi,2016,National,MIL,Southern,Biloxi,Biloxi,AA,Biloxi_MS_US,Biloxi,MS,US,30.374673,-88.845943
+11671,2016_Southern_Birmingham,2016,American,CWS,Southern,Birmingham,Birmingham,AA,Birmingham_AL_US,Birmingham,AL,US,33.520682,-86.802433
+11672,2016_Southern_Chattanooga,2016,American,MIN,Southern,Chattanooga,Chattanooga,AA,Chattanooga_TN_US,Chattanooga,TN,US,35.04563,-85.30968
+11673,2016_Southern_Jackson,2016,American,SEA,Southern,Jackson,Jackson,AA,Jackson_MS_US,Jackson,MS,US,32.299038,-90.184769
+11674,2016_Southern_Jacksonville,2016,National,MIA,Southern,Jacksonville,Jacksonville,AA,Jacksonville_FL_US,Jacksonville,FL,US,30.332184,-81.655651
+11675,2016_Southern_Mississippi,2016,National,ATL,Southern,Mississippi,Mississippi,AA,Jackson_MS_US,Jackson,MS,US,32.299038,-90.184769
+11676,2016_Southern_Mobile,2016,National,ARI,Southern,Mobile,Mobile,AA,Mobile_AL_US,Mobile,AL,US,30.694357,-88.043054
+11677,2016_Southern_Montgomery,2016,American,TB,Southern,Montgomery,Montgomery,AA,Montgomery_AL_US,Montgomery,AL,US,32.366966,-86.300648
+11678,2016_Southern_Pensacola,2016,National,CIN,Southern,Pensacola,Pensacola,AA,Pensacola_FL_US,Pensacola,FL,US,30.421309,-87.216915
+11679,2016_Southern_Tennessee,2016,National,CHC,Southern,Tennessee,Tennessee,AA,Knoxville_TN_US,Knoxville,TN,US,35.960395,-83.921026
+11680,2016_Texas_Arkansas,2016,American,LAA,Texas,Arkansas,Arkansas,AA,LittleRock_AR_US,Little Rock,AR,US,34.746481,-92.289595
+11681,2016_Texas_CorpusChristi,2016,American,HOU,Texas,Corpus Christi,Corpus Christi,AA,CorpusChristi_TX_US,Corpus Christi,TX,US,27.800254,-97.395574
+11682,2016_Texas_Frisco,2016,American,TEX,Texas,Frisco,Frisco,AA,Frisco_TX_US,Frisco,TX,US,33.150674,-96.823612
+11683,2016_Texas_Midland,2016,American,OAK,Texas,Midland,Midland,AA,Midland_TX_US,Midland,TX,US,31.997366,-102.077948
+11684,2016_Texas_NorthwestArkansas,2016,American,KC,Texas,Northwest Arkansas,Northwest Arkansas,AA,Springdale_AR_US,Springdale,AR,US,36.186744,-94.128814
+11685,2016_Texas_SanAntonio,2016,National,SD,Texas,San Antonio,San Antonio,AA,SanAntonio_TX_US,San Antonio,TX,US,29.4246,-98.49514
+11686,2016_Texas_Springfield,2016,National,STL,Texas,Springfield,Springfield,AA,Springfield_MO_US,Springfield,MO,US,37.215331,-93.298252
+11687,2016_Texas_Tulsa,2016,National,LAD,Texas,Tulsa,Tulsa,AA,Tulsa_OK_US,Tulsa,OK,US,36.155681,-95.992911
