@@ -1,0 +1,1192 @@
+﻿OBJECTID,id_person,Season,classifica,league_nam,team_name,team_id,City_PoB,State_Pob,State_Abbr,Country_Po,Region_PoB,Group_PoB,PoB_Lat,PoB_Long
+227,675,1960,MLB,National,CIN,1960_National_CIN,Matanzas_Matanzas_CU,Matanzas, ,CU,Caribbean,Latin America and the Caribbean,23.046993,-81.579315
+243,675,1960,MLB,National,CIN,1960_National_CIN,Matanzas_Matanzas_CU,Matanzas, ,CU,Caribbean,Latin America and the Caribbean,23.046993,-81.579315
+464,1037,1960,MLB,American,DET,1960_American_DET,Scranton_PA_US,Scranton,PA,US,Northern America,Northern America,41.408687,-75.662129
+470,1037,1960,MLB,American,DET,1960_American_DET,Scranton_PA_US,Scranton,PA,US,Northern America,Northern America,41.408687,-75.662129
+483,1050,1960,MLB,National,SF,1960_National_SF,Ponce_PR, ,Ponce,PR,Caribbean,Latin America and the Caribbean,18.106332,-67.89443
+495,1050,1960,MLB,National,SF,1960_National_SF,Ponce_PR, ,Ponce,PR,Caribbean,Latin America and the Caribbean,18.106332,-67.89443
+1233,2743,1960,MLB,American,KCA/OAK,1960_American_KCA/OAK,GrassValley_CA_US,Grass Valley,CA,US,Northern America,Northern America,39.208666,-121.053123
+1235,2743,1960,MLB,American,KC,1960_American_KCA/OAK,GrassValley_CA_US,Grass Valley,CA,US,Northern America,Northern America,39.208666,-121.053123
+1685,3299,1960,MLB,American,NYY,1960_American_NYY, , , , , , ,0,0
+1692,3299,1960,MLB,American,NYY,1960_American_NYY, , , , , , ,0,0
+2192,4176,1960,MLB,American,CWS,1960_American_CWS,Concord_NC_US,Concord,NC,US,Northern America,Northern America,35.408752,-80.579511
+2195,4176,1960,MLB,American,CWS,1960_American_CWS,Concord_NC_US,Concord,NC,US,Northern America,Northern America,35.408752,-80.579511
+2200,4186,1960,MLB,National,PIT,1960_National_PIT,Roulette_PA_US,Roulette,PA,US,Northern America,Northern America,41.780065,-78.153898
+2205,4186,1960,MLB,National,PIT,1960_National_PIT,Roulette_PA_US,Roulette,PA,US,Northern America,Northern America,41.780065,-78.153898
+2813,5132,1960,MLB,National,PIT,1960_National_PIT,Springfield_IL_US,Springfield,IL,US,Northern America,Northern America,39.798976,-89.644369
+2827,5132,1960,MLB,National,PIT,1960_National_PIT,Springfield_IL_US,Springfield,IL,US,Northern America,Northern America,39.798976,-89.644369
+3434,6015,1960,MLB,American,DET,1960_American_DET,CalhounFalls_SC_US,Calhoun Falls,SC,US,Northern America,Northern America,34.092338,-82.595687
+3436,6015,1960,MLB,American,DET,1960_American_DET,CalhounFalls_SC_US,Calhoun Falls,SC,US,Northern America,Northern America,34.092338,-82.595687
+3530,6110,1960,MLB,American,KCA/OAK,1960_American_KCA/OAK,Lopez_PA_US,Lopez,PA,US,Northern America,Northern America,41.457854,-76.333549
+3531,6110,1960,MLB,National,PIT,1960_National_PIT,Lopez_PA_US,Lopez,PA,US,Northern America,Northern America,41.457854,-76.333549
+3532,6110,1960,MLB,American,KC,1960_American_KCA/OAK,Lopez_PA_US,Lopez,PA,US,Northern America,Northern America,41.457854,-76.333549
+3533,6110,1960,MLB,National,PIT,1960_National_PIT,Lopez_PA_US,Lopez,PA,US,Northern America,Northern America,41.457854,-76.333549
+3665,6318,1960,MLB,National,PIT,1960_National_PIT,Medway_OH_US,Medway,OH,US,Northern America,Northern America,39.882004,-84.009657
+3669,6318,1960,MLB,National,PIT,1960_National_PIT,Medway_OH_US,Medway,OH,US,Northern America,Northern America,39.882004,-84.009657
+3706,6373,1960,MLB,American,CWS,1960_American_CWS,Meadows_MD_US,Meadows,MD,US,Northern America,Northern America,38.815669,-76.849416
+3710,6373,1960,MLB,American,WSH/MIN,1960_American_WSH/MIN,Meadows_MD_US,Meadows,MD,US,Northern America,Northern America,38.815669,-76.849416
+3711,6373,1960,MLB,American,CWS,1960_American_CWS,Meadows_MD_US,Meadows,MD,US,Northern America,Northern America,38.815669,-76.849416
+3715,6373,1960,MLB,American,WSH,1960_American_WSH/MIN,Meadows_MD_US,Meadows,MD,US,Northern America,Northern America,38.815669,-76.849416
+3761,6579,1960,MLB,National,MWB/ATL,1960_National_MWB/ATL,Brooklyn_NY_US,Brooklyn,NY,US,Northern America,Northern America,40.650104,-73.949582
+3776,6579,1960,MLB,National,MIL,1960_National_MWB/ATL,Brooklyn_NY_US,Brooklyn,NY,US,Northern America,Northern America,40.650104,-73.949582
+3980,6868,1960,MLB,National,MWB/ATL,1960_National_MWB/ATL,Coushatta_LA_US,Coushatta,LA,US,Northern America,Northern America,32.014883,-93.342116
+3985,6868,1960,MLB,National,MIL,1960_National_MWB/ATL,Coushatta_LA_US,Coushatta,LA,US,Northern America,Northern America,32.014883,-93.342116
+4040,7026,1960,MLB,American,BOS,1960_American_BOS,Sturgis_SD_US,Sturgis,SD,US,Northern America,Northern America,44.409707,-103.509079
+4043,7026,1960,MLB,American,CLE,1960_American_CLE,Sturgis_SD_US,Sturgis,SD,US,Northern America,Northern America,44.409707,-103.509079
+4047,7026,1960,MLB,American,CLE,1960_American_CLE,Sturgis_SD_US,Sturgis,SD,US,Northern America,Northern America,44.409707,-103.509079
+4120,7120,1960,MLB,American,NYY,1960_American_NYY,Chicago_IL_US,Chicago,IL,US,Northern America,Northern America,41.875555,-87.624421
+4129,7120,1960,MLB,American,NYY,1960_American_NYY,Chicago_IL_US,Chicago,IL,US,Northern America,Northern America,41.875555,-87.624421
+4219,7211,1960,MLB,National,PIT,1960_National_PIT,Portsmouth_OH_US,Portsmouth,OH,US,Northern America,Northern America,38.731743,-82.997674
+4221,7211,1960,MLB,National,PIT,1960_National_PIT,Portsmouth_OH_US,Portsmouth,OH,US,Northern America,Northern America,38.731743,-82.997674
+4260,7234,1960,MLB,American,NYY,1960_American_NYY,Catskill_NY_US,Catskill,NY,US,Northern America,Northern America,42.21731,-73.864573
+4268,7234,1960,MLB,American,NYY,1960_American_NYY,Catskill_NY_US,Catskill,NY,US,Northern America,Northern America,42.21731,-73.864573
+4358,7294,1960,MLB,National,PIT,1960_National_PIT,HazelPark_MI_US,Hazel Park,MI,US,Northern America,Northern America,42.462014,-83.103569
+4365,7294,1960,MLB,National,PIT,1960_National_PIT,HazelPark_MI_US,Hazel Park,MI,US,Northern America,Northern America,42.462014,-83.103569
+4458,7461,1960,MLB,National,SF,1960_National_SF,Whitmire_SC_US,Whitmire,SC,US,Northern America,Northern America,34.502915,-81.611493
+4466,7461,1960,MLB,National,SF,1960_National_SF,Whitmire_SC_US,Whitmire,SC,US,Northern America,Northern America,34.502915,-81.611493
+4769,7875,1960,MLB,National,STL,1960_National_STL,Horace_NE_US,Horace,NE,US,Northern America,Northern America,41.543067,-98.673412
+4773,7875,1960,MLB,National,STL,1960_National_STL,Horace_NE_US,Horace,NE,US,Northern America,Northern America,41.543067,-98.673412
+4884,8086,1960,MLB,American,NYY,1960_American_NYY,KansasCity_MO_US,Kansas City,MO,US,Northern America,Northern America,39.084469,-94.56303
+4886,8086,1960,MLB,American,NYY,1960_American_NYY,KansasCity_MO_US,Kansas City,MO,US,Northern America,Northern America,39.084469,-94.56303
+4894,8138,1960,MLB,American,BOS,1960_American_BOS,SanDiego_CA_US,San Diego,CA,US,Northern America,Northern America,32.717421,-117.162771
+4895,8138,1960,MLB,National,MWB/ATL,1960_National_MWB/ATL,SanDiego_CA_US,San Diego,CA,US,Northern America,Northern America,32.717421,-117.162771
+4896,8138,1960,MLB,National,MIL,1960_National_MWB/ATL,SanDiego_CA_US,San Diego,CA,US,Northern America,Northern America,32.717421,-117.162771
+4925,8256,1960,MLB,National,PIT,1960_National_PIT,Winona_MN_US,Winona,MN,US,Northern America,Northern America,44.049963,-91.639315
+4928,8256,1960,MLB,National,PIT,1960_National_PIT,Winona_MN_US,Winona,MN,US,Northern America,Northern America,44.049963,-91.639315
+4954,8297,1960,MLB,National,PIT,1960_National_PIT,Chicago_IL_US,Chicago,IL,US,Northern America,Northern America,41.875555,-87.624421
+4958,8297,1960,MLB,National,PIT,1960_National_PIT,Chicago_IL_US,Chicago,IL,US,Northern America,Northern America,41.875555,-87.624421
+5054,8429,1960,MLB,National,STL,1960_National_STL,Paterson_NJ_US,Paterson,NJ,US,Northern America,Northern America,40.916765,-74.171811
+5062,8429,1960,MLB,National,STL,1960_National_STL,Paterson_NJ_US,Paterson,NJ,US,Northern America,Northern America,40.916765,-74.171811
+5188,8608,1960,MLB,National,PIT,1960_National_PIT,SanFrancisco_CA_US,San Francisco,CA,US,Northern America,Northern America,37.779277,-122.41927
+5194,8608,1960,MLB,National,PIT,1960_National_PIT,SanFrancisco_CA_US,San Francisco,CA,US,Northern America,Northern America,37.779277,-122.41927
+5250,8712,1960,MLB,American,NYY,1960_American_NYY,SanFrancisco_CA_US,San Francisco,CA,US,Northern America,Northern America,37.779277,-122.41927
+5251,8712,1960,MLB,American,NYY,1960_American_NYY,SanFrancisco_CA_US,San Francisco,CA,US,Northern America,Northern America,37.779277,-122.41927
+5262,8769,1960,MLB,American,KCA/OAK,1960_American_KCA/OAK,Oak_NE_US,Oak,NE,US,Northern America,Northern America,40.236952,-97.903374
+5267,8769,1960,MLB,American,KC,1960_American_KCA/OAK,Oak_NE_US,Oak,NE,US,Northern America,Northern America,40.236952,-97.903374
+5540,9029,1960,MLB,American,DET,1960_American_DET,Nanticoke_PA_US,Nanticoke,PA,US,Northern America,Northern America,41.20536,-76.004923
+5543,9029,1960,MLB,American,DET,1960_American_DET,Nanticoke_PA_US,Nanticoke,PA,US,Northern America,Northern America,41.20536,-76.004923
+5704,9150,1960,MLB,American,KCA/OAK,1960_American_KCA/OAK,Detroit_MI_US,Detroit,MI,US,Northern America,Northern America,42.348664,-83.056737
+5709,9150,1960,MLB,American,KC,1960_American_KCA/OAK,Detroit_MI_US,Detroit,MI,US,Northern America,Northern America,42.348664,-83.056737
+5723,9163,1960,MLB,American,KCA/OAK,1960_American_KCA/OAK,StLouis_MO_US,St. Louis,MO,US,Northern America,Northern America,38.627273,-90.197889
+5726,9163,1960,MLB,American,KC,1960_American_KCA/OAK,StLouis_MO_US,St. Louis,MO,US,Northern America,Northern America,38.627273,-90.197889
+6326,10052,1960,MLB,National,SF,1960_National_SF,Potosi_MO_US,Potosi,MO,US,Northern America,Northern America,37.936438,-90.787909
+6327,10052,1960,MLB,National,SF,1960_National_SF,Potosi_MO_US,Potosi,MO,US,Northern America,Northern America,37.936438,-90.787909
+6784,10923,1960,MLB,National,PIT,1960_National_PIT,KansasCity_MO_US,Kansas City,MO,US,Northern America,Northern America,39.084469,-94.56303
+6791,10923,1960,MLB,National,PIT,1960_National_PIT,KansasCity_MO_US,Kansas City,MO,US,Northern America,Northern America,39.084469,-94.56303
+7201,11697,1960,MLB,National,STL,1960_National_STL,Mayaguez_PR,Mayaguez, ,PR,Caribbean,Latin America and the Caribbean,39.78373,-100.445882
+7203,11697,1960,MLB,National,STL,1960_National_STL,Mayaguez_PR,Mayaguez, ,PR,Caribbean,Latin America and the Caribbean,39.78373,-100.445882
+7541,12240,1960,MLB,National,CIN,1960_National_CIN,Waukegan_IL_US,Waukegan,IL,US,Northern America,Northern America,42.363633,-87.844794
+7546,12240,1960,MLB,National,CIN,1960_National_CIN,Waukegan_IL_US,Waukegan,IL,US,Northern America,Northern America,42.363633,-87.844794
+7553,12243,1960,MLB,American,DET,1960_American_DET,Azusa_CA_US,Azusa,CA,US,Northern America,Northern America,34.133875,-117.905605
+7564,12243,1960,MLB,American,DET,1960_American_DET,Azusa_CA_US,Azusa,CA,US,Northern America,Northern America,34.133875,-117.905605
+7615,12334,1960,MLB,American,CLE,1960_American_CLE,Minneapolis_MN_US,Minneapolis,MN,US,Northern America,Northern America,44.9773,-93.265469
+7616,12334,1960,MLB,American,CLE,1960_American_CLE,Minneapolis_MN_US,Minneapolis,MN,US,Northern America,Northern America,44.9773,-93.265469
+8536,13768,1960,MLB,National,LAD,1960_National_LAD,Charleston_SC_US,Charleston,SC,US,Northern America,Northern America,32.787601,-79.940273
+8548,13768,1960,MLB,National,LAD,1960_National_LAD,Charleston_SC_US,Charleston,SC,US,Northern America,Northern America,32.787601,-79.940273
+8875,14284,1960,MLB,American,BOS,1960_American_BOS,Dungannon_VA_US,Dungannon,VA,US,Northern America,Northern America,36.828056,-82.467432
+8924,14315,1960,MLB,National,LAD,1960_National_LAD,Witherbee_NY_US,Witherbee,NY,US,Northern America,Northern America,44.087585,-73.533404
+8934,14315,1960,MLB,National,LAD,1960_National_LAD,Witherbee_NY_US,Witherbee,NY,US,Northern America,Northern America,44.087585,-73.533404
+9015,14378,1960,MLB,National,CHC,1960_National_CHC,Brooklyn_NY_US,Brooklyn,NY,US,Northern America,Northern America,40.650104,-73.949582
+9018,14378,1960,MLB,National,CHC,1960_National_CHC,Brooklyn_NY_US,Brooklyn,NY,US,Northern America,Northern America,40.650104,-73.949582
+9159,14607,1960,MLB,American,CWS,1960_American_CWS,Argo_IL_US,Argo,IL,US,Northern America,Northern America,33.255118,-94.894934
+9161,14607,1960,MLB,American,CWS,1960_American_CWS,Argo_IL_US,Argo,IL,US,Northern America,Northern America,33.255118,-94.894934
+9231,14649,1960,MLB,National,CHC,1960_National_CHC,Berwyn_IL_US,Berwyn,IL,US,Northern America,Northern America,41.850587,-87.793668
+9235,14649,1960,MLB,National,CHC,1960_National_CHC,Berwyn_IL_US,Berwyn,IL,US,Northern America,Northern America,41.850587,-87.793668
+9281,14714,1960,MLB,National,LAD,1960_National_LAD,VanNuys_CA_US,Van Nuys,CA,US,Northern America,Northern America,34.186658,-118.448729
+9291,14714,1960,MLB,National,LAD,1960_National_LAD,VanNuys_CA_US,Van Nuys,CA,US,Northern America,Northern America,34.186658,-118.448729
+9486,14977,1960,MLB,National,CIN,1960_National_CIN,Bryan_TX_US,Bryan,TX,US,Northern America,Northern America,30.693444,-96.400802
+9492,14977,1960,MLB,National,CIN,1960_National_CIN,Bryan_TX_US,Bryan,TX,US,Northern America,Northern America,30.693444,-96.400802
+9784,15486,1960,MLB,National,MWB/ATL,1960_National_MWB/ATL,Comanche_OK_US,Comanche,OK,US,Northern America,Northern America,34.368975,-97.963924
+9785,15486,1960,MLB,National,PHI,1960_National_PHI,Comanche_OK_US,Comanche,OK,US,Northern America,Northern America,34.368975,-97.963924
+9786,15486,1960,MLB,National,MIL,1960_National_MWB/ATL,Comanche_OK_US,Comanche,OK,US,Northern America,Northern America,34.368975,-97.963924
+9787,15486,1960,MLB,National,PHI,1960_National_PHI,Comanche_OK_US,Comanche,OK,US,Northern America,Northern America,34.368975,-97.963924
+10002,15865,1960,MLB,American,CWS,1960_American_CWS,Chicago_IL_US,Chicago,IL,US,Northern America,Northern America,41.875555,-87.624421
+10007,15865,1960,MLB,American,CWS,1960_American_CWS,Chicago_IL_US,Chicago,IL,US,Northern America,Northern America,41.875555,-87.624421
+10127,16047,1960,MLB,National,MWB/ATL,1960_National_MWB/ATL,Buffalo_NY_US,Buffalo,NY,US,Northern America,Northern America,42.886717,-78.878392
+10134,16047,1960,MLB,National,MIL,1960_National_MWB/ATL,Buffalo_NY_US,Buffalo,NY,US,Northern America,Northern America,42.886717,-78.878392
+10624,16914,1960,MLB,American,NYY,1960_American_NYY,Milwaukee_WI_US,Milwaukee,WI,US,Northern America,Northern America,43.034993,-87.922497
+10630,16914,1960,MLB,American,NYY,1960_American_NYY,Milwaukee_WI_US,Milwaukee,WI,US,Northern America,Northern America,43.034993,-87.922497
+10657,16968,1960,MLB,National,PHI,1960_National_PHI,Boston_MA_US,Boston,MA,US,Northern America,Northern America,42.360482,-71.059568
+10669,16968,1960,MLB,National,PHI,1960_National_PHI,Boston_MA_US,Boston,MA,US,Northern America,Northern America,42.360482,-71.059568
+11020,17668,1960,MLB,National,STL,1960_National_STL,Oakland_CA_US,Oakland,CA,US,Northern America,Northern America,37.804456,-122.271356
+11034,17668,1960,MLB,National,STL,1960_National_STL,Oakland_CA_US,Oakland,CA,US,Northern America,Northern America,37.804456,-122.271356
+11135,17748,1960,MLB,American,CLE,1960_American_CLE,Richmond_VA_US,Richmond,VA,US,Northern America,Northern America,37.538509,-77.43428
+11136,17748,1960,MLB,American,DET,1960_American_DET,Richmond_VA_US,Richmond,VA,US,Northern America,Northern America,37.538509,-77.43428
+11137,17748,1960,MLB,American,KCA/OAK,1960_American_KCA/OAK,Richmond_VA_US,Richmond,VA,US,Northern America,Northern America,37.538509,-77.43428
+11142,17748,1960,MLB,American,CLE,1960_American_CLE,Richmond_VA_US,Richmond,VA,US,Northern America,Northern America,37.538509,-77.43428
+11143,17748,1960,MLB,American,DET,1960_American_DET,Richmond_VA_US,Richmond,VA,US,Northern America,Northern America,37.538509,-77.43428
+11144,17748,1960,MLB,American,KC,1960_American_KCA/OAK,Richmond_VA_US,Richmond,VA,US,Northern America,Northern America,37.538509,-77.43428
+11331,18052,1960,MLB,National,CHC,1960_National_CHC,OakPark_IL_US,Oak Park,IL,US,Northern America,Northern America,41.885032,-87.784502
+11339,18052,1960,MLB,National,CHC,1960_National_CHC,OakPark_IL_US,Oak Park,IL,US,Northern America,Northern America,41.885032,-87.784502
+11512,18234,1960,MLB,National,CHC,1960_National_CHC,Merced_CA_US,Merced,CA,US,Northern America,Northern America,37.302957,-120.484327
+11530,18234,1960,MLB,National,CHC,1960_National_CHC,Merced_CA_US,Merced,CA,US,Northern America,Northern America,37.302957,-120.484327
+11699,18648,1960,MLB,American,BOS,1960_American_BOS,Pittsburgh_PA_US,Pittsburgh,PA,US,Northern America,Northern America,40.441694,-79.990086
+11982,19142,1960,MLB,National,LAD,1960_National_LAD,Brooklyn_NY_US,Brooklyn,NY,US,Northern America,Northern America,40.650104,-73.949582
+11986,19142,1960,MLB,National,LAD,1960_National_LAD,Brooklyn_NY_US,Brooklyn,NY,US,Northern America,Northern America,40.650104,-73.949582
+11989,19157,1960,MLB,American,CWS,1960_American_CWS,Rosedale_NY_US,Rosedale,NY,US,Northern America,Northern America,40.890933,-73.793466
+11992,19157,1960,MLB,American,CWS,1960_American_CWS,Rosedale_NY_US,Rosedale,NY,US,Northern America,Northern America,40.890933,-73.793466
+12659,20257,1960,MLB,American,CWS,1960_American_CWS,Oakland_CA_US,Oakland,CA,US,Northern America,Northern America,37.804456,-122.271356
+12663,20257,1960,MLB,American,CWS,1960_American_CWS,Oakland_CA_US,Oakland,CA,US,Northern America,Northern America,37.804456,-122.271356
+12746,20449,1960,MLB,National,MWB/ATL,1960_National_MWB/ATL,Cherryfield_ME_US,Cherryfield,ME,US,Northern America,Northern America,44.607299,-67.925837
+12752,20449,1960,MLB,National,MIL,1960_National_MWB/ATL,Cherryfield_ME_US,Cherryfield,ME,US,Northern America,Northern America,44.607299,-67.925837
+12842,20746,1960,MLB,National,STL,1960_National_STL,Nampa_ID_US,Nampa,ID,US,Northern America,Northern America,43.573736,-116.559642
+12852,20746,1960,MLB,National,STL,1960_National_STL,Nampa_ID_US,Nampa,ID,US,Northern America,Northern America,43.573736,-116.559642
+13074,21057,1960,MLB,American,CLE,1960_American_CLE,Washington_DC_US,Washington,DC,US,Northern America,Northern America,38.894955,-77.036646
+13078,21057,1960,MLB,American,CLE,1960_American_CLE,Washington_DC_US,Washington,DC,US,Northern America,Northern America,38.894955,-77.036646
+13084,21108,1960,MLB,National,MWB/ATL,1960_National_MWB/ATL,Germantown_IL_US,Germantown,IL,US,Northern America,Northern America,40.043445,-75.180177
+13088,21108,1960,MLB,National,MIL,1960_National_MWB/ATL,Germantown_IL_US,Germantown,IL,US,Northern America,Northern America,40.043445,-75.180177
+13094,21117,1960,MLB,National,STL,1960_National_STL,NewYork_NY_US,New York,NY,US,Northern America,Northern America,43.102443,-75.291082
+13098,21117,1960,MLB,National,STL,1960_National_STL,NewYork_NY_US,New York,NY,US,Northern America,Northern America,43.102443,-75.291082
+13671,21901,1960,MLB,National,PIT,1960_National_PIT,Titusville_NJ_US,Titusville,NJ,US,Northern America,Northern America,40.309552,-74.880443
+13675,21901,1960,MLB,National,PIT,1960_National_PIT,Titusville_NJ_US,Titusville,NJ,US,Northern America,Northern America,40.309552,-74.880443
+13737,22091,1960,MLB,American,CLE,1960_American_CLE,NewCastle_PA_US,New Castle,PA,US,Northern America,Northern America,41.003672,-80.347009
+13740,22091,1960,MLB,American,CLE,1960_American_CLE,NewCastle_PA_US,New Castle,PA,US,Northern America,Northern America,41.003672,-80.347009
+13927,22434,1960,MLB,American,BAL,1960_American_BAL,SandSprings_OK_US,Sand Springs,OK,US,Northern America,Northern America,36.13981,-96.108891
+13947,22449,1960,MLB,American,WSH/MIN,1960_American_WSH/MIN,Matanzas_Matanzas_CU,Matanzas, ,CU,Caribbean,Latin America and the Caribbean,23.046993,-81.579315
+13949,22449,1960,MLB,American,WSH,1960_American_WSH/MIN,Matanzas_Matanzas_CU,Matanzas, ,CU,Caribbean,Latin America and the Caribbean,23.046993,-81.579315
+14054,22611,1960,MLB,National,MWB/ATL,1960_National_MWB/ATL,Chicago_IL_US,Chicago,IL,US,Northern America,Northern America,41.875555,-87.624421
+14062,22611,1960,MLB,National,MIL,1960_National_MWB/ATL,Chicago_IL_US,Chicago,IL,US,Northern America,Northern America,41.875555,-87.624421
+14102,22682,1960,MLB,American,BOS,1960_American_BOS,Brooklyn_NY_US,Brooklyn,NY,US,Northern America,Northern America,40.650104,-73.949582
+14196,22919,1960,MLB,National,PIT,1960_National_PIT,Tuscaloosa_AL_US,Tuscaloosa,AL,US,Northern America,Northern America,33.209561,-87.567526
+14202,22919,1960,MLB,National,PIT,1960_National_PIT,Tuscaloosa_AL_US,Tuscaloosa,AL,US,Northern America,Northern America,33.209561,-87.567526
+14277,23034,1960,MLB,American,CWS,1960_American_CWS,Bronx_NY_US,Bronx,NY,US,Northern America,Northern America,40.8501,-73.866246
+14288,23034,1960,MLB,American,CWS,1960_American_CWS,Bronx_NY_US,Bronx,NY,US,Northern America,Northern America,40.8501,-73.866246
+14372,23201,1960,MLB,National,CIN,1960_National_CIN,Dillon_SC_US,Dillon,SC,US,Northern America,Northern America,34.416539,-79.371395
+14374,23201,1960,MLB,National,CIN,1960_National_CIN,Dillon_SC_US,Dillon,SC,US,Northern America,Northern America,34.416539,-79.371395
+14587,23569,1960,MLB,National,STL,1960_National_STL,Donora_PA_US,Donora,PA,US,Northern America,Northern America,40.173405,-79.857547
+14591,23569,1960,MLB,National,STL,1960_National_STL,Donora_PA_US,Donora,PA,US,Northern America,Northern America,40.173405,-79.857547
+14629,23627,1960,MLB,National,MWB/ATL,1960_National_MWB/ATL,Paducah_KY_US,Paducah,KY,US,Northern America,Northern America,37.083389,-88.600048
+14630,23627,1960,MLB,National,MIL,1960_National_MWB/ATL,Paducah_KY_US,Paducah,KY,US,Northern America,Northern America,37.083389,-88.600048
+15160,24391,1960,MLB,American,NYY,1960_American_NYY,Pottstown_PA_US,Pottstown,PA,US,Northern America,Northern America,40.245298,-75.649642
+15168,24391,1960,MLB,American,NYY,1960_American_NYY,Pottstown_PA_US,Pottstown,PA,US,Northern America,Northern America,40.245298,-75.649642
+15192,24466,1960,MLB,National,CIN,1960_National_CIN,Hamilton_OH_US,Hamilton,OH,US,Northern America,Northern America,39.399507,-84.561343
+15200,24466,1960,MLB,National,CIN,1960_National_CIN,Hamilton_OH_US,Hamilton,OH,US,Northern America,Northern America,39.399507,-84.561343
+15476,24758,1960,MLB,National,PIT,1960_National_PIT,Frederiksted_StCroix_VI,Frederiksted,St. Croix,VI,Caribbean,Latin America and the Caribbean,39.78373,-100.445882
+15482,24758,1960,MLB,National,PIT,1960_National_PIT,Frederiksted_StCroix_VI,Frederiksted,St. Croix,VI,Caribbean,Latin America and the Caribbean,39.78373,-100.445882
+15731,25217,1960,MLB,National,CHC,1960_National_CHC,Quincy_IL_US,Quincy,IL,US,Northern America,Northern America,39.935602,-91.409873
+15733,25217,1960,MLB,National,CHC,1960_National_CHC,Quincy_IL_US,Quincy,IL,US,Northern America,Northern America,39.935602,-91.409873
+15771,25274,1960,MLB,National,STL,1960_National_STL,Houston_TX_US,Houston,TX,US,Northern America,Northern America,29.758938,-95.367697
+15782,25274,1960,MLB,National,STL,1960_National_STL,Houston_TX_US,Houston,TX,US,Northern America,Northern America,29.758938,-95.367697
+15858,25324,1960,MLB,American,NYY,1960_American_NYY,Pottstown_PA_US,Pottstown,PA,US,Northern America,Northern America,40.245298,-75.649642
+15859,25324,1960,MLB,American,NYY,1960_American_NYY,Pottstown_PA_US,Pottstown,PA,US,Northern America,Northern America,40.245298,-75.649642
+16163,25864,1960,MLB,National,PIT,1960_National_PIT,Caroleen_NC_US,Caroleen,NC,US,Northern America,Northern America,35.280956,-81.796212
+16172,25864,1960,MLB,National,PIT,1960_National_PIT,Caroleen_NC_US,Caroleen,NC,US,Northern America,Northern America,35.280956,-81.796212
+16400,26056,1960,MLB,National,STL,1960_National_STL,GlenLyon_PA_US,Glen Lyon,PA,US,Northern America,Northern America,41.175083,-76.074649
+16405,26056,1960,MLB,National,STL,1960_National_STL,GlenLyon_PA_US,Glen Lyon,PA,US,Northern America,Northern America,41.175083,-76.074649
+16585,26464,1960,MLB,American,KCA/OAK,1960_American_KCA/OAK,StLouis_MO_US,St. Louis,MO,US,Northern America,Northern America,38.627273,-90.197889
+16591,26464,1960,MLB,American,KC,1960_American_KCA/OAK,StLouis_MO_US,St. Louis,MO,US,Northern America,Northern America,38.627273,-90.197889
+16747,26780,1960,MLB,American,CWS,1960_American_CWS,Snohomish_WA_US,Snohomish,WA,US,Northern America,Northern America,47.918028,-122.089965
+16750,26780,1960,MLB,American,CWS,1960_American_CWS,Snohomish_WA_US,Snohomish,WA,US,Northern America,Northern America,47.918028,-122.089965
+16982,27313,1960,MLB,American,KCA/OAK,1960_American_KCA/OAK,Philadelphia_PA_US,Philadelphia,PA,US,Northern America,Northern America,39.952399,-75.16359
+16985,27313,1960,MLB,American,KC,1960_American_KCA/OAK,Philadelphia_PA_US,Philadelphia,PA,US,Northern America,Northern America,39.952399,-75.16359
+17290,27852,1960,MLB,American,WSH/MIN,1960_American_WSH/MIN,LaHabana_LaHabana_CU,La Habana, ,CU,Caribbean,Latin America and the Caribbean,23.138028,-82.365867
+17301,27852,1960,MLB,American,WSH,1960_American_WSH/MIN,LaHabana_LaHabana_CU,La Habana, ,CU,Caribbean,Latin America and the Caribbean,23.138028,-82.365867
+17386,28046,1960,MLB,American,CWS,1960_American_CWS,Prescott_AR_US,Prescott,AR,US,Northern America,Northern America,33.802611,-93.381006
+17395,28046,1960,MLB,American,CWS,1960_American_CWS,Prescott_AR_US,Prescott,AR,US,Northern America,Northern America,33.802611,-93.381006
+17473,28158,1960,MLB,American,DET,1960_American_DET,Brooklyn_NY_US,Brooklyn,NY,US,Northern America,Northern America,40.650104,-73.949582
+17476,28158,1960,MLB,American,DET,1960_American_DET,Brooklyn_NY_US,Brooklyn,NY,US,Northern America,Northern America,40.650104,-73.949582
+18092,28902,1960,MLB,American,CWS,1960_American_CWS,GroveCity_PA_US,Grove City,PA,US,Northern America,Northern America,41.157838,-80.08867
+18102,28902,1960,MLB,American,CWS,1960_American_CWS,GroveCity_PA_US,Grove City,PA,US,Northern America,Northern America,41.157838,-80.08867
+18683,30069,1960,MLB,National,STL,1960_National_STL,Birmingham_AL_US,Birmingham,AL,US,Northern America,Northern America,33.520682,-86.802433
+18688,30069,1960,MLB,National,STL,1960_National_STL,Birmingham_AL_US,Birmingham,AL,US,Northern America,Northern America,33.520682,-86.802433
+18695,30073,1960,MLB,National,SF,1960_National_SF,Mobile_AL_US,Mobile,AL,US,Northern America,Northern America,30.694357,-88.043054
+18717,30073,1960,MLB,National,SF,1960_National_SF,Mobile_AL_US,Mobile,AL,US,Northern America,Northern America,30.694357,-88.043054
+18835,30333,1960,MLB,National,PIT,1960_National_PIT,Hickory_MS_US,Hickory,MS,US,Northern America,Northern America,32.317644,-89.025611
+18850,30333,1960,MLB,National,PIT,1960_National_PIT,Hickory_MS_US,Hickory,MS,US,Northern America,Northern America,32.317644,-89.025611
+18935,30440,1960,MLB,National,LAD,1960_National_LAD,Philadelphia_PA_US,Philadelphia,PA,US,Northern America,Northern America,39.952399,-75.16359
+18944,30440,1960,MLB,National,LAD,1960_National_LAD,Philadelphia_PA_US,Philadelphia,PA,US,Northern America,Northern America,39.952399,-75.16359
+19078,30588,1960,MLB,American,KCA/OAK,1960_American_KCA/OAK,MichiganCity_IN_US,Michigan City,IN,US,Northern America,Northern America,41.707539,-86.89503
+19087,30588,1960,MLB,American,KC,1960_American_KCA/OAK,MichiganCity_IN_US,Michigan City,IN,US,Northern America,Northern America,41.707539,-86.89503
+19404,31088,1960,MLB,American,BAL,1960_American_BAL,Glasgow_Glasgow_GB,Glasgow,Glasgow,GB,Northern Europe,Europe,55.936065,-4.698094
+19405,31088,1960,MLB,American,BOS,1960_American_BOS,Glasgow_Glasgow_GB,Glasgow,Glasgow,GB,Northern Europe,Europe,55.936065,-4.698094
+19741,31685,1960,MLB,American,CWS,1960_American_CWS,Cleveland_OH_US,Cleveland,OH,US,Northern America,Northern America,41.505161,-81.693445
+19742,31685,1960,MLB,National,CHC,1960_National_CHC,Cleveland_OH_US,Cleveland,OH,US,Northern America,Northern America,41.505161,-81.693445
+19746,31685,1960,MLB,American,CWS,1960_American_CWS,Cleveland_OH_US,Cleveland,OH,US,Northern America,Northern America,41.505161,-81.693445
+19747,31685,1960,MLB,National,CHC,1960_National_CHC,Cleveland_OH_US,Cleveland,OH,US,Northern America,Northern America,41.505161,-81.693445
+19790,31786,1960,MLB,American,KCA/OAK,1960_American_KCA/OAK,NewAthens_IL_US,New Athens,IL,US,Northern America,Northern America,38.326438,-89.877047
+19792,31786,1960,MLB,American,KC,1960_American_KCA/OAK,NewAthens_IL_US,New Athens,IL,US,Northern America,Northern America,38.326438,-89.877047
+19844,31931,1960,MLB,National,CIN,1960_National_CIN,Dallas_TX_US,Dallas,TX,US,Northern America,Northern America,32.776272,-96.796856
+19849,31931,1960,MLB,National,CIN,1960_National_CIN,Dallas_TX_US,Dallas,TX,US,Northern America,Northern America,32.776272,-96.796856
+20095,32264,1960,MLB,National,CHC,1960_National_CHC,Winston-Salem_NC_US,Winston-Salem,NC,US,Northern America,Northern America,36.099817,-80.244144
+20102,32264,1960,MLB,National,PHI,1960_National_PHI,Winston-Salem_NC_US,Winston-Salem,NC,US,Northern America,Northern America,36.099817,-80.244144
+20107,32264,1960,MLB,National,CHC,1960_National_CHC,Winston-Salem_NC_US,Winston-Salem,NC,US,Northern America,Northern America,36.099817,-80.244144
+20114,32264,1960,MLB,National,PHI,1960_National_PHI,Winston-Salem_NC_US,Winston-Salem,NC,US,Northern America,Northern America,36.099817,-80.244144
+20452,32758,1960,MLB,American,WSH/MIN,1960_American_WSH/MIN,Wilkes-Barre_PA_US,Wilkes-Barre,PA,US,Northern America,Northern America,41.246482,-75.881732
+20462,32758,1960,MLB,American,WSH,1960_American_WSH/MIN,Wilkes-Barre_PA_US,Wilkes-Barre,PA,US,Northern America,Northern America,41.246482,-75.881732
+20467,32778,1960,MLB,American,BAL,1960_American_BAL,TakomaPark_MD_US,Takoma Park,MD,US,Northern America,Northern America,38.977888,-77.007476
+20767,33335,1960,MLB,American,KCA/OAK,1960_American_KCA/OAK,StLouis_MO_US,St. Louis,MO,US,Northern America,Northern America,38.627273,-90.197889
+20768,33335,1960,MLB,American,KC,1960_American_KCA/OAK,StLouis_MO_US,St. Louis,MO,US,Northern America,Northern America,38.627273,-90.197889
+21056,33946,1960,MLB,American,BOS,1960_American_BOS,HighlandPark_MI_US,Highland Park,MI,US,Northern America,Northern America,42.405714,-83.096947
+21452,34824,1960,MLB,National,PIT,1960_National_PIT,SanJose_CA_US,San Jose,CA,US,Northern America,Northern America,37.336191,-121.890583
+21453,34824,1960,MLB,National,PIT,1960_National_PIT,SanJose_CA_US,San Jose,CA,US,Northern America,Northern America,37.336191,-121.890583
+21758,35161,1960,MLB,National,PHI,1960_National_PHI,Fresno_CA_US,Fresno,CA,US,Northern America,Northern America,36.72953,-119.708861
+21761,35161,1960,MLB,National,PHI,1960_National_PHI,Fresno_CA_US,Fresno,CA,US,Northern America,Northern America,36.72953,-119.708861
+21801,35240,1960,MLB,National,CIN,1960_National_CIN,StWendelin_OH_US,St. Wendelin,OH,US,Northern America,Northern America,40.399213,-84.689959
+21807,35240,1960,MLB,National,PHI,1960_National_PHI,StWendelin_OH_US,St. Wendelin,OH,US,Northern America,Northern America,40.399213,-84.689959
+21808,35240,1960,MLB,National,CIN,1960_National_CIN,StWendelin_OH_US,St. Wendelin,OH,US,Northern America,Northern America,40.399213,-84.689959
+21814,35240,1960,MLB,National,PHI,1960_National_PHI,StWendelin_OH_US,St. Wendelin,OH,US,Northern America,Northern America,40.399213,-84.689959
+22060,35599,1960,MLB,National,SF,1960_National_SF,Maracaibo_Zulia_VE,Maracaibo, ,VE,South America,Latin America and the Caribbean,10.665156,-71.623075
+22061,35599,1960,MLB,National,SF,1960_National_SF,Maracaibo_Zulia_VE,Maracaibo, ,VE,South America,Latin America and the Caribbean,10.665156,-71.623075
+22157,35681,1960,MLB,National,PHI,1960_National_PHI,Springfield_IL_US,Springfield,IL,US,Northern America,Northern America,39.798976,-89.644369
+22162,35681,1960,MLB,National,PHI,1960_National_PHI,Springfield_IL_US,Springfield,IL,US,Northern America,Northern America,39.798976,-89.644369
+22231,35826,1960,MLB,National,LAD,1960_National_LAD,Gilbert_AZ_US,Gilbert,AZ,US,Northern America,Northern America,33.352826,-111.789024
+22240,35826,1960,MLB,National,LAD,1960_National_LAD,Gilbert_AZ_US,Gilbert,AZ,US,Northern America,Northern America,33.352826,-111.789024
+22410,36132,1960,MLB,American,BAL,1960_American_BAL,Shreveport_LA_US,Shreveport,LA,US,Northern America,Northern America,32.522183,-93.765194
+22411,36132,1960,MLB,American,BOS,1960_American_BOS,Shreveport_LA_US,Shreveport,LA,US,Northern America,Northern America,32.522183,-93.765194
+22547,36363,1960,MLB,American,BAL,1960_American_BAL,Troy_NY_US,Troy,NY,US,Northern America,Northern America,42.728412,-73.691785
+22613,36478,1960,MLB,American,CLE,1960_American_CLE,SanAntonio_TX_US,San Antonio,TX,US,Northern America,Northern America,29.4246,-98.49514
+22623,36478,1960,MLB,American,CLE,1960_American_CLE,SanAntonio_TX_US,San Antonio,TX,US,Northern America,Northern America,29.4246,-98.49514
+22644,36521,1960,MLB,National,LAD,1960_National_LAD,OklahomaCity_OK_US,Oklahoma City,OK,US,Northern America,Northern America,35.472989,-97.517054
+22653,36521,1960,MLB,National,LAD,1960_National_LAD,OklahomaCity_OK_US,Oklahoma City,OK,US,Northern America,Northern America,35.472989,-97.517054
+22938,36874,1960,MLB,American,WSH/MIN,1960_American_WSH/MIN,Visalia_CA_US,Visalia,CA,US,Northern America,Northern America,36.330228,-119.292058
+22942,36874,1960,MLB,American,WSH,1960_American_WSH/MIN,Visalia_CA_US,Visalia,CA,US,Northern America,Northern America,36.330228,-119.292058
+22993,37025,1960,MLB,National,STL,1960_National_STL,Moultrie_GA_US,Moultrie,GA,US,Northern America,Northern America,31.181152,-83.787881
+22994,37025,1960,MLB,National,STL,1960_National_STL,Moultrie_GA_US,Moultrie,GA,US,Northern America,Northern America,31.181152,-83.787881
+22995,37039,1960,MLB,National,STL,1960_National_STL,Omaha_NE_US,Omaha,NE,US,Northern America,Northern America,41.258732,-95.937873
+23011,37039,1960,MLB,National,STL,1960_National_STL,Omaha_NE_US,Omaha,NE,US,Northern America,Northern America,41.258732,-95.937873
+23150,37292,1960,MLB,National,CHC,1960_National_CHC,Lusk_WY_US,Lusk,WY,US,Northern America,Northern America,42.762467,-104.452175
+23162,37292,1960,MLB,National,CHC,1960_National_CHC,Lusk_WY_US,Lusk,WY,US,Northern America,Northern America,42.762467,-104.452175
+23477,37833,1960,MLB,National,CIN,1960_National_CIN, , , , , , ,0,0
+23491,37833,1960,MLB,National,CIN,1960_National_CIN, , , , , , ,0,0
+23627,38013,1960,MLB,American,BOS,1960_American_BOS,SanDiego_CA_US,San Diego,CA,US,Northern America,Northern America,32.717421,-117.162771
+23804,38332,1960,MLB,American,CWS,1960_American_CWS,Axton_VA_US,Axton,VA,US,Northern America,Northern America,36.659582,-79.711978
+23817,38332,1960,MLB,American,CWS,1960_American_CWS,Axton_VA_US,Axton,VA,US,Northern America,Northern America,36.659582,-79.711978
+24137,38923,1960,MLB,National,PHI,1960_National_PHI,Newport_DE_US,Newport,DE,US,Northern America,Northern America,39.714329,-75.607908
+24145,38923,1960,MLB,National,PHI,1960_National_PHI,Newport_DE_US,Newport,DE,US,Northern America,Northern America,39.714329,-75.607908
+24250,39076,1960,MLB,National,PIT,1960_National_PIT,Abreus_CU,Abreus, ,CU,Caribbean,Latin America and the Caribbean,22.277877,-80.570235
+24253,39076,1960,MLB,National,PIT,1960_National_PIT,Abreus_CU,Abreus, ,CU,Caribbean,Latin America and the Caribbean,22.277877,-80.570235
+24867,39989,1960,MLB,American,NYY,1960_American_NYY,Pocatello_ID_US,Pocatello,ID,US,Northern America,Northern America,42.868861,-112.44011
+24868,39989,1960,MLB,American,NYY,1960_American_NYY,Pocatello_ID_US,Pocatello,ID,US,Northern America,Northern America,42.868861,-112.44011
+25103,40375,1960,MLB,American,CWS,1960_American_CWS,NewWashington_OH_US,New Washington,OH,US,Northern America,Northern America,40.962279,-82.85435
+25104,40375,1960,MLB,American,CWS,1960_American_CWS,NewWashington_OH_US,New Washington,OH,US,Northern America,Northern America,40.962279,-82.85435
+25264,40817,1960,MLB,National,CHC,1960_National_CHC,Goetzville_MI_US,Goetzville,MI,US,Northern America,Northern America,46.058075,-84.092238
+25265,40817,1960,MLB,National,CHC,1960_National_CHC,Goetzville_MI_US,Goetzville,MI,US,Northern America,Northern America,46.058075,-84.092238
+25268,40831,1960,MLB,National,LAD,1960_National_LAD,EastMillsboro_PA_US,East Millsboro,PA,US,Northern America,Northern America,39.981185,-79.993386
+25277,40831,1960,MLB,National,LAD,1960_National_LAD,EastMillsboro_PA_US,East Millsboro,PA,US,Northern America,Northern America,39.981185,-79.993386
+25397,40899,1960,MLB,National,CHC,1960_National_CHC,LittleRock_AR_US,Little Rock,AR,US,Northern America,Northern America,34.746481,-92.289595
+25400,40899,1960,MLB,National,CHC,1960_National_CHC,LittleRock_AR_US,Little Rock,AR,US,Northern America,Northern America,34.746481,-92.289595
+26416,42528,1960,MLB,National,CIN,1960_National_CIN,Syracuse_NY_US,Syracuse,NY,US,Northern America,Northern America,43.048122,-76.147424
+26418,42528,1960,MLB,National,CIN,1960_National_CIN,Syracuse_NY_US,Syracuse,NY,US,Northern America,Northern America,43.048122,-76.147424
+26453,42654,1960,MLB,National,LAD,1960_National_LAD,Nashville_TN_US,Nashville,TN,US,Northern America,Northern America,36.16223,-86.774353
+26460,42654,1960,MLB,National,LAD,1960_National_LAD,Nashville_TN_US,Nashville,TN,US,Northern America,Northern America,36.16223,-86.774353
+26695,42919,1960,MLB,American,BAL,1960_American_BAL,StPaul_MN_US,St. Paul,MN,US,Northern America,Northern America,44.950404,-93.101503
+26776,43279,1960,MLB,National,CIN,1960_National_CIN,Marianao_LaHabana_CU,Marianao, ,CU,Caribbean,Latin America and the Caribbean,23.073455,-82.430632
+26777,43279,1960,MLB,National,CIN,1960_National_CIN,Marianao_LaHabana_CU,Marianao, ,CU,Caribbean,Latin America and the Caribbean,23.073455,-82.430632
+26866,43384,1960,MLB,American,WSH/MIN,1960_American_WSH/MIN,SanVitoalTagliamento_Friuli-VeneziaGiulia_IT,San Vito al Tagliamento,Friuli-Venezia Giulia,IT,Southern Europe,Europe,45.915135,12.856596
+26871,43384,1960,MLB,American,WSH,1960_American_WSH/MIN,SanVitoalTagliamento_Friuli-VeneziaGiulia_IT,San Vito al Tagliamento,Friuli-Venezia Giulia,IT,Southern Europe,Europe,45.915135,12.856596
+26926,43660,1960,MLB,National,SF,1960_National_SF,BajosdeHaina_SanCristobal_DO,Bajos de Haina,San Cristobal,DO,Caribbean,Latin America and the Caribbean,18.413899,-70.032297
+26943,43660,1960,MLB,National,SF,1960_National_SF,BajosdeHaina_SanCristobal_DO,Bajos de Haina,San Cristobal,DO,Caribbean,Latin America and the Caribbean,18.413899,-70.032297
+27211,44038,1960,MLB,National,STL,1960_National_STL,BurnsFlat_OK_US,Burns Flat,OK,US,Northern America,Northern America,35.34894,-99.170362
+27212,44038,1960,MLB,National,STL,1960_National_STL,BurnsFlat_OK_US,Burns Flat,OK,US,Northern America,Northern America,35.34894,-99.170362
+27302,44128,1960,MLB,American,KCA/OAK,1960_American_KCA/OAK,Erie_PA_US,Erie,PA,US,Northern America,Northern America,42.129066,-80.085242
+27312,44128,1960,MLB,American,KC,1960_American_KCA/OAK,Erie_PA_US,Erie,PA,US,Northern America,Northern America,42.129066,-80.085242
+27722,44639,1960,MLB,American,NYY,1960_American_NYY,StLouis_MO_US,St. Louis,MO,US,Northern America,Northern America,38.627273,-90.197889
+27723,44639,1960,MLB,American,NYY,1960_American_NYY,StLouis_MO_US,St. Louis,MO,US,Northern America,Northern America,38.627273,-90.197889
+28064,45473,1960,MLB,American,KCA/OAK,1960_American_KCA/OAK,Hostetter_PA_US,Hostetter,PA,US,Northern America,Northern America,40.266182,-79.39837
+28075,45473,1960,MLB,American,KC,1960_American_KCA/OAK,Hostetter_PA_US,Hostetter,PA,US,Northern America,Northern America,40.266182,-79.39837
+28145,45579,1960,MLB,American,DET,1960_American_DET,Lafayette_IN_US,Lafayette,IN,US,Northern America,Northern America,40.416702,-86.875287
+28146,45579,1960,MLB,American,DET,1960_American_DET,Lafayette_IN_US,Lafayette,IN,US,Northern America,Northern America,40.416702,-86.875287
+28350,45819,1960,MLB,National,PIT,1960_National_PIT,Preston_IA_US,Preston,IA,US,Northern America,Northern America,42.050575,-90.399694
+28354,45819,1960,MLB,National,PIT,1960_National_PIT,Preston_IA_US,Preston,IA,US,Northern America,Northern America,42.050575,-90.399694
+28417,45870,1960,MLB,National,CIN,1960_National_CIN,CaneySprings_TN_US,Caney Springs,TN,US,Northern America,Northern America,35.773008,-86.282008
+28435,45870,1960,MLB,National,CIN,1960_National_CIN,CaneySprings_TN_US,Caney Springs,TN,US,Northern America,Northern America,35.773008,-86.282008
+28679,46324,1960,MLB,National,MWB/ATL,1960_National_MWB/ATL,Endicott_NY_US,Endicott,NY,US,Northern America,Northern America,42.098408,-76.049368
+28684,46324,1960,MLB,National,MIL,1960_National_MWB/ATL,Endicott_NY_US,Endicott,NY,US,Northern America,Northern America,42.098408,-76.049368
+28723,46469,1960,MLB,National,STL,1960_National_STL,Jefferson_PA_US,Jefferson,PA,US,Northern America,Northern America,39.817323,-76.841641
+28724,46469,1960,MLB,National,STL,1960_National_STL,Jefferson_PA_US,Jefferson,PA,US,Northern America,Northern America,39.817323,-76.841641
+28880,46851,1960,MLB,American,CWS,1960_American_CWS,Shinnston_WV_US,Shinnston,WV,US,Northern America,Northern America,39.395365,-80.30084
+28883,46851,1960,MLB,American,CWS,1960_American_CWS,Shinnston_WV_US,Shinnston,WV,US,Northern America,Northern America,39.395365,-80.30084
+28888,46887,1960,MLB,National,PHI,1960_National_PHI,Utica_NY_US,Utica,NY,US,Northern America,Northern America,43.100903,-75.232664
+28891,46887,1960,MLB,National,PHI,1960_National_PHI,Utica_NY_US,Utica,NY,US,Northern America,Northern America,43.100903,-75.232664
+29188,47331,1960,MLB,National,PIT,1960_National_PIT,SanFrancisco_CA_US,San Francisco,CA,US,Northern America,Northern America,37.779277,-122.41927
+29194,47331,1960,MLB,National,PIT,1960_National_PIT,SanFrancisco_CA_US,San Francisco,CA,US,Northern America,Northern America,37.779277,-122.41927
+29578,47807,1960,MLB,National,STL,1960_National_STL,StLouis_MO_US,St. Louis,MO,US,Northern America,Northern America,38.627273,-90.197889
+29582,47807,1960,MLB,National,STL,1960_National_STL,StLouis_MO_US,St. Louis,MO,US,Northern America,Northern America,38.627273,-90.197889
+29723,47942,1960,MLB,American,NYY,1960_American_NYY,SanDiego_CA_US,San Diego,CA,US,Northern America,Northern America,32.717421,-117.162771
+29740,47942,1960,MLB,American,NYY,1960_American_NYY,SanDiego_CA_US,San Diego,CA,US,Northern America,Northern America,32.717421,-117.162771
+29952,48272,1960,MLB,National,MWB/ATL,1960_National_MWB/ATL,Oakland_CA_US,Oakland,CA,US,Northern America,Northern America,37.804456,-122.271356
+29963,48272,1960,MLB,National,MIL,1960_National_MWB/ATL,Oakland_CA_US,Oakland,CA,US,Northern America,Northern America,37.804456,-122.271356
+30392,48896,1960,MLB,American,BAL,1960_American_BAL,Detroit_MI_US,Detroit,MI,US,Northern America,Northern America,42.348664,-83.056737
+30735,49338,1960,MLB,American,WSH/MIN,1960_American_WSH/MIN,Raytown_MO_US,Raytown,MO,US,Northern America,Northern America,39.008617,-94.463564
+30746,49338,1960,MLB,American,WSH,1960_American_WSH/MIN,Raytown_MO_US,Raytown,MO,US,Northern America,Northern America,39.008617,-94.463564
+30773,49383,1960,MLB,American,KCA/OAK,1960_American_KCA/OAK,EastStLouis_IL_US,East St. Louis,IL,US,Northern America,Northern America,38.624495,-90.150943
+30775,49383,1960,MLB,American,KC,1960_American_KCA/OAK,EastStLouis_IL_US,East St. Louis,IL,US,Northern America,Northern America,38.624495,-90.150943
+30946,49813,1960,MLB,American,CLE,1960_American_CLE,NewOrleans_LA_US,New Orleans,LA,US,Northern America,Northern America,29.949932,-90.070116
+30947,49813,1960,MLB,American,CLE,1960_American_CLE,NewOrleans_LA_US,New Orleans,LA,US,Northern America,Northern America,29.949932,-90.070116
+30948,49831,1960,MLB,American,BAL,1960_American_BAL,Portsmouth_OH_US,Portsmouth,OH,US,Northern America,Northern America,38.731743,-82.997674
+30949,49831,1960,MLB,National,CHC,1960_National_CHC,Portsmouth_OH_US,Portsmouth,OH,US,Northern America,Northern America,38.731743,-82.997674
+30951,49831,1960,MLB,National,STL,1960_National_STL,Portsmouth_OH_US,Portsmouth,OH,US,Northern America,Northern America,38.731743,-82.997674
+30952,49831,1960,MLB,National,CHC,1960_National_CHC,Portsmouth_OH_US,Portsmouth,OH,US,Northern America,Northern America,38.731743,-82.997674
+30954,49831,1960,MLB,National,STL,1960_National_STL,Portsmouth_OH_US,Portsmouth,OH,US,Northern America,Northern America,38.731743,-82.997674
+30987,49941,1960,MLB,American,CWS,1960_American_CWS,StThomas_PA_US,St. Thomas,PA,US,Northern America,Northern America,39.917591,-77.797773
+30993,49941,1960,MLB,American,CWS,1960_American_CWS,StThomas_PA_US,St. Thomas,PA,US,Northern America,Northern America,39.917591,-77.797773
+31261,50583,1960,MLB,American,NYY,1960_American_NYY,Sumter_SC_US,Sumter,SC,US,Northern America,Northern America,33.920435,-80.341469
+31268,50583,1960,MLB,American,NYY,1960_American_NYY,Sumter_SC_US,Sumter,SC,US,Northern America,Northern America,33.920435,-80.341469
+31448,50876,1960,MLB,American,NYY,1960_American_NYY,Utica_MI_US,Utica,MI,US,Northern America,Northern America,42.626145,-83.033538
+31450,50876,1960,MLB,American,NYY,1960_American_NYY,Utica_MI_US,Utica,MI,US,Northern America,Northern America,42.626145,-83.033538
+31661,51129,1960,MLB,American,DET,1960_American_DET,Northport_AL_US,Northport,AL,US,Northern America,Northern America,33.229007,-87.577229
+31670,51129,1960,MLB,American,DET,1960_American_DET,Northport_AL_US,Northport,AL,US,Northern America,Northern America,33.229007,-87.577229
+32104,51757,1960,MLB,American,BOS,1960_American_BOS,Vernon_BC_CA,Vernon,BC,CA,Northern America,Northern America,50.266667,-119.266667
+32105,51757,1960,MLB,American,CLE,1960_American_CLE,Vernon_BC_CA,Vernon,BC,CA,Northern America,Northern America,50.266667,-119.266667
+32110,51757,1960,MLB,American,CLE,1960_American_CLE,Vernon_BC_CA,Vernon,BC,CA,Northern America,Northern America,50.266667,-119.266667
+32695,52606,1960,MLB,National,CIN,1960_National_CIN,NorthEast_MD_US,North East,MD,US,Northern America,Northern America,39.600113,-75.941333
+32697,52606,1960,MLB,National,PHI,1960_National_PHI,NorthEast_MD_US,North East,MD,US,Northern America,Northern America,39.600113,-75.941333
+32698,52606,1960,MLB,National,CIN,1960_National_CIN,NorthEast_MD_US,North East,MD,US,Northern America,Northern America,39.600113,-75.941333
+32700,52606,1960,MLB,National,PHI,1960_National_PHI,NorthEast_MD_US,North East,MD,US,Northern America,Northern America,39.600113,-75.941333
+32786,52777,1960,MLB,American,CLE,1960_American_CLE,Desloge_MO_US,Desloge,MO,US,Northern America,Northern America,37.870885,-90.527347
+32796,52777,1960,MLB,American,CLE,1960_American_CLE,Desloge_MO_US,Desloge,MO,US,Northern America,Northern America,37.870885,-90.527347
+33379,53935,1960,MLB,National,MWB/ATL,1960_National_MWB/ATL,Laurinburg_NC_US,Laurinburg,NC,US,Northern America,Northern America,34.77405,-79.462825
+33390,53935,1960,MLB,National,MIL,1960_National_MWB/ATL,Laurinburg_NC_US,Laurinburg,NC,US,Northern America,Northern America,34.77405,-79.462825
+33463,53979,1960,MLB,National,STL,1960_National_STL,StLouis_MO_US,St. Louis,MO,US,Northern America,Northern America,38.627273,-90.197889
+33484,53979,1960,MLB,National,STL,1960_National_STL,StLouis_MO_US,St. Louis,MO,US,Northern America,Northern America,38.627273,-90.197889
+33589,54115,1960,MLB,American,CWS,1960_American_CWS,LosAngeles_CA_US,Los Angeles,CA,US,Northern America,Northern America,34.054394,-118.243941
+33592,54115,1960,MLB,American,CWS,1960_American_CWS,LosAngeles_CA_US,Los Angeles,CA,US,Northern America,Northern America,34.054394,-118.243941
+33650,54273,1960,MLB,American,BOS,1960_American_BOS,Lufkin_TX_US,Lufkin,TX,US,Northern America,Northern America,31.338624,-94.728856
+33734,54532,1960,MLB,National,PHI,1960_National_PHI,Philadelphia_PA_US,Philadelphia,PA,US,Northern America,Northern America,39.952399,-75.16359
+33736,54532,1960,MLB,National,PHI,1960_National_PHI,Philadelphia_PA_US,Philadelphia,PA,US,Northern America,Northern America,39.952399,-75.16359
+34147,55017,1960,MLB,American,BOS,1960_American_BOS,Hammond_IN_US,Hammond,IN,US,Northern America,Northern America,41.583366,-87.500043
+34653,56053,1960,MLB,American,DET,1960_American_DET,Matanzas_Matanzas_CU,Matanzas, ,CU,Caribbean,Latin America and the Caribbean,23.046993,-81.579315
+34654,56053,1960,MLB,National,LAD,1960_National_LAD,Matanzas_Matanzas_CU,Matanzas, ,CU,Caribbean,Latin America and the Caribbean,23.046993,-81.579315
+34655,56053,1960,MLB,American,DET,1960_American_DET,Matanzas_Matanzas_CU,Matanzas, ,CU,Caribbean,Latin America and the Caribbean,23.046993,-81.579315
+34656,56053,1960,MLB,National,LAD,1960_National_LAD,Matanzas_Matanzas_CU,Matanzas, ,CU,Caribbean,Latin America and the Caribbean,23.046993,-81.579315
+34793,56327,1960,MLB,American,KCA/OAK,1960_American_KCA/OAK,Huntingburg_IN_US,Huntingburg,IN,US,Northern America,Northern America,38.298942,-86.954997
+34794,56327,1960,MLB,American,KC,1960_American_KCA/OAK,Huntingburg_IN_US,Huntingburg,IN,US,Northern America,Northern America,38.298942,-86.954997
+34962,56560,1960,MLB,American,BAL,1960_American_BAL,StLouis_MO_US,St. Louis,MO,US,Northern America,Northern America,38.627273,-90.197889
+35004,56614,1960,MLB,National,MWB/ATL,1960_National_MWB/ATL,Isabela_PR,Isabela, ,PR,Caribbean,Latin America and the Caribbean,39.78373,-100.445882
+35008,56614,1960,MLB,National,MIL,1960_National_MWB/ATL,Isabela_PR,Isabela, ,PR,Caribbean,Latin America and the Caribbean,39.78373,-100.445882
+35292,57090,1960,MLB,American,BAL,1960_American_BAL,Greensboro_NC_US,Greensboro,NC,US,Northern America,Northern America,36.072636,-79.791975
+35691,57905,1960,MLB,National,SF,1960_National_SF,LagunaVerde_MonteCristi_DO,Laguna Verde,Monte Cristi,DO,Caribbean,Latin America and the Caribbean,19.812865,-71.578815
+35706,57905,1960,MLB,National,SF,1960_National_SF,LagunaVerde_MonteCristi_DO,Laguna Verde,Monte Cristi,DO,Caribbean,Latin America and the Caribbean,19.812865,-71.578815
+35914,58146,1960,MLB,National,CHC,1960_National_CHC,Ozanna_PL,Ozanna, ,PL,Eastern Europe,Europe,50.283969,22.524323
+35926,58146,1960,MLB,National,CHC,1960_National_CHC,Ozanna_PL,Ozanna, ,PL,Eastern Europe,Europe,50.283969,22.524323
+35948,58220,1960,MLB,National,CHC,1960_National_CHC,Woodruff_SC_US,Woodruff,SC,US,Northern America,Northern America,34.73957,-82.037047
+35955,58220,1960,MLB,National,CHC,1960_National_CHC,Woodruff_SC_US,Woodruff,SC,US,Northern America,Northern America,34.73957,-82.037047
+36026,58400,1960,MLB,National,STL,1960_National_STL,Barling_AR_US,Barling,AR,US,Northern America,Northern America,35.325647,-94.301601
+36029,58400,1960,MLB,National,STL,1960_National_STL,Barling_AR_US,Barling,AR,US,Northern America,Northern America,35.325647,-94.301601
+36326,58922,1960,MLB,American,KCA/OAK,1960_American_KCA/OAK,NewYork_NY_US,New York,NY,US,Northern America,Northern America,43.102443,-75.291082
+36327,58922,1960,MLB,American,KC,1960_American_KCA/OAK,NewYork_NY_US,New York,NY,US,Northern America,Northern America,43.102443,-75.291082
+36356,59018,1960,MLB,American,BAL,1960_American_BAL,Oxford_NE_US,Oxford,NE,US,Northern America,Northern America,40.248342,-99.633445
+36381,59049,1960,MLB,American,BAL,1960_American_BAL,Frostburg_MD_US,Frostburg,MD,US,Northern America,Northern America,39.658143,-78.928357
+36803,59610,1960,MLB,American,BOS,1960_American_BOS,LincolnPark_MI_US,Lincoln Park,MI,US,Northern America,Northern America,42.250594,-83.178536
+37003,59996,1960,MLB,American,WSH/MIN,1960_American_WSH/MIN,Youngstown_OH_US,Youngstown,OH,US,Northern America,Northern America,41.09978,-80.649519
+37005,59996,1960,MLB,American,WSH,1960_American_WSH/MIN,Youngstown_OH_US,Youngstown,OH,US,Northern America,Northern America,41.09978,-80.649519
+37117,60233,1960,MLB,American,CWS,1960_American_CWS,Pittsburgh_PA_US,Pittsburgh,PA,US,Northern America,Northern America,40.441694,-79.990086
+37122,60233,1960,MLB,American,WSH/MIN,1960_American_WSH/MIN,Pittsburgh_PA_US,Pittsburgh,PA,US,Northern America,Northern America,40.441694,-79.990086
+37123,60233,1960,MLB,American,CWS,1960_American_CWS,Pittsburgh_PA_US,Pittsburgh,PA,US,Northern America,Northern America,40.441694,-79.990086
+37128,60233,1960,MLB,American,WSH,1960_American_WSH/MIN,Pittsburgh_PA_US,Pittsburgh,PA,US,Northern America,Northern America,40.441694,-79.990086
+37129,60234,1960,MLB,American,BAL,1960_American_BAL,Martinsburg_WV_US,Martinsburg,WV,US,Northern America,Northern America,39.456076,-77.963771
+37160,60324,1960,MLB,National,CHC,1960_National_CHC,Brooklyn_NY_US,Brooklyn,NY,US,Northern America,Northern America,40.650104,-73.949582
+37161,60324,1960,MLB,National,CHC,1960_National_CHC,Brooklyn_NY_US,Brooklyn,NY,US,Northern America,Northern America,40.650104,-73.949582
+37185,60439,1960,MLB,American,BAL,1960_American_BAL,LittleRock_AR_US,Little Rock,AR,US,Northern America,Northern America,34.746481,-92.289595
+37208,60463,1960,MLB,National,SF,1960_National_SF,SanPedro_CA_US,San Pedro,CA,US,Northern America,Northern America,33.735852,-118.292293
+37216,60463,1960,MLB,National,SF,1960_National_SF,SanPedro_CA_US,San Pedro,CA,US,Northern America,Northern America,33.735852,-118.292293
+37407,60821,1960,MLB,American,BAL,1960_American_BAL,PottsCamp_MS_US,Potts Camp,MS,US,Northern America,Northern America,34.646294,-89.305004
+37427,60853,1960,MLB,American,WSH/MIN,1960_American_WSH/MIN,Payette_ID_US,Payette,ID,US,Northern America,Northern America,44.07822,-116.933771
+37443,60853,1960,MLB,American,WSH,1960_American_WSH/MIN,Payette_ID_US,Payette,ID,US,Northern America,Northern America,44.07822,-116.933771
+37543,61059,1960,MLB,National,STL,1960_National_STL,Cleveland_OH_US,Cleveland,OH,US,Northern America,Northern America,41.505161,-81.693445
+37544,61059,1960,MLB,National,STL,1960_National_STL,Cleveland_OH_US,Cleveland,OH,US,Northern America,Northern America,41.505161,-81.693445
+37586,61136,1960,MLB,American,WSH/MIN,1960_American_WSH/MIN,Ontonagon_MI_US,Ontonagon,MI,US,Northern America,Northern America,46.871053,-89.31403
+37588,61136,1960,MLB,American,WSH,1960_American_WSH/MIN,Ontonagon_MI_US,Ontonagon,MI,US,Northern America,Northern America,46.871053,-89.31403
+37641,61235,1960,MLB,American,CWS,1960_American_CWS,Durham_AR_US,Durham,AR,US,Northern America,Northern America,35.949524,-93.980476
+37645,61235,1960,MLB,American,CWS,1960_American_CWS,Durham_AR_US,Durham,AR,US,Northern America,Northern America,35.949524,-93.980476
+37681,61289,1960,MLB,American,WSH/MIN,1960_American_WSH/MIN,Detroit_MI_US,Detroit,MI,US,Northern America,Northern America,42.348664,-83.056737
+37689,61289,1960,MLB,American,WSH,1960_American_WSH/MIN,Detroit_MI_US,Detroit,MI,US,Northern America,Northern America,42.348664,-83.056737
+37988,61890,1960,MLB,National,CIN,1960_National_CIN,Spartanburg_IN_US,Spartanburg,IN,US,Northern America,Northern America,40.066158,-84.851628
+37989,61890,1960,MLB,National,CIN,1960_National_CIN,Spartanburg_IN_US,Spartanburg,IN,US,Northern America,Northern America,40.066158,-84.851628
+37998,61941,1960,MLB,National,PIT,1960_National_PIT,Moultrie_GA_US,Moultrie,GA,US,Northern America,Northern America,31.181152,-83.787881
+38000,61941,1960,MLB,National,PIT,1960_National_PIT,Moultrie_GA_US,Moultrie,GA,US,Northern America,Northern America,31.181152,-83.787881
+38110,62265,1960,MLB,National,LAD,1960_National_LAD,Ashland_OH_US,Ashland,OH,US,Northern America,Northern America,40.868668,-82.318218
+38121,62265,1960,MLB,National,LAD,1960_National_LAD,Ashland_OH_US,Ashland,OH,US,Northern America,Northern America,40.868668,-82.318218
+38423,62791,1960,MLB,American,BOS,1960_American_BOS,LaHabana_LaHabana_CU,La Habana, ,CU,Caribbean,Latin America and the Caribbean,23.138028,-82.365867
+39011,63668,1960,MLB,National,CIN,1960_National_CIN,Berkeley_CA_US,Berkeley,CA,US,Northern America,Northern America,37.870839,-122.272864
+39014,63668,1960,MLB,National,CIN,1960_National_CIN,Berkeley_CA_US,Berkeley,CA,US,Northern America,Northern America,37.870839,-122.272864
+39194,63991,1960,MLB,National,MWB/ATL,1960_National_MWB/ATL,Mobile_AL_US,Mobile,AL,US,Northern America,Northern America,30.694357,-88.043054
+39202,63991,1960,MLB,National,MIL,1960_National_MWB/ATL,Mobile_AL_US,Mobile,AL,US,Northern America,Northern America,30.694357,-88.043054
+39400,64406,1960,MLB,American,KCA/OAK,1960_American_KCA/OAK,Hudson_NY_US,Hudson,NY,US,Northern America,Northern America,42.252865,-73.790959
+39401,64406,1960,MLB,American,KC,1960_American_KCA/OAK,Hudson_NY_US,Hudson,NY,US,Northern America,Northern America,42.252865,-73.790959
+39419,64416,1960,MLB,American,DET,1960_American_DET,MonteCristi_MonteCristi_DO,Monte Cristi, ,DO,Caribbean,Latin America and the Caribbean,19.850353,-71.644202
+39425,64416,1960,MLB,American,DET,1960_American_DET,MonteCristi_MonteCristi_DO,Monte Cristi, ,DO,Caribbean,Latin America and the Caribbean,19.850353,-71.644202
+39801,64822,1960,MLB,National,CHC,1960_National_CHC,StPaul_MN_US,St. Paul,MN,US,Northern America,Northern America,44.950404,-93.101503
+39808,64822,1960,MLB,National,CHC,1960_National_CHC,StPaul_MN_US,St. Paul,MN,US,Northern America,Northern America,44.950404,-93.101503
+39857,64956,1960,MLB,American,KCA/OAK,1960_American_KCA/OAK,Omaha_NE_US,Omaha,NE,US,Northern America,Northern America,41.258732,-95.937873
+39865,64956,1960,MLB,American,KC,1960_American_KCA/OAK,Omaha_NE_US,Omaha,NE,US,Northern America,Northern America,41.258732,-95.937873
+40041,65173,1960,MLB,American,NYY,1960_American_NYY,BonnersFerry_ID_US,Bonners Ferry,ID,US,Northern America,Northern America,48.691326,-116.316309
+40044,65173,1960,MLB,American,NYY,1960_American_NYY,BonnersFerry_ID_US,Bonners Ferry,ID,US,Northern America,Northern America,48.691326,-116.316309
+40261,65514,1960,MLB,American,BAL,1960_American_BAL,Akron_OH_US,Akron,OH,US,Northern America,Northern America,41.083064,-81.518485
+40402,65664,1960,MLB,American,DET,1960_American_DET,Lincoln_RI_US,Lincoln,RI,US,Northern America,Northern America,41.952924,-71.466386
+40403,65664,1960,MLB,National,LAD,1960_National_LAD,Lincoln_RI_US,Lincoln,RI,US,Northern America,Northern America,41.952924,-71.466386
+40405,65664,1960,MLB,National,PIT,1960_National_PIT,Lincoln_RI_US,Lincoln,RI,US,Northern America,Northern America,41.952924,-71.466386
+40407,65664,1960,MLB,American,DET,1960_American_DET,Lincoln_RI_US,Lincoln,RI,US,Northern America,Northern America,41.952924,-71.466386
+40408,65664,1960,MLB,National,LAD,1960_National_LAD,Lincoln_RI_US,Lincoln,RI,US,Northern America,Northern America,41.952924,-71.466386
+40410,65664,1960,MLB,National,PIT,1960_National_PIT,Lincoln_RI_US,Lincoln,RI,US,Northern America,Northern America,41.952924,-71.466386
+40588,65934,1960,MLB,American,BAL,1960_American_BAL,SanLuisObispo_CA_US,San Luis Obispo,CA,US,Northern America,Northern America,35.282753,-120.659616
+40684,66231,1960,MLB,National,PIT,1960_National_PIT,LaJolla_CA_US,La Jolla,CA,US,Northern America,Northern America,32.847271,-117.274209
+40693,66231,1960,MLB,National,PIT,1960_National_PIT,LaJolla_CA_US,La Jolla,CA,US,Northern America,Northern America,32.847271,-117.274209
+41119,66798,1960,MLB,American,WSH/MIN,1960_American_WSH/MIN,Globe_AZ_US,Globe,AZ,US,Northern America,Northern America,33.394222,-110.786498
+41128,66798,1960,MLB,American,WSH,1960_American_WSH/MIN,Globe_AZ_US,Globe,AZ,US,Northern America,Northern America,33.394222,-110.786498
+41290,67057,1960,MLB,American,KCA/OAK,1960_American_KCA/OAK,Rudolph_WI_US,Rudolph,WI,US,Northern America,Northern America,44.496075,-89.807624
+41291,67057,1960,MLB,American,KC,1960_American_KCA/OAK,Rudolph_WI_US,Rudolph,WI,US,Northern America,Northern America,44.496075,-89.807624
+41623,67508,1960,MLB,American,WSH/MIN,1960_American_WSH/MIN,LaHabana_LaHabana_CU,La Habana, ,CU,Caribbean,Latin America and the Caribbean,23.138028,-82.365867
+41625,67508,1960,MLB,American,WSH,1960_American_WSH/MIN,LaHabana_LaHabana_CU,La Habana, ,CU,Caribbean,Latin America and the Caribbean,23.138028,-82.365867
+41725,67846,1960,MLB,National,PIT,1960_National_PIT,Wilkinsburg_PA_US,Wilkinsburg,PA,US,Northern America,Northern America,40.441736,-79.881994
+41734,67846,1960,MLB,National,PIT,1960_National_PIT,Wilkinsburg_PA_US,Wilkinsburg,PA,US,Northern America,Northern America,40.441736,-79.881994
+41744,67862,1960,MLB,National,SF,1960_National_SF,Morristown_TN_US,Morristown,TN,US,Northern America,Northern America,36.213981,-83.294892
+41746,67862,1960,MLB,National,SF,1960_National_SF,Morristown_TN_US,Morristown,TN,US,Northern America,Northern America,36.213981,-83.294892
+41845,68055,1960,MLB,American,CWS,1960_American_CWS,BattleCreek_MI_US,Battle Creek,MI,US,Northern America,Northern America,42.319255,-85.182427
+41846,68055,1960,MLB,National,MWB/ATL,1960_National_MWB/ATL,BattleCreek_MI_US,Battle Creek,MI,US,Northern America,Northern America,42.319255,-85.182427
+41847,68055,1960,MLB,American,CWS,1960_American_CWS,BattleCreek_MI_US,Battle Creek,MI,US,Northern America,Northern America,42.319255,-85.182427
+41848,68055,1960,MLB,National,MIL,1960_National_MWB/ATL,BattleCreek_MI_US,Battle Creek,MI,US,Northern America,Northern America,42.319255,-85.182427
+42189,68730,1960,MLB,American,CLE,1960_American_CLE,Refugio_TX_US,Refugio,TX,US,Northern America,Northern America,28.304531,-97.274588
+42190,68730,1960,MLB,American,DET,1960_American_DET,Refugio_TX_US,Refugio,TX,US,Northern America,Northern America,28.304531,-97.274588
+42192,68730,1960,MLB,National,STL,1960_National_STL,Refugio_TX_US,Refugio,TX,US,Northern America,Northern America,28.304531,-97.274588
+42193,68730,1960,MLB,American,CLE,1960_American_CLE,Refugio_TX_US,Refugio,TX,US,Northern America,Northern America,28.304531,-97.274588
+42194,68730,1960,MLB,American,DET,1960_American_DET,Refugio_TX_US,Refugio,TX,US,Northern America,Northern America,28.304531,-97.274588
+42196,68730,1960,MLB,National,STL,1960_National_STL,Refugio_TX_US,Refugio,TX,US,Northern America,Northern America,28.304531,-97.274588
+42208,68774,1960,MLB,National,PHI,1960_National_PHI,Pittsburgh_PA_US,Pittsburgh,PA,US,Northern America,Northern America,40.441694,-79.990086
+42214,68774,1960,MLB,National,PHI,1960_National_PHI,Pittsburgh_PA_US,Pittsburgh,PA,US,Northern America,Northern America,40.441694,-79.990086
+42225,68797,1960,MLB,National,STL,1960_National_STL,StLouis_MO_US,St. Louis,MO,US,Northern America,Northern America,38.627273,-90.197889
+42231,68797,1960,MLB,National,STL,1960_National_STL,StLouis_MO_US,St. Louis,MO,US,Northern America,Northern America,38.627273,-90.197889
+42365,68939,1960,MLB,American,DET,1960_American_DET,LongBeach_CA_US,Long Beach,CA,US,Northern America,Northern America,33.777466,-118.188487
+42366,68939,1960,MLB,American,DET,1960_American_DET,LongBeach_CA_US,Long Beach,CA,US,Northern America,Northern America,33.777466,-118.188487
+42455,69035,1960,MLB,American,DET,1960_American_DET,Kincaid_IL_US,Kincaid,IL,US,Northern America,Northern America,39.58866,-89.414536
+42457,69035,1960,MLB,American,KCA/OAK,1960_American_KCA/OAK,Kincaid_IL_US,Kincaid,IL,US,Northern America,Northern America,39.58866,-89.414536
+42459,69035,1960,MLB,American,DET,1960_American_DET,Kincaid_IL_US,Kincaid,IL,US,Northern America,Northern America,39.58866,-89.414536
+42461,69035,1960,MLB,American,KC,1960_American_KCA/OAK,Kincaid_IL_US,Kincaid,IL,US,Northern America,Northern America,39.58866,-89.414536
+42509,69096,1960,MLB,American,BOS,1960_American_BOS,SaukRapids_MN_US,Sauk Rapids,MN,US,Northern America,Northern America,45.59191,-94.166101
+42511,69096,1960,MLB,National,LAD,1960_National_LAD,SaukRapids_MN_US,Sauk Rapids,MN,US,Northern America,Northern America,45.59191,-94.166101
+42512,69096,1960,MLB,National,LAD,1960_National_LAD,SaukRapids_MN_US,Sauk Rapids,MN,US,Northern America,Northern America,45.59191,-94.166101
+42676,69267,1960,MLB,National,LAD,1960_National_LAD,Washington_DC_US,Washington,DC,US,Northern America,Northern America,38.894955,-77.036646
+42690,69267,1960,MLB,National,LAD,1960_National_LAD,Washington_DC_US,Washington,DC,US,Northern America,Northern America,38.894955,-77.036646
+42850,69414,1960,MLB,American,NYY,1960_American_NYY,Spavinaw_OK_US,Spavinaw,OK,US,Northern America,Northern America,36.391198,-95.046628
+42859,69414,1960,MLB,American,NYY,1960_American_NYY,Spavinaw_OK_US,Spavinaw,OK,US,Northern America,Northern America,36.391198,-95.046628
+42946,69569,1960,MLB,National,LAD,1960_National_LAD,LosAngeles_CA_US,Los Angeles,CA,US,Northern America,Northern America,34.054394,-118.243941
+42949,69569,1960,MLB,National,LAD,1960_National_LAD,LosAngeles_CA_US,Los Angeles,CA,US,Northern America,Northern America,34.054394,-118.243941
+43246,70043,1960,MLB,American,KCA/OAK,1960_American_KCA/OAK,Hoboken_NJ_US,Hoboken,NJ,US,Northern America,Northern America,40.743307,-74.032375
+43247,70043,1960,MLB,American,KC,1960_American_KCA/OAK,Hoboken_NJ_US,Hoboken,NJ,US,Northern America,Northern America,40.743307,-74.032375
+43364,70311,1960,MLB,National,LAD,1960_National_LAD,Longview_TX_US,Longview,TX,US,Northern America,Northern America,32.500704,-94.740489
+43369,70311,1960,MLB,National,LAD,1960_National_LAD,Longview_TX_US,Longview,TX,US,Northern America,Northern America,32.500704,-94.740489
+43441,70429,1960,MLB,American,BAL,1960_American_BAL,Huntersville_NC_US,Huntersville,NC,US,Northern America,Northern America,35.410714,-80.842848
+43695,70890,1960,MLB,National,CHC,1960_National_CHC,Goldsboro_NC_US,Goldsboro,NC,US,Northern America,Northern America,35.384884,-77.992765
+43703,70890,1960,MLB,National,CHC,1960_National_CHC,Goldsboro_NC_US,Goldsboro,NC,US,Northern America,Northern America,35.384884,-77.992765
+43728,70945,1960,MLB,American,CLE,1960_American_CLE,Hampton_SC_US,Hampton,SC,US,Northern America,Northern America,32.877943,-81.127605
+43741,70945,1960,MLB,American,CLE,1960_American_CLE,Hampton_SC_US,Hampton,SC,US,Northern America,Northern America,32.877943,-81.127605
+43910,71245,1960,MLB,American,KCA/OAK,1960_American_KCA/OAK,Lincoln_MO_US,Lincoln,MO,US,Northern America,Northern America,40.8,-96.667821
+43918,71245,1960,MLB,American,KC,1960_American_KCA/OAK,Lincoln_MO_US,Lincoln,MO,US,Northern America,Northern America,40.8,-96.667821
+44092,71552,1960,MLB,National,SF,1960_National_SF,Westfield_AL_US,Westfield,AL,US,Northern America,Northern America,32.961234,-85.97941
+44107,71552,1960,MLB,National,SF,1960_National_SF,Westfield_AL_US,Westfield,AL,US,Northern America,Northern America,32.961234,-85.97941
+44446,72166,1960,MLB,American,WSH/MIN,1960_American_WSH/MIN,Covington_VA_US,Covington,VA,US,Northern America,Northern America,37.793453,-79.993948
+44452,72166,1960,MLB,American,WSH,1960_American_WSH/MIN,Covington_VA_US,Covington,VA,US,Northern America,Northern America,37.793453,-79.993948
+44591,72476,1960,MLB,National,LAD,1960_National_LAD,Brooklyn_NY_US,Brooklyn,NY,US,Northern America,Northern America,40.650104,-73.949582
+44608,72476,1960,MLB,National,LAD,1960_National_LAD,Brooklyn_NY_US,Brooklyn,NY,US,Northern America,Northern America,40.650104,-73.949582
+44726,72640,1960,MLB,National,MWB/ATL,1960_National_MWB/ATL,Panola_AL_US,Panola,AL,US,Northern America,Northern America,32.950684,-88.268921
+44731,72640,1960,MLB,National,MIL,1960_National_MWB/ATL,Panola_AL_US,Panola,AL,US,Northern America,Northern America,32.950684,-88.268921
+45003,73138,1960,MLB,National,CHC,1960_National_CHC,Campbellstown_OH_US,Campbellstown,OH,US,Northern America,Northern America,39.787828,-84.760235
+45008,73138,1960,MLB,National,CHC,1960_National_CHC,Campbellstown_OH_US,Campbellstown,OH,US,Northern America,Northern America,39.787828,-84.760235
+45166,73460,1960,MLB,National,LAD,1960_National_LAD,Brooklyn_NY_US,Brooklyn,NY,US,Northern America,Northern America,40.650104,-73.949582
+45176,73460,1960,MLB,National,LAD,1960_National_LAD,Brooklyn_NY_US,Brooklyn,NY,US,Northern America,Northern America,40.650104,-73.949582
+45243,73585,1960,MLB,American,BAL,1960_American_BAL,Paris_TX_US,Paris,TX,US,Northern America,Northern America,33.661796,-95.555513
+45246,73585,1960,MLB,National,PHI,1960_National_PHI,Paris_TX_US,Paris,TX,US,Northern America,Northern America,33.661796,-95.555513
+45247,73585,1960,MLB,National,SF,1960_National_SF,Paris_TX_US,Paris,TX,US,Northern America,Northern America,33.661796,-95.555513
+45248,73585,1960,MLB,National,PHI,1960_National_PHI,Paris_TX_US,Paris,TX,US,Northern America,Northern America,33.661796,-95.555513
+45249,73585,1960,MLB,National,SF,1960_National_SF,Paris_TX_US,Paris,TX,US,Northern America,Northern America,33.661796,-95.555513
+45365,73828,1960,MLB,National,STL,1960_National_STL,Callery_PA_US,Callery,PA,US,Northern America,Northern America,40.740621,-80.036449
+45377,73828,1960,MLB,National,STL,1960_National_STL,Callery_PA_US,Callery,PA,US,Northern America,Northern America,40.740621,-80.036449
+45709,74401,1960,MLB,American,WSH/MIN,1960_American_WSH/MIN,Hindsboro_IL_US,Hindsboro,IL,US,Northern America,Northern America,39.685034,-88.133651
+45710,74401,1960,MLB,American,WSH,1960_American_WSH/MIN,Hindsboro_IL_US,Hindsboro,IL,US,Northern America,Northern America,39.685034,-88.133651
+46167,75231,1960,MLB,American,NYY,1960_American_NYY,Penuelas_PR,Penuelas, ,PR,Caribbean,Latin America and the Caribbean,39.78373,-100.445882
+46171,75231,1960,MLB,American,NYY,1960_American_NYY,Penuelas_PR,Penuelas, ,PR,Caribbean,Latin America and the Caribbean,39.78373,-100.445882
+46267,75466,1960,MLB,National,CIN,1960_National_CIN,Pittsburgh_PA_US,Pittsburgh,PA,US,Northern America,Northern America,40.441694,-79.990086
+46274,75466,1960,MLB,National,CIN,1960_National_CIN,Pittsburgh_PA_US,Pittsburgh,PA,US,Northern America,Northern America,40.441694,-79.990086
+46505,75795,1960,MLB,National,CHC,1960_National_CHC,Cincinnati_OH_US,Cincinnati,OH,US,Northern America,Northern America,39.101454,-84.51246
+46513,75795,1960,MLB,National,CHC,1960_National_CHC,Cincinnati_OH_US,Cincinnati,OH,US,Northern America,Northern America,39.101454,-84.51246
+46758,76071,1960,MLB,National,CIN,1960_National_CIN,Cienfuegos_Cienfuegos_CU,Cienfuegos,Cienfuegos,CU,Caribbean,Latin America and the Caribbean,22.149854,-80.443972
+46772,76071,1960,MLB,National,CIN,1960_National_CIN,Cienfuegos_Cienfuegos_CU,Cienfuegos,Cienfuegos,CU,Caribbean,Latin America and the Caribbean,22.149854,-80.443972
+46808,76104,1960,MLB,National,PHI,1960_National_PHI,Newark_NJ_US,Newark,NJ,US,Northern America,Northern America,40.735657,-74.172367
+46811,76104,1960,MLB,National,PHI,1960_National_PHI,Newark_NJ_US,Newark,NJ,US,Northern America,Northern America,40.735657,-74.172367
+47078,76473,1960,MLB,American,BOS,1960_American_BOS,PoncaCity_OK_US,Ponca City,OK,US,Northern America,Northern America,36.726743,-97.066734
+47429,77249,1960,MLB,National,CHC,1960_National_CHC,Jamestown_NY_US,Jamestown,NY,US,Northern America,Northern America,42.097002,-79.235326
+47430,77249,1960,MLB,National,LAD,1960_National_LAD,Jamestown_NY_US,Jamestown,NY,US,Northern America,Northern America,42.097002,-79.235326
+47431,77249,1960,MLB,National,CHC,1960_National_CHC,Jamestown_NY_US,Jamestown,NY,US,Northern America,Northern America,42.097002,-79.235326
+47432,77249,1960,MLB,National,LAD,1960_National_LAD,Jamestown_NY_US,Jamestown,NY,US,Northern America,Northern America,42.097002,-79.235326
+47433,77273,1960,MLB,American,CWS,1960_American_CWS,Hartford_AL_US,Hartford,AL,US,Northern America,Northern America,31.1024,-85.696878
+47437,77273,1960,MLB,American,CWS,1960_American_CWS,Hartford_AL_US,Hartford,AL,US,Northern America,Northern America,31.1024,-85.696878
+47547,77369,1960,MLB,National,LAD,1960_National_LAD,Altadena_CA_US,Altadena,CA,US,Northern America,Northern America,34.186316,-118.135233
+47556,77369,1960,MLB,National,LAD,1960_National_LAD,Altadena_CA_US,Altadena,CA,US,Northern America,Northern America,34.186316,-118.135233
+47561,77440,1960,MLB,American,CWS,1960_American_CWS,SanGabriel_CA_US,San Gabriel,CA,US,Northern America,Northern America,34.099133,-118.108604
+47563,77440,1960,MLB,American,CWS,1960_American_CWS,SanGabriel_CA_US,San Gabriel,CA,US,Northern America,Northern America,34.099133,-118.108604
+47634,77636,1960,MLB,American,KCA/OAK,1960_American_KCA/OAK,Dorchester_MA_US,Dorchester,MA,US,Northern America,Northern America,42.297321,-71.074495
+47636,77636,1960,MLB,National,MWB/ATL,1960_National_MWB/ATL,Dorchester_MA_US,Dorchester,MA,US,Northern America,Northern America,42.297321,-71.074495
+47637,77636,1960,MLB,American,KC,1960_American_KCA/OAK,Dorchester_MA_US,Dorchester,MA,US,Northern America,Northern America,42.297321,-71.074495
+47639,77636,1960,MLB,National,MIL,1960_National_MWB/ATL,Dorchester_MA_US,Dorchester,MA,US,Northern America,Northern America,42.297321,-71.074495
+47651,77665,1960,MLB,National,PHI,1960_National_PHI,SantiagodelasVegas_LaHabana_CU,Santiago de las Vegas,La Habana,CU,Caribbean,Latin America and the Caribbean,22.969403,-82.387365
+47653,77665,1960,MLB,National,PHI,1960_National_PHI,SantiagodelasVegas_LaHabana_CU,Santiago de las Vegas,La Habana,CU,Caribbean,Latin America and the Caribbean,22.969403,-82.387365
+47827,77986,1960,MLB,American,DET,1960_American_DET,Chicago_IL_US,Chicago,IL,US,Northern America,Northern America,41.875555,-87.624421
+47828,77986,1960,MLB,American,DET,1960_American_DET,Chicago_IL_US,Chicago,IL,US,Northern America,Northern America,41.875555,-87.624421
+47862,78107,1960,MLB,American,BAL,1960_American_BAL,Longview_WA_US,Longview,WA,US,Northern America,Northern America,46.14273,-122.955641
+48475,79161,1960,MLB,American,DET,1960_American_DET,Wausau_WI_US,Wausau,WI,US,Northern America,Northern America,44.959602,-89.629824
+48481,79161,1960,MLB,American,WSH/MIN,1960_American_WSH/MIN,Wausau_WI_US,Wausau,WI,US,Northern America,Northern America,44.959602,-89.629824
+48482,79161,1960,MLB,American,DET,1960_American_DET,Wausau_WI_US,Wausau,WI,US,Northern America,Northern America,44.959602,-89.629824
+48488,79161,1960,MLB,American,WSH,1960_American_WSH/MIN,Wausau_WI_US,Wausau,WI,US,Northern America,Northern America,44.959602,-89.629824
+49268,80713,1960,MLB,National,PIT,1960_National_PIT,Davenport_IA_US,Davenport,IA,US,Northern America,Northern America,41.523644,-90.577637
+49270,80713,1960,MLB,National,PIT,1960_National_PIT,Davenport_IA_US,Davenport,IA,US,Northern America,Northern America,41.523644,-90.577637
+49408,80855,1960,MLB,American,CWS,1960_American_CWS,Huntsville_AL_US,Huntsville,AL,US,Northern America,Northern America,34.615232,-86.807343
+49414,80855,1960,MLB,American,CWS,1960_American_CWS,Huntsville_AL_US,Huntsville,AL,US,Northern America,Northern America,34.615232,-86.807343
+49487,80888,1960,MLB,National,STL,1960_National_STL,Whiteland_IN_US,Whiteland,IN,US,Northern America,Northern America,39.550049,-86.079708
+49489,80888,1960,MLB,National,STL,1960_National_STL,Whiteland_IN_US,Whiteland,IN,US,Northern America,Northern America,39.550049,-86.079708
+49894,81465,1960,MLB,American,BOS,1960_American_BOS,GrassValley_CA_US,Grass Valley,CA,US,Northern America,Northern America,39.208666,-121.053123
+50900,82723,1960,MLB,National,LAD,1960_National_LAD,Eldon_MO_US,Eldon,MO,US,Northern America,Northern America,38.348364,-92.581576
+50904,82723,1960,MLB,National,LAD,1960_National_LAD,Eldon_MO_US,Eldon,MO,US,Northern America,Northern America,38.348364,-92.581576
+51512,84007,1960,MLB,National,CIN,1960_National_CIN,Bessemer_AL_US,Bessemer,AL,US,Northern America,Northern America,33.382363,-86.917205
+51514,84007,1960,MLB,National,CIN,1960_National_CIN,Bessemer_AL_US,Bessemer,AL,US,Northern America,Northern America,33.382363,-86.917205
+51993,85026,1960,MLB,National,CIN,1960_National_CIN,Caracas_DistritoFederal_VE, ,Carabobo,VE,South America,Latin America and the Caribbean,10.166667,-68.083333
+51996,85026,1960,MLB,National,CIN,1960_National_CIN,Caracas_DistritoFederal_VE, ,Carabobo,VE,South America,Latin America and the Caribbean,10.166667,-68.083333
+52001,85052,1960,MLB,American,CLE,1960_American_CLE,Milwaukee_WI_US,Milwaukee,WI,US,Northern America,Northern America,43.034993,-87.922497
+52002,85052,1960,MLB,American,DET,1960_American_DET,Milwaukee_WI_US,Milwaukee,WI,US,Northern America,Northern America,43.034993,-87.922497
+52003,85052,1960,MLB,American,CLE,1960_American_CLE,Milwaukee_WI_US,Milwaukee,WI,US,Northern America,Northern America,43.034993,-87.922497
+52004,85052,1960,MLB,American,DET,1960_American_DET,Milwaukee_WI_US,Milwaukee,WI,US,Northern America,Northern America,43.034993,-87.922497
+52080,85173,1960,MLB,American,KCA/OAK,1960_American_KCA/OAK,Ney_OH_US,Ney,OH,US,Northern America,Northern America,41.381162,-84.522727
+52082,85173,1960,MLB,American,KC,1960_American_KCA/OAK,Ney_OH_US,Ney,OH,US,Northern America,Northern America,41.381162,-84.522727
+52342,85513,1960,MLB,National,LAD,1960_National_LAD,Columbus_OH_US,Columbus,OH,US,Northern America,Northern America,39.96226,-83.000706
+52357,85513,1960,MLB,National,LAD,1960_National_LAD,Columbus_OH_US,Columbus,OH,US,Northern America,Northern America,39.96226,-83.000706
+52514,85772,1960,MLB,National,PHI,1960_National_PHI, , , , , , ,0,0
+52515,85772,1960,MLB,National,PHI,1960_National_PHI, , , , , , ,0,0
+52625,86121,1960,MLB,American,CWS,1960_American_CWS,LaHabana_LaHabana_CU,La Habana, ,CU,Caribbean,Latin America and the Caribbean,23.138028,-82.365867
+52632,86121,1960,MLB,American,CWS,1960_American_CWS,LaHabana_LaHabana_CU,La Habana, ,CU,Caribbean,Latin America and the Caribbean,23.138028,-82.365867
+53281,86986,1960,MLB,American,KCA/OAK,1960_American_KCA/OAK,Detroit_MI_US,Detroit,MI,US,Northern America,Northern America,42.348664,-83.056737
+53289,86986,1960,MLB,American,KC,1960_American_KCA/OAK,Detroit_MI_US,Detroit,MI,US,Northern America,Northern America,42.348664,-83.056737
+53314,87010,1960,MLB,American,WSH/MIN,1960_American_WSH/MIN,Fisherville_TN_US,Fisherville,TN,US,Northern America,Northern America,35.159256,-89.663692
+53316,87010,1960,MLB,American,WSH,1960_American_WSH/MIN,Fisherville_TN_US,Fisherville,TN,US,Northern America,Northern America,35.159256,-89.663692
+53317,87012,1960,MLB,National,PIT,1960_National_PIT,MarcusHook_PA_US,Marcus Hook,PA,US,Northern America,Northern America,39.819447,-75.418661
+53318,87012,1960,MLB,National,PIT,1960_National_PIT,MarcusHook_PA_US,Marcus Hook,PA,US,Northern America,Northern America,39.819447,-75.418661
+53365,87153,1960,MLB,American,CLE,1960_American_CLE,Hoboken_NJ_US,Hoboken,NJ,US,Northern America,Northern America,40.743307,-74.032375
+53373,87153,1960,MLB,American,CLE,1960_American_CLE,Hoboken_NJ_US,Hoboken,NJ,US,Northern America,Northern America,40.743307,-74.032375
+53508,87373,1960,MLB,American,NYY,1960_American_NYY,Cazenovia_WI_US,Cazenovia,WI,US,Northern America,Northern America,43.523035,-90.196238
+53517,87373,1960,MLB,American,NYY,1960_American_NYY,Cazenovia_WI_US,Cazenovia,WI,US,Northern America,Northern America,43.523035,-90.196238
+53770,87586,1960,MLB,American,BAL,1960_American_BAL,HallSummit_LA_US,Hall Summit,LA,US,Northern America,Northern America,32.177381,-93.302393
+54108,88094,1960,MLB,American,WSH/MIN,1960_American_WSH/MIN,Zanesville_OH_US,Zanesville,OH,US,Northern America,Northern America,39.940345,-82.013192
+54111,88094,1960,MLB,American,WSH,1960_American_WSH/MIN,Zanesville_OH_US,Zanesville,OH,US,Northern America,Northern America,39.940345,-82.013192
+54321,88454,1960,MLB,American,KCA/OAK,1960_American_KCA/OAK,Orange_CA_US,Orange,CA,US,Northern America,Northern America,33.787257,-117.850309
+54327,88454,1960,MLB,American,KC,1960_American_KCA/OAK,Orange_CA_US,Orange,CA,US,Northern America,Northern America,33.787257,-117.850309
+54694,89072,1960,MLB,National,PHI,1960_National_PHI,Arroyo_PR,Arroyo, ,PR,Caribbean,Latin America and the Caribbean,39.78373,-100.445882
+54698,89072,1960,MLB,National,PHI,1960_National_PHI,Arroyo_PR,Arroyo, ,PR,Caribbean,Latin America and the Caribbean,39.78373,-100.445882
+55138,89861,1960,MLB,American,NYY,1960_American_NYY,Monticello_AR_US,Monticello,AR,US,Northern America,Northern America,33.629343,-91.791233
+55148,89861,1960,MLB,American,NYY,1960_American_NYY,Monticello_AR_US,Monticello,AR,US,Northern America,Northern America,33.629343,-91.791233
+55183,89940,1960,MLB,American,BOS,1960_American_BOS,Gordon_KS_US,Gordon,KS,US,Northern America,Northern America,37.58863,-96.990592
+55388,90210,1960,MLB,American,DET,1960_American_DET,ElMonte_CA_US,El Monte,CA,US,Northern America,Northern America,34.075157,-118.036849
+55392,90210,1960,MLB,American,WSH/MIN,1960_American_WSH/MIN,ElMonte_CA_US,El Monte,CA,US,Northern America,Northern America,34.075157,-118.036849
+55393,90210,1960,MLB,American,DET,1960_American_DET,ElMonte_CA_US,El Monte,CA,US,Northern America,Northern America,34.075157,-118.036849
+55397,90210,1960,MLB,American,WSH,1960_American_WSH/MIN,ElMonte_CA_US,El Monte,CA,US,Northern America,Northern America,34.075157,-118.036849
+55534,90382,1960,MLB,National,STL,1960_National_STL,Berkeley_CA_US,Berkeley,CA,US,Northern America,Northern America,37.870839,-122.272864
+55542,90382,1960,MLB,National,STL,1960_National_STL,Berkeley_CA_US,Berkeley,CA,US,Northern America,Northern America,37.870839,-122.272864
+55667,90562,1960,MLB,American,CLE,1960_American_CLE,Walpole_MA_US,Walpole,MA,US,Northern America,Northern America,42.141765,-71.249498
+55669,90562,1960,MLB,National,PHI,1960_National_PHI,Walpole_MA_US,Walpole,MA,US,Northern America,Northern America,42.141765,-71.249498
+55671,90562,1960,MLB,American,CLE,1960_American_CLE,Walpole_MA_US,Walpole,MA,US,Northern America,Northern America,42.141765,-71.249498
+55673,90562,1960,MLB,National,PHI,1960_National_PHI,Walpole_MA_US,Walpole,MA,US,Northern America,Northern America,42.141765,-71.249498
+55685,90577,1960,MLB,National,CIN,1960_National_CIN,Lowell_NC_US,Lowell,NC,US,Northern America,Northern America,35.267916,-81.102854
+55686,90577,1960,MLB,National,CIN,1960_National_CIN,Lowell_NC_US,Lowell,NC,US,Northern America,Northern America,35.267916,-81.102854
+55823,90756,1960,MLB,American,NYY,1960_American_NYY,Piqua_KS_US,Piqua,KS,US,Northern America,Northern America,37.922813,-95.535261
+55824,90756,1960,MLB,American,NYY,1960_American_NYY,Piqua_KS_US,Piqua,KS,US,Northern America,Northern America,37.922813,-95.535261
+55880,90839,1960,MLB,American,WSH/MIN,1960_American_WSH/MIN,Waterford_CT_US,Waterford,CT,US,Northern America,Northern America,41.346147,-72.131768
+55884,90839,1960,MLB,American,WSH,1960_American_WSH/MIN,Waterford_CT_US,Waterford,CT,US,Northern America,Northern America,41.346147,-72.131768
+56004,91066,1960,MLB,American,DET,1960_American_DET,StLouis_MO_US,St. Louis,MO,US,Northern America,Northern America,38.627273,-90.197889
+56007,91066,1960,MLB,American,DET,1960_American_DET,StLouis_MO_US,St. Louis,MO,US,Northern America,Northern America,38.627273,-90.197889
+56181,91300,1960,MLB,National,SF,1960_National_SF,Siluria_AL_US,Siluria,AL,US,Northern America,Northern America,33.229282,-86.824988
+56192,91300,1960,MLB,National,SF,1960_National_SF,Siluria_AL_US,Siluria,AL,US,Northern America,Northern America,33.229282,-86.824988
+56494,91636,1960,MLB,American,BOS,1960_American_BOS,Coeburn_VA_US,Coeburn,VA,US,Northern America,Northern America,36.943992,-82.46404
+56649,92088,1960,MLB,American,WSH/MIN,1960_American_WSH/MIN,LaHabana_LaHabana_CU,La Habana, ,CU,Caribbean,Latin America and the Caribbean,23.138028,-82.365867
+56653,92088,1960,MLB,American,WSH,1960_American_WSH/MIN,LaHabana_LaHabana_CU,La Habana, ,CU,Caribbean,Latin America and the Caribbean,23.138028,-82.365867
+56805,92335,1960,MLB,National,SF,1960_National_SF,Siluria_AL_US,Siluria,AL,US,Northern America,Northern America,33.229282,-86.824988
+56812,92335,1960,MLB,National,SF,1960_National_SF,Siluria_AL_US,Siluria,AL,US,Northern America,Northern America,33.229282,-86.824988
+57157,92855,1960,MLB,National,CHC,1960_National_CHC,Alton_IL_US,Alton,IL,US,Northern America,Northern America,38.890604,-90.184276
+57159,92855,1960,MLB,National,CHC,1960_National_CHC,Alton_IL_US,Alton,IL,US,Northern America,Northern America,38.890604,-90.184276
+57829,93829,1960,MLB,American,WSH/MIN,1960_American_WSH/MIN,Stanley_NC_US,Stanley,NC,US,Northern America,Northern America,35.359026,-81.097021
+57842,93829,1960,MLB,American,WSH,1960_American_WSH/MIN,Stanley_NC_US,Stanley,NC,US,Northern America,Northern America,35.359026,-81.097021
+57843,93852,1960,MLB,National,PHI,1960_National_PHI,Wilmington_DE_US,Wilmington,DE,US,Northern America,Northern America,39.745947,-75.546589
+57844,93852,1960,MLB,National,PHI,1960_National_PHI,Wilmington_DE_US,Wilmington,DE,US,Northern America,Northern America,39.745947,-75.546589
+58060,94203,1960,MLB,American,KCA/OAK,1960_American_KCA/OAK,Clare_MI_US,Clare,MI,US,Northern America,Northern America,43.81947,-84.768628
+58061,94203,1960,MLB,American,KC,1960_American_KCA/OAK,Clare_MI_US,Clare,MI,US,Northern America,Northern America,43.81947,-84.768628
+58124,94360,1960,MLB,American,NYY,1960_American_NYY,Gastonia_NC_US,Gastonia,NC,US,Northern America,Northern America,35.262082,-81.1873
+58125,94360,1960,MLB,American,NYY,1960_American_NYY,Gastonia_NC_US,Gastonia,NC,US,Northern America,Northern America,35.262082,-81.1873
+58347,94805,1960,MLB,National,CIN,1960_National_CIN,CentralCunagua_CU,Central Cunagua, ,CU,Caribbean,Latin America and the Caribbean,22.084227,-78.340668
+58350,94805,1960,MLB,National,PHI,1960_National_PHI,CentralCunagua_CU,Central Cunagua, ,CU,Caribbean,Latin America and the Caribbean,22.084227,-78.340668
+58360,94805,1960,MLB,National,CIN,1960_National_CIN,CentralCunagua_CU,Central Cunagua, ,CU,Caribbean,Latin America and the Caribbean,22.084227,-78.340668
+58361,94805,1960,MLB,National,PHI,1960_National_PHI,CentralCunagua_CU,Central Cunagua, ,CU,Caribbean,Latin America and the Caribbean,22.084227,-78.340668
+58623,95165,1960,MLB,National,MWB/ATL,1960_National_MWB/ATL,Ontario_CA_US,Ontario,CA,US,Northern America,Northern America,34.063344,-117.650888
+58630,95165,1960,MLB,National,MIL,1960_National_MWB/ATL,Ontario_CA_US,Ontario,CA,US,Northern America,Northern America,34.063344,-117.650888
+58874,95521,1960,MLB,American,WSH/MIN,1960_American_WSH/MIN,Cleveland_OH_US,Cleveland,OH,US,Northern America,Northern America,41.505161,-81.693445
+58879,95521,1960,MLB,American,WSH,1960_American_WSH/MIN,Cleveland_OH_US,Cleveland,OH,US,Northern America,Northern America,41.505161,-81.693445
+58930,95600,1960,MLB,National,PIT,1960_National_PIT,LongBeach_CA_US,Long Beach,CA,US,Northern America,Northern America,33.777466,-118.188487
+58934,95600,1960,MLB,National,PIT,1960_National_PIT,LongBeach_CA_US,Long Beach,CA,US,Northern America,Northern America,33.777466,-118.188487
+59326,96345,1960,MLB,American,CWS,1960_American_CWS,Maracaibo_Zulia_VE,Maracaibo, ,VE,South America,Latin America and the Caribbean,10.665156,-71.623075
+59332,96345,1960,MLB,American,CWS,1960_American_CWS,Maracaibo_Zulia_VE,Maracaibo, ,VE,South America,Latin America and the Caribbean,10.665156,-71.623075
+59396,96446,1960,MLB,National,CIN,1960_National_CIN,Alice_TX_US,Alice,TX,US,Northern America,Northern America,27.752249,-98.069725
+59408,96446,1960,MLB,National,CIN,1960_National_CIN,Alice_TX_US,Alice,TX,US,Northern America,Northern America,27.752249,-98.069725
+59561,96690,1960,MLB,American,BOS,1960_American_BOS,Medford_MA_US,Medford,MA,US,Northern America,Northern America,42.41843,-71.106164
+59841,96949,1960,MLB,American,DET,1960_American_DET,NewYork_NY_US,New York,NY,US,Northern America,Northern America,43.102443,-75.291082
+59852,96949,1960,MLB,American,DET,1960_American_DET,NewYork_NY_US,New York,NY,US,Northern America,Northern America,43.102443,-75.291082
+60821,98586,1960,MLB,American,KCA/OAK,1960_American_KCA/OAK,LaHabana_LaHabana_CU,La Habana, ,CU,Caribbean,Latin America and the Caribbean,23.138028,-82.365867
+60824,98586,1960,MLB,American,KC,1960_American_KCA/OAK,LaHabana_LaHabana_CU,La Habana, ,CU,Caribbean,Latin America and the Caribbean,23.138028,-82.365867
+60844,98605,1960,MLB,National,PIT,1960_National_PIT,Carolina_PR,Carolina, ,PR,Caribbean,Latin America and the Caribbean,39.78373,-100.445882
+60857,98605,1960,MLB,National,PIT,1960_National_PIT,Carolina_PR,Carolina, ,PR,Caribbean,Latin America and the Caribbean,39.78373,-100.445882
+61228,99172,1960,MLB,National,PHI,1960_National_PHI,Qualls_OK_US,Qualls,OK,US,Northern America,Northern America,35.720372,-95.033011
+61242,99172,1960,MLB,National,PHI,1960_National_PHI,Qualls_OK_US,Qualls,OK,US,Northern America,Northern America,35.720372,-95.033011
+61325,99301,1960,MLB,American,BAL,1960_American_BAL,Decatur_AL_US,Decatur,AL,US,Northern America,Northern America,34.542533,-86.909061
+61710,100025,1960,MLB,American,CLE,1960_American_CLE,SanDiego_CA_US,San Diego,CA,US,Northern America,Northern America,32.717421,-117.162771
+61711,100025,1960,MLB,American,CLE,1960_American_CLE,SanDiego_CA_US,San Diego,CA,US,Northern America,Northern America,32.717421,-117.162771
+61735,100052,1960,MLB,American,NYY,1960_American_NYY,GrandForks_ND_US,Grand Forks,ND,US,Northern America,Northern America,47.907824,-97.059203
+61741,100052,1960,MLB,American,NYY,1960_American_NYY,GrandForks_ND_US,Grand Forks,ND,US,Northern America,Northern America,47.907824,-97.059203
+61791,100155,1960,MLB,American,BOS,1960_American_BOS,Oakland_CA_US,Oakland,CA,US,Northern America,Northern America,37.804456,-122.271356
+61797,100155,1960,MLB,American,CLE,1960_American_CLE,Oakland_CA_US,Oakland,CA,US,Northern America,Northern America,37.804456,-122.271356
+61804,100155,1960,MLB,American,CLE,1960_American_CLE,Oakland_CA_US,Oakland,CA,US,Northern America,Northern America,37.804456,-122.271356
+61836,100184,1960,MLB,National,LAD,1960_National_LAD,LosAngeles_CA_US,Los Angeles,CA,US,Northern America,Northern America,34.054394,-118.243941
+61845,100184,1960,MLB,National,LAD,1960_National_LAD,LosAngeles_CA_US,Los Angeles,CA,US,Northern America,Northern America,34.054394,-118.243941
+62043,100618,1960,MLB,National,PHI,1960_National_PHI,Cincinnati_OH_US,Cincinnati,OH,US,Northern America,Northern America,39.101454,-84.51246
+62050,100618,1960,MLB,National,PHI,1960_National_PHI,Cincinnati_OH_US,Cincinnati,OH,US,Northern America,Northern America,39.101454,-84.51246
+62081,100623,1960,MLB,American,DET,1960_American_DET,Otsego_MI_US,Otsego,MI,US,Northern America,Northern America,42.46059,-85.696406
+62096,100623,1960,MLB,American,DET,1960_American_DET,Otsego_MI_US,Otsego,MI,US,Northern America,Northern America,42.46059,-85.696406
+62410,101186,1960,MLB,National,SF,1960_National_SF,Corinth_MS_US,Corinth,MS,US,Northern America,Northern America,34.934255,-88.52227
+62420,101186,1960,MLB,National,SF,1960_National_SF,Corinth_MS_US,Corinth,MS,US,Northern America,Northern America,34.934255,-88.52227
+62479,101223,1960,MLB,National,CIN,1960_National_CIN,Chicago_IL_US,Chicago,IL,US,Northern America,Northern America,41.875555,-87.624421
+62487,101223,1960,MLB,National,CIN,1960_National_CIN,Chicago_IL_US,Chicago,IL,US,Northern America,Northern America,41.875555,-87.624421
+62770,101704,1960,MLB,American,BAL,1960_American_BAL,SanFrancisco_CA_US,San Francisco,CA,US,Northern America,Northern America,37.779277,-122.41927
+63018,102237,1960,MLB,American,CLE,1960_American_CLE,RowesRun_PA_US,Rowes Run,PA,US,Northern America,Northern America,40.00952,-79.816988
+63027,102237,1960,MLB,American,CLE,1960_American_CLE,RowesRun_PA_US,Rowes Run,PA,US,Northern America,Northern America,40.00952,-79.816988
+63459,103064,1960,MLB,National,MWB/ATL,1960_National_MWB/ATL,Romulus_MI_US,Romulus,MI,US,Northern America,Northern America,42.222261,-83.396599
+63463,103064,1960,MLB,National,MIL,1960_National_MWB/ATL,Romulus_MI_US,Romulus,MI,US,Northern America,Northern America,42.222261,-83.396599
+63471,103095,1960,MLB,National,PIT,1960_National_PIT,Guayubin_MonteCristi_DO,Guayubin,Monte Cristi,DO,Caribbean,Latin America and the Caribbean,19.670003,-71.397369
+63474,103095,1960,MLB,National,PIT,1960_National_PIT,Guayubin_MonteCristi_DO,Guayubin,Monte Cristi,DO,Caribbean,Latin America and the Caribbean,19.670003,-71.397369
+63510,103208,1960,MLB,National,CHC,1960_National_CHC,StPaul_MN_US,St. Paul,MN,US,Northern America,Northern America,44.950404,-93.101503
+63512,103208,1960,MLB,National,STL,1960_National_STL,StPaul_MN_US,St. Paul,MN,US,Northern America,Northern America,44.950404,-93.101503
+63514,103208,1960,MLB,National,CHC,1960_National_CHC,StPaul_MN_US,St. Paul,MN,US,Northern America,Northern America,44.950404,-93.101503
+63516,103208,1960,MLB,National,STL,1960_National_STL,StPaul_MN_US,St. Paul,MN,US,Northern America,Northern America,44.950404,-93.101503
+63646,103549,1960,MLB,National,CHC,1960_National_CHC,Valmeyer_IL_US,Valmeyer,IL,US,Northern America,Northern America,38.307953,-90.299323
+63648,103549,1960,MLB,National,PHI,1960_National_PHI,Valmeyer_IL_US,Valmeyer,IL,US,Northern America,Northern America,38.307953,-90.299323
+63652,103549,1960,MLB,National,CHC,1960_National_CHC,Valmeyer_IL_US,Valmeyer,IL,US,Northern America,Northern America,38.307953,-90.299323
+63654,103549,1960,MLB,National,PHI,1960_National_PHI,Valmeyer_IL_US,Valmeyer,IL,US,Northern America,Northern America,38.307953,-90.299323
+63690,103572,1960,MLB,American,CLE,1960_American_CLE,Waterbury_CT_US,Waterbury,CT,US,Northern America,Northern America,41.558153,-73.051497
+63700,103572,1960,MLB,American,CLE,1960_American_CLE,Waterbury_CT_US,Waterbury,CT,US,Northern America,Northern America,41.558153,-73.051497
+63738,103605,1960,MLB,National,CHC,1960_National_CHC,Seattle_WA_US,Seattle,WA,US,Northern America,Northern America,47.603832,-122.330062
+63753,103605,1960,MLB,National,CHC,1960_National_CHC,Seattle_WA_US,Seattle,WA,US,Northern America,Northern America,47.603832,-122.330062
+64004,103862,1960,MLB,National,PIT,1960_National_PIT,Meridian_ID_US,Meridian,ID,US,Northern America,Northern America,43.60863,-116.392326
+64012,103862,1960,MLB,National,PIT,1960_National_PIT,Meridian_ID_US,Meridian,ID,US,Northern America,Northern America,43.60863,-116.392326
+64120,104070,1960,MLB,American,NYY,1960_American_NYY,Minneapolis_MN_US,Minneapolis,MN,US,Northern America,Northern America,44.9773,-93.265469
+64128,104070,1960,MLB,American,NYY,1960_American_NYY,Minneapolis_MN_US,Minneapolis,MN,US,Northern America,Northern America,44.9773,-93.265469
+64598,104747,1960,MLB,National,LAD,1960_National_LAD,BeaverMeadows_PA_US,Beaver Meadows,PA,US,Northern America,Northern America,40.928142,-75.914644
+64603,104747,1960,MLB,National,LAD,1960_National_LAD,BeaverMeadows_PA_US,Beaver Meadows,PA,US,Northern America,Northern America,40.928142,-75.914644
+64615,104821,1960,MLB,American,CWS,1960_American_CWS,Ivy_VA_US,Ivy,VA,US,Northern America,Northern America,38.056527,-78.596682
+64619,104821,1960,MLB,American,CWS,1960_American_CWS,Ivy_VA_US,Ivy,VA,US,Northern America,Northern America,38.056527,-78.596682
+64917,105407,1960,MLB,National,CIN,1960_National_CIN,StrawberryPlains_TN_US,Strawberry Plains,TN,US,Northern America,Northern America,36.063141,-83.686011
+64926,105407,1960,MLB,National,CIN,1960_National_CIN,StrawberryPlains_TN_US,Strawberry Plains,TN,US,Northern America,Northern America,36.063141,-83.686011
+65576,106044,1960,MLB,National,CIN,1960_National_CIN,Elizabeth_NJ_US,Elizabeth,NJ,US,Northern America,Northern America,40.663992,-74.210701
+65582,106044,1960,MLB,National,CIN,1960_National_CIN,Elizabeth_NJ_US,Elizabeth,NJ,US,Northern America,Northern America,40.663992,-74.210701
+65645,106135,1960,MLB,National,PHI,1960_National_PHI,Milford_DE_US,Milford,DE,US,Northern America,Northern America,38.913034,-75.428073
+65659,106135,1960,MLB,National,PHI,1960_National_PHI,Milford_DE_US,Milford,DE,US,Northern America,Northern America,38.913034,-75.428073
+65695,106210,1960,MLB,American,NYY,1960_American_NYY,Winthrop_MA_US,Winthrop,MA,US,Northern America,Northern America,42.375098,-70.982827
+65699,106210,1960,MLB,American,NYY,1960_American_NYY,Winthrop_MA_US,Winthrop,MA,US,Northern America,Northern America,42.375098,-70.982827
+65826,106452,1960,MLB,National,MWB/ATL,1960_National_MWB/ATL,WestNewton_MA_US,West Newton,MA,US,Northern America,Northern America,42.350097,-71.232833
+65836,106452,1960,MLB,National,MIL,1960_National_MWB/ATL,WestNewton_MA_US,West Newton,MA,US,Northern America,Northern America,42.350097,-71.232833
+66590,107684,1960,MLB,American,CLE,1960_American_CLE,Greenville_SC_US,Greenville,SC,US,Northern America,Northern America,34.851354,-82.398488
+66595,107684,1960,MLB,American,CLE,1960_American_CLE,Greenville_SC_US,Greenville,SC,US,Northern America,Northern America,34.851354,-82.398488
+66819,107871,1960,MLB,American,KCA/OAK,1960_American_KCA/OAK,Oakland_CA_US,Oakland,CA,US,Northern America,Northern America,37.804456,-122.271356
+66822,107871,1960,MLB,American,NYY,1960_American_NYY,Oakland_CA_US,Oakland,CA,US,Northern America,Northern America,37.804456,-122.271356
+66824,107871,1960,MLB,American,KC,1960_American_KCA/OAK,Oakland_CA_US,Oakland,CA,US,Northern America,Northern America,37.804456,-122.271356
+66827,107871,1960,MLB,American,NYY,1960_American_NYY,Oakland_CA_US,Oakland,CA,US,Northern America,Northern America,37.804456,-122.271356
+66931,108177,1960,MLB,National,STL,1960_National_STL,Longwood_MS_US,Longwood,MS,US,Northern America,Northern America,33.147066,-91.066218
+66932,108177,1960,MLB,National,STL,1960_National_STL,Longwood_MS_US,Longwood,MS,US,Northern America,Northern America,33.147066,-91.066218
+67186,108441,1960,MLB,National,SF,1960_National_SF,WebsterGroves_MO_US,Webster Groves,MO,US,Northern America,Northern America,38.586494,-90.355775
+67187,108441,1960,MLB,National,SF,1960_National_SF,WebsterGroves_MO_US,Webster Groves,MO,US,Northern America,Northern America,38.586494,-90.355775
+67400,108678,1960,MLB,American,BAL,1960_American_BAL,Birmingham_AL_US,Birmingham,AL,US,Northern America,Northern America,33.520682,-86.802433
+67401,108678,1960,MLB,American,CLE,1960_American_CLE,Birmingham_AL_US,Birmingham,AL,US,Northern America,Northern America,33.520682,-86.802433
+67402,108678,1960,MLB,American,CLE,1960_American_CLE,Birmingham_AL_US,Birmingham,AL,US,Northern America,Northern America,33.520682,-86.802433
+67537,108723,1960,MLB,National,SF,1960_National_SF,Winton_NC_US,Winton,NC,US,Northern America,Northern America,36.39571,-76.931903
+67540,108723,1960,MLB,National,SF,1960_National_SF,Winton_NC_US,Winton,NC,US,Northern America,Northern America,36.39571,-76.931903
+67973,109109,1960,MLB,American,WSH/MIN,1960_American_WSH/MIN,Huntsville_AL_US,Huntsville,AL,US,Northern America,Northern America,34.615232,-86.807343
+67986,109109,1960,MLB,American,WSH,1960_American_WSH/MIN,Huntsville_AL_US,Huntsville,AL,US,Northern America,Northern America,34.615232,-86.807343
+68176,109489,1960,MLB,American,DET,1960_American_DET,Evanston_IL_US,Evanston,IL,US,Northern America,Northern America,42.044739,-87.693046
+68180,109489,1960,MLB,American,DET,1960_American_DET,Evanston_IL_US,Evanston,IL,US,Northern America,Northern America,42.044739,-87.693046
+68210,109509,1960,MLB,American,CLE,1960_American_CLE,Lexington_NC_US,Lexington,NC,US,Northern America,Northern America,35.824027,-80.253384
+68215,109509,1960,MLB,American,CLE,1960_American_CLE,Lexington_NC_US,Lexington,NC,US,Northern America,Northern America,35.824027,-80.253384
+68630,110189,1960,MLB,American,CWS,1960_American_CWS,Brooklyn_NY_US,Brooklyn,NY,US,Northern America,Northern America,40.650104,-73.949582
+68633,110189,1960,MLB,American,CWS,1960_American_CWS,Brooklyn_NY_US,Brooklyn,NY,US,Northern America,Northern America,40.650104,-73.949582
+68780,110458,1960,MLB,American,BAL,1960_American_BAL,Gravette_AR_US,Gravette,AR,US,Northern America,Northern America,36.422021,-94.453548
+68782,110458,1960,MLB,American,BOS,1960_American_BOS,Gravette_AR_US,Gravette,AR,US,Northern America,Northern America,36.422021,-94.453548
+69009,110797,1960,MLB,American,BAL,1960_American_BAL,SpringGrove_IL_US,Spring Grove,IL,US,Northern America,Northern America,43.56108,-91.635979
+69332,111164,1960,MLB,National,PHI,1960_National_PHI,HollyHill_SC_US,Holly Hill,SC,US,Northern America,Northern America,33.322662,-80.413704
+69340,111164,1960,MLB,National,PHI,1960_National_PHI,HollyHill_SC_US,Holly Hill,SC,US,Northern America,Northern America,33.322662,-80.413704
+69507,111498,1960,MLB,American,BOS,1960_American_BOS,York_PA_US,York,PA,US,Northern America,Northern America,39.962398,-76.727392
+69578,111655,1960,MLB,National,SF,1960_National_SF,WellesleyHills_MA_US,Wellesley Hills,MA,US,Northern America,Northern America,42.30833,-71.278095
+69585,111655,1960,MLB,National,SF,1960_National_SF,WellesleyHills_MA_US,Wellesley Hills,MA,US,Northern America,Northern America,42.30833,-71.278095
+69736,112007,1960,MLB,American,BOS,1960_American_BOS,Ponchatoula_LA_US,Ponchatoula,LA,US,Northern America,Northern America,30.438804,-90.441476
+69833,112087,1960,MLB,American,CWS,1960_American_CWS,Detroit_MI_US,Detroit,MI,US,Northern America,Northern America,42.348664,-83.056737
+69838,112087,1960,MLB,American,CWS,1960_American_CWS,Detroit_MI_US,Detroit,MI,US,Northern America,Northern America,42.348664,-83.056737
+70171,112668,1960,MLB,National,MWB/ATL,1960_National_MWB/ATL,Middletown_CT_US,Middletown,CT,US,Northern America,Northern America,41.549566,-72.65156
+70178,112668,1960,MLB,National,MIL,1960_National_MWB/ATL,Middletown_CT_US,Middletown,CT,US,Northern America,Northern America,41.549566,-72.65156
+70822,113952,1960,MLB,American,NYY,1960_American_NYY,SanFrancisco_CA_US,San Francisco,CA,US,Northern America,Northern America,37.779277,-122.41927
+70824,113952,1960,MLB,American,NYY,1960_American_NYY,SanFrancisco_CA_US,San Francisco,CA,US,Northern America,Northern America,37.779277,-122.41927
+70912,114075,1960,MLB,National,SF,1960_National_SF,Pasadena_CA_US,Pasadena,CA,US,Northern America,Northern America,34.147645,-118.144478
+70923,114075,1960,MLB,National,SF,1960_National_SF,Pasadena_CA_US,Pasadena,CA,US,Northern America,Northern America,34.147645,-118.144478
+70937,114109,1960,MLB,National,CIN,1960_National_CIN,Anadarko_OK_US,Anadarko,OK,US,Northern America,Northern America,35.072562,-98.243663
+70942,114109,1960,MLB,National,CIN,1960_National_CIN,Anadarko_OK_US,Anadarko,OK,US,Northern America,Northern America,35.072562,-98.243663
+71091,114375,1960,MLB,American,DET,1960_American_DET,Baltimore_MD_US,Baltimore,MD,US,Northern America,Northern America,39.290861,-76.610807
+71106,114375,1960,MLB,American,DET,1960_American_DET,Baltimore_MD_US,Baltimore,MD,US,Northern America,Northern America,39.290861,-76.610807
+71443,114901,1960,MLB,National,MWB/ATL,1960_National_MWB/ATL,Brooklyn_NY_US,Brooklyn,NY,US,Northern America,Northern America,40.650104,-73.949582
+71446,114901,1960,MLB,National,MIL,1960_National_MWB/ATL,Brooklyn_NY_US,Brooklyn,NY,US,Northern America,Northern America,40.650104,-73.949582
+71523,115019,1960,MLB,American,BOS,1960_American_BOS,SandRidge_IL_US,Sand Ridge,IL,US,Northern America,Northern America,31.107407,-95.684948
+71630,115080,1960,MLB,American,BOS,1960_American_BOS,Dearborn_MI_US,Dearborn,MI,US,Northern America,Northern America,42.32226,-83.176314
+71797,115292,1960,MLB,American,KCA/OAK,1960_American_KCA/OAK,Collierville_TN_US,Collierville,TN,US,Northern America,Northern America,35.042036,-89.664527
+71801,115292,1960,MLB,American,KC,1960_American_KCA/OAK,Collierville_TN_US,Collierville,TN,US,Northern America,Northern America,35.042036,-89.664527
+71911,115455,1960,MLB,National,CIN,1960_National_CIN,SanDiego_CA_US,San Diego,CA,US,Northern America,Northern America,32.717421,-117.162771
+71915,115455,1960,MLB,National,PHI,1960_National_PHI,SanDiego_CA_US,San Diego,CA,US,Northern America,Northern America,32.717421,-117.162771
+71917,115455,1960,MLB,National,CIN,1960_National_CIN,SanDiego_CA_US,San Diego,CA,US,Northern America,Northern America,32.717421,-117.162771
+71921,115455,1960,MLB,National,PHI,1960_National_PHI,SanDiego_CA_US,San Diego,CA,US,Northern America,Northern America,32.717421,-117.162771
+71956,115610,1960,MLB,National,CIN,1960_National_CIN,Bonham_TX_US,Bonham,TX,US,Northern America,Northern America,33.577328,-96.178311
+71964,115610,1960,MLB,National,CIN,1960_National_CIN,Bonham_TX_US,Bonham,TX,US,Northern America,Northern America,33.577328,-96.178311
+72003,115733,1960,MLB,National,CHC,1960_National_CHC,BeeBranch_AR_US,Bee Branch,AR,US,Northern America,Northern America,35.450912,-92.3946
+72005,115733,1960,MLB,National,CHC,1960_National_CHC,BeeBranch_AR_US,Bee Branch,AR,US,Northern America,Northern America,35.450912,-92.3946
+72436,116514,1960,MLB,National,PHI,1960_National_PHI,Atlanta_GA_US,Atlanta,GA,US,Northern America,Northern America,33.749099,-84.390185
+72438,116514,1960,MLB,National,PHI,1960_National_PHI,Atlanta_GA_US,Atlanta,GA,US,Northern America,Northern America,33.749099,-84.390185
+72478,116559,1960,MLB,American,BOS,1960_American_BOS,ElDorado_KS_US,El Dorado,KS,US,Northern America,Northern America,37.81724,-96.862252
+72746,116931,1960,MLB,American,NYY,1960_American_NYY,StLouis_MO_US,St. Louis,MO,US,Northern America,Northern America,38.627273,-90.197889
+72751,116931,1960,MLB,American,NYY,1960_American_NYY,StLouis_MO_US,St. Louis,MO,US,Northern America,Northern America,38.627273,-90.197889
+72927,117164,1960,MLB,American,BOS,1960_American_BOS,Turbeville_SC_US,Turbeville,SC,US,Northern America,Northern America,33.890716,-80.018406
+73095,117456,1960,MLB,National,LAD,1960_National_LAD,NewYork_NY_US,New York,NY,US,Northern America,Northern America,43.102443,-75.291082
+73099,117456,1960,MLB,National,LAD,1960_National_LAD,NewYork_NY_US,New York,NY,US,Northern America,Northern America,43.102443,-75.291082
+73230,117636,1960,MLB,National,PIT,1960_National_PIT,Wheeling_WV_US,Wheeling,WV,US,Northern America,Northern America,40.063962,-80.720915
+73243,117636,1960,MLB,National,PIT,1960_National_PIT,Wheeling_WV_US,Wheeling,WV,US,Northern America,Northern America,40.063962,-80.720915
+73462,117875,1960,MLB,National,SF,1960_National_SF,Lexington_TN_US,Lexington,TN,US,Northern America,Northern America,35.650903,-88.39338
+73463,117875,1960,MLB,National,SF,1960_National_SF,Lexington_TN_US,Lexington,TN,US,Northern America,Northern America,35.650903,-88.39338
+73560,117984,1960,MLB,National,PHI,1960_National_PHI,NuevoLaredo_Tamaulipas_MX,Nuevo Laredo,Tamaulipas,MX,Central America,Latin America and the Caribbean,27.493361,-99.50461
+73569,117984,1960,MLB,National,PHI,1960_National_PHI,NuevoLaredo_Tamaulipas_MX,Nuevo Laredo,Tamaulipas,MX,Central America,Latin America and the Caribbean,27.493361,-99.50461
+73837,118325,1960,MLB,American,BAL,1960_American_BAL,NewYork_NY_US,New York,NY,US,Northern America,Northern America,43.102443,-75.291082
+74076,118579,1960,MLB,American,CLE,1960_American_CLE,LosAngeles_CA_US,Los Angeles,CA,US,Northern America,Northern America,34.054394,-118.243941
+74084,118579,1960,MLB,American,CLE,1960_American_CLE,LosAngeles_CA_US,Los Angeles,CA,US,Northern America,Northern America,34.054394,-118.243941
+74110,118591,1960,MLB,American,CLE,1960_American_CLE,Brooklyn_NY_US,Brooklyn,NY,US,Northern America,Northern America,40.650104,-73.949582
+74115,118591,1960,MLB,American,WSH/MIN,1960_American_WSH/MIN,Brooklyn_NY_US,Brooklyn,NY,US,Northern America,Northern America,40.650104,-73.949582
+74117,118591,1960,MLB,American,CLE,1960_American_CLE,Brooklyn_NY_US,Brooklyn,NY,US,Northern America,Northern America,40.650104,-73.949582
+74122,118591,1960,MLB,American,WSH,1960_American_WSH/MIN,Brooklyn_NY_US,Brooklyn,NY,US,Northern America,Northern America,40.650104,-73.949582
+74306,118889,1960,MLB,National,CIN,1960_National_CIN,Madison_NJ_US,Madison,NJ,US,Northern America,Northern America,40.759823,-74.417097
+74307,118889,1960,MLB,American,CLE,1960_American_CLE,Madison_NJ_US,Madison,NJ,US,Northern America,Northern America,40.759823,-74.417097
+74308,118889,1960,MLB,National,CIN,1960_National_CIN,Madison_NJ_US,Madison,NJ,US,Northern America,Northern America,40.759823,-74.417097
+74309,118889,1960,MLB,American,CLE,1960_American_CLE,Madison_NJ_US,Madison,NJ,US,Northern America,Northern America,40.759823,-74.417097
+74312,118893,1960,MLB,American,CLE,1960_American_CLE,WestAllis_WI_US,West Allis,WI,US,Northern America,Northern America,43.016681,-88.007031
+74321,118893,1960,MLB,American,CLE,1960_American_CLE,WestAllis_WI_US,West Allis,WI,US,Northern America,Northern America,43.016681,-88.007031
+74585,119285,1960,MLB,American,NYY,1960_American_NYY,Cossville_MO_US,Cossville,MO,US,Northern America,Northern America,37.325887,-94.448284
+74592,119285,1960,MLB,American,NYY,1960_American_NYY,Cossville_MO_US,Cossville,MO,US,Northern America,Northern America,37.325887,-94.448284
+74905,119702,1960,MLB,American,BAL,1960_American_BAL,SanFrancisco_CA_US,San Francisco,CA,US,Northern America,Northern America,37.779277,-122.41927
+75007,119837,1960,MLB,National,MWB/ATL,1960_National_MWB/ATL,WestAllis_WI_US,West Allis,WI,US,Northern America,Northern America,43.016681,-88.007031
+75009,119837,1960,MLB,National,MIL,1960_National_MWB/ATL,WestAllis_WI_US,West Allis,WI,US,Northern America,Northern America,43.016681,-88.007031
+75255,120086,1960,MLB,National,PIT,1960_National_PIT,Stephentown_NY_US,Stephentown,NY,US,Northern America,Northern America,42.548693,-73.373997
+75266,120086,1960,MLB,National,PIT,1960_National_PIT,Stephentown_NY_US,Stephentown,NY,US,Northern America,Northern America,42.548693,-73.373997
+75459,120658,1960,MLB,National,SF,1960_National_SF,Barceloneta_PR,Barceloneta, ,PR,Caribbean,Latin America and the Caribbean,39.78373,-100.445882
+75474,120658,1960,MLB,National,SF,1960_National_SF,Barceloneta_PR,Barceloneta, ,PR,Caribbean,Latin America and the Caribbean,39.78373,-100.445882
+75592,120851,1960,MLB,National,CIN,1960_National_CIN,Rockville_MD_US,Rockville,MD,US,Northern America,Northern America,39.084005,-77.152757
+75600,120851,1960,MLB,National,CIN,1960_National_CIN,Rockville_MD_US,Rockville,MD,US,Northern America,Northern America,39.084005,-77.152757
+76176,121806,1960,MLB,American,BOS,1960_American_BOS,Pawtucket_RI_US,Pawtucket,RI,US,Northern America,Northern America,41.878711,-71.382556
+76720,122890,1960,MLB,National,SF,1960_National_SF,StLouis_MO_US,St. Louis,MO,US,Northern America,Northern America,38.627273,-90.197889
+76726,122890,1960,MLB,National,SF,1960_National_SF,StLouis_MO_US,St. Louis,MO,US,Northern America,Northern America,38.627273,-90.197889
+76730,122895,1960,MLB,National,PHI,1960_National_PHI,Marshall_MO_US,Marshall,MO,US,Northern America,Northern America,39.123078,-93.19687
+76731,122895,1960,MLB,National,PHI,1960_National_PHI,Marshall_MO_US,Marshall,MO,US,Northern America,Northern America,39.123078,-93.19687
+76857,123286,1960,MLB,National,CIN,1960_National_CIN,Asheville_NC_US,Asheville,NC,US,Northern America,Northern America,35.60095,-82.554016
+76859,123286,1960,MLB,American,CLE,1960_American_CLE,Asheville_NC_US,Asheville,NC,US,Northern America,Northern America,35.60095,-82.554016
+76861,123286,1960,MLB,American,WSH/MIN,1960_American_WSH/MIN,Asheville_NC_US,Asheville,NC,US,Northern America,Northern America,35.60095,-82.554016
+76862,123286,1960,MLB,National,CIN,1960_National_CIN,Asheville_NC_US,Asheville,NC,US,Northern America,Northern America,35.60095,-82.554016
+76864,123286,1960,MLB,American,CLE,1960_American_CLE,Asheville_NC_US,Asheville,NC,US,Northern America,Northern America,35.60095,-82.554016
+76866,123286,1960,MLB,American,WSH,1960_American_WSH/MIN,Asheville_NC_US,Asheville,NC,US,Northern America,Northern America,35.60095,-82.554016
+76949,123374,1960,MLB,American,BOS,1960_American_BOS,Bronx_NY_US,Bronx,NY,US,Northern America,Northern America,40.8501,-73.866246
+77274,123947,1960,MLB,National,MWB/ATL,1960_National_MWB/ATL,Verdun_QC_CA,Verdun,QC,CA,Northern America,Northern America,45.460389,-73.565192
+77279,123947,1960,MLB,National,MIL,1960_National_MWB/ATL,Verdun_QC_CA,Verdun,QC,CA,Northern America,Northern America,45.460389,-73.565192
+77380,124110,1960,MLB,National,PHI,1960_National_PHI,Gifford_PA_US,Gifford,PA,US,Northern America,Northern America,41.858119,-78.596414
+77388,124110,1960,MLB,National,PHI,1960_National_PHI,Gifford_PA_US,Gifford,PA,US,Northern America,Northern America,41.858119,-78.596414
+77536,124249,1960,MLB,American,BAL,1960_American_BAL,Alhambra_CA_US,Alhambra,CA,US,Northern America,Northern America,34.092736,-118.126824
+77686,124466,1960,MLB,American,CWS,1960_American_CWS,Boston_MA_US,Boston,MA,US,Northern America,Northern America,42.360482,-71.059568
+77692,124466,1960,MLB,American,CWS,1960_American_CWS,Boston_MA_US,Boston,MA,US,Northern America,Northern America,42.360482,-71.059568
+77818,124656,1960,MLB,National,PHI,1960_National_PHI,NewYork_NY_US,New York,NY,US,Northern America,Northern America,43.102443,-75.291082
+77830,124656,1960,MLB,National,PHI,1960_National_PHI,NewYork_NY_US,New York,NY,US,Northern America,Northern America,43.102443,-75.291082
+77990,124948,1960,MLB,National,PHI,1960_National_PHI,Chicago_IL_US,Chicago,IL,US,Northern America,Northern America,41.875555,-87.624421
+77992,124948,1960,MLB,National,PHI,1960_National_PHI,Chicago_IL_US,Chicago,IL,US,Northern America,Northern America,41.875555,-87.624421
+78134,125238,1960,MLB,National,STL,1960_National_STL,Florida_CU,Florida, ,CU,Caribbean,Latin America and the Caribbean,21.526822,-78.225769
+78140,125238,1960,MLB,National,STL,1960_National_STL,Florida_CU,Florida, ,CU,Caribbean,Latin America and the Caribbean,21.526822,-78.225769
+78545,125861,1960,MLB,National,CIN,1960_National_CIN,Cincinnati_OH_US,Cincinnati,OH,US,Northern America,Northern America,39.101454,-84.51246
+78550,125861,1960,MLB,National,CIN,1960_National_CIN,Cincinnati_OH_US,Cincinnati,OH,US,Northern America,Northern America,39.101454,-84.51246
+78700,126084,1960,MLB,National,CHC,1960_National_CHC,Beaumont_TX_US,Beaumont,TX,US,Northern America,Northern America,30.086046,-94.101846
+78701,126084,1960,MLB,National,CHC,1960_National_CHC,Beaumont_TX_US,Beaumont,TX,US,Northern America,Northern America,30.086046,-94.101846
+79049,126700,1960,MLB,National,SF,1960_National_SF,Danville_IL_US,Danville,IL,US,Northern America,Northern America,40.125222,-87.630461
+79053,126700,1960,MLB,National,SF,1960_National_SF,Danville_IL_US,Danville,IL,US,Northern America,Northern America,40.125222,-87.630461
+79055,126703,1960,MLB,American,BAL,1960_American_BAL,Ada_OK_US,Ada,OK,US,Northern America,Northern America,34.774338,-96.678365
+79199,127034,1960,MLB,National,SF,1960_National_SF,Stewartsville_OH_US,Stewartsville,OH,US,Northern America,Northern America,40.012017,-80.858145
+79203,127034,1960,MLB,National,SF,1960_National_SF,Stewartsville_OH_US,Stewartsville,OH,US,Northern America,Northern America,40.012017,-80.858145
+79287,127175,1960,MLB,National,MWB/ATL,1960_National_MWB/ATL,GoreBay_ON_CA,Gore Bay,ON,CA,Northern America,Northern America,45.916788,-82.464087
+79294,127175,1960,MLB,National,MIL,1960_National_MWB/ATL,GoreBay_ON_CA,Gore Bay,ON,CA,Northern America,Northern America,45.916788,-82.464087
+79317,127245,1960,MLB,National,STL,1960_National_STL,Memphis_TN_US,Memphis,TN,US,Northern America,Northern America,35.149022,-90.051628
+79338,127245,1960,MLB,National,STL,1960_National_STL,Memphis_TN_US,Memphis,TN,US,Northern America,Northern America,35.149022,-90.051628
+79522,127464,1960,MLB,American,BAL,1960_American_BAL,Kenedy_TX_US,Kenedy,TX,US,Northern America,Northern America,28.814658,-97.847911
+79524,127464,1960,MLB,American,BOS,1960_American_BOS,Kenedy_TX_US,Kenedy,TX,US,Northern America,Northern America,28.814658,-97.847911
+80228,128522,1960,MLB,National,SF,1960_National_SF,LongIslandCity_NY_US,Long Island City,NY,US,Northern America,Northern America,40.745532,-73.948499
+80230,128522,1960,MLB,National,SF,1960_National_SF,LongIslandCity_NY_US,Long Island City,NY,US,Northern America,Northern America,40.745532,-73.948499
+80598,129195,1960,MLB,National,PHI,1960_National_PHI,Muskogee_OK_US,Muskogee,OK,US,Northern America,Northern America,35.747877,-95.369691
+80599,129195,1960,MLB,National,PHI,1960_National_PHI,Muskogee_OK_US,Muskogee,OK,US,Northern America,Northern America,35.747877,-95.369691
+80790,129582,1960,MLB,American,DET,1960_American_DET,Justiceburg_TX_US,Justiceburg,TX,US,Northern America,Northern America,33.047877,-101.206242
+80805,129582,1960,MLB,American,DET,1960_American_DET,Justiceburg_TX_US,Justiceburg,TX,US,Northern America,Northern America,33.047877,-101.206242
+81023,129848,1960,MLB,American,NYY,1960_American_NYY,Troy_IL_US,Troy,IL,US,Northern America,Northern America,38.729215,-89.883154
+81027,129848,1960,MLB,American,NYY,1960_American_NYY,Troy_IL_US,Troy,IL,US,Northern America,Northern America,38.729215,-89.883154
+81109,129965,1960,MLB,American,CLE,1960_American_CLE,Nimrod_MN_US,Nimrod,MN,US,Northern America,Northern America,46.638849,-94.880851
+81115,129965,1960,MLB,American,CLE,1960_American_CLE,Nimrod_MN_US,Nimrod,MN,US,Northern America,Northern America,46.638849,-94.880851
+81267,130220,1960,MLB,National,CHC,1960_National_CHC,EastChicago_IN_US,East Chicago,IN,US,Northern America,Northern America,41.639786,-87.454847
+81271,130220,1960,MLB,National,CHC,1960_National_CHC,EastChicago_IN_US,East Chicago,IN,US,Northern America,Northern America,41.639786,-87.454847
+81350,130284,1960,MLB,National,MWB/ATL,1960_National_MWB/ATL,Tuscaloosa_AL_US,Tuscaloosa,AL,US,Northern America,Northern America,33.209561,-87.567526
+81365,130284,1960,MLB,National,MIL,1960_National_MWB/ATL,Tuscaloosa_AL_US,Tuscaloosa,AL,US,Northern America,Northern America,33.209561,-87.567526
+81373,130311,1960,MLB,National,CHC,1960_National_CHC,Cincinnati_OH_US,Cincinnati,OH,US,Northern America,Northern America,39.101454,-84.51246
+81377,130311,1960,MLB,National,CHC,1960_National_CHC,Cincinnati_OH_US,Cincinnati,OH,US,Northern America,Northern America,39.101454,-84.51246
+81455,130391,1960,MLB,National,SF,1960_National_SF,BajosdeHaina_SanCristobal_DO,Bajos de Haina,San Cristobal,DO,Caribbean,Latin America and the Caribbean,18.413899,-70.032297
+81468,130391,1960,MLB,National,SF,1960_National_SF,BajosdeHaina_SanCristobal_DO,Bajos de Haina,San Cristobal,DO,Caribbean,Latin America and the Caribbean,18.413899,-70.032297
+82044,131176,1960,MLB,National,CHC,1960_National_CHC,Dallas_TX_US,Dallas,TX,US,Northern America,Northern America,32.776272,-96.796856
+82056,131176,1960,MLB,National,CHC,1960_National_CHC,Dallas_TX_US,Dallas,TX,US,Northern America,Northern America,32.776272,-96.796856
+82096,131219,1960,MLB,National,STL,1960_National_STL,SanFranciscodeMacoris_Duarte_DO,San Francisco de Macoris,Duarte,DO,Caribbean,Latin America and the Caribbean,19.297281,-70.253321
+82109,131219,1960,MLB,National,STL,1960_National_STL,SanFranciscodeMacoris_Duarte_DO,San Francisco de Macoris,Duarte,DO,Caribbean,Latin America and the Caribbean,19.297281,-70.253321
+82267,131462,1960,MLB,American,KCA/OAK,1960_American_KCA/OAK,WestPalmBeach_FL_US,West Palm Beach,FL,US,Northern America,Northern America,26.715343,-80.053375
+82278,131462,1960,MLB,American,KC,1960_American_KCA/OAK,WestPalmBeach_FL_US,West Palm Beach,FL,US,Northern America,Northern America,26.715343,-80.053375
+82403,131612,1960,MLB,National,STL,1960_National_STL,Chattanooga_TN_US,Chattanooga,TN,US,Northern America,Northern America,35.04563,-85.30968
+82414,131612,1960,MLB,National,STL,1960_National_STL,Chattanooga_TN_US,Chattanooga,TN,US,Northern America,Northern America,35.04563,-85.30968
+82896,132290,1960,MLB,American,DET,1960_American_DET,Mobile_AL_US,Mobile,AL,US,Northern America,Northern America,30.694357,-88.043054
+82902,132290,1960,MLB,American,DET,1960_American_DET,Mobile_AL_US,Mobile,AL,US,Northern America,Northern America,30.694357,-88.043054
+82986,132458,1960,MLB,American,CLE,1960_American_CLE,Lacoochee_FL_US,Lacoochee,FL,US,Northern America,Northern America,28.465736,-82.171323
+83002,132458,1960,MLB,American,CLE,1960_American_CLE,Lacoochee_FL_US,Lacoochee,FL,US,Northern America,Northern America,28.465736,-82.171323
+83462,133137,1960,MLB,National,MWB/ATL,1960_National_MWB/ATL,Santurce_PR,Santurce, ,PR,Caribbean,Latin America and the Caribbean,39.78373,-100.445882
+83479,133137,1960,MLB,National,MIL,1960_National_MWB/ATL,Santurce_PR,Santurce, ,PR,Caribbean,Latin America and the Caribbean,39.78373,-100.445882
+83819,133677,1960,MLB,National,CHC,1960_National_CHC,CentralAlava_CU,Central Alava, ,CU,Caribbean,Latin America and the Caribbean,23.013134,-80.832875
+83823,133677,1960,MLB,National,PHI,1960_National_PHI,CentralAlava_CU,Central Alava, ,CU,Caribbean,Latin America and the Caribbean,23.013134,-80.832875
+83838,133677,1960,MLB,National,CHC,1960_National_CHC,CentralAlava_CU,Central Alava, ,CU,Caribbean,Latin America and the Caribbean,23.013134,-80.832875
+83842,133677,1960,MLB,National,PHI,1960_National_PHI,CentralAlava_CU,Central Alava, ,CU,Caribbean,Latin America and the Caribbean,23.013134,-80.832875
+83905,133708,1960,MLB,National,MWB/ATL,1960_National_MWB/ATL,Nitro_WV_US,Nitro,WV,US,Northern America,Northern America,38.414815,-81.84402
+83914,133708,1960,MLB,National,MIL,1960_National_MWB/ATL,Nitro_WV_US,Nitro,WV,US,Northern America,Northern America,38.414815,-81.84402
+84083,134028,1960,MLB,American,DET,1960_American_DET,Southgate_KY_US,Southgate,KY,US,Northern America,Northern America,39.072005,-84.472719
+84096,134028,1960,MLB,American,DET,1960_American_DET,Southgate_KY_US,Southgate,KY,US,Northern America,Northern America,39.072005,-84.472719
+84554,134683,1960,MLB,National,PHI,1960_National_PHI,Prosperity_SC_US,Prosperity,SC,US,Northern America,Northern America,34.209308,-81.53316
+84564,134683,1960,MLB,National,PHI,1960_National_PHI,Prosperity_SC_US,Prosperity,SC,US,Northern America,Northern America,34.209308,-81.53316
+84961,135276,1960,MLB,National,LAD,1960_National_LAD,LosAngeles_CA_US,Los Angeles,CA,US,Northern America,Northern America,34.054394,-118.243941
+84966,135276,1960,MLB,National,LAD,1960_National_LAD,LosAngeles_CA_US,Los Angeles,CA,US,Northern America,Northern America,34.054394,-118.243941
+85029,135356,1960,MLB,National,LAD,1960_National_LAD,Macon_GA_US,Macon,GA,US,Northern America,Northern America,32.840695,-83.632402
+85049,135356,1960,MLB,National,LAD,1960_National_LAD,Macon_GA_US,Macon,GA,US,Northern America,Northern America,32.840695,-83.632402
+85069,135367,1960,MLB,American,KCA/OAK,1960_American_KCA/OAK,Elmwood_IL_US,Elmwood,IL,US,Northern America,Northern America,40.777815,-89.966502
+85074,135367,1960,MLB,American,KC,1960_American_KCA/OAK,Elmwood_IL_US,Elmwood,IL,US,Northern America,Northern America,40.777815,-89.966502
+85390,135864,1960,MLB,American,KCA/OAK,1960_American_KCA/OAK,Hoboken_NJ_US,Hoboken,NJ,US,Northern America,Northern America,40.743307,-74.032375
+85391,135864,1960,MLB,American,KC,1960_American_KCA/OAK,Hoboken_NJ_US,Hoboken,NJ,US,Northern America,Northern America,40.743307,-74.032375
+85396,135875,1960,MLB,American,NYY,1960_American_NYY,Hibbing_MN_US,Hibbing,MN,US,Northern America,Northern America,47.427155,-92.937689
+85405,135875,1960,MLB,American,NYY,1960_American_NYY,Hibbing_MN_US,Hibbing,MN,US,Northern America,Northern America,47.427155,-92.937689
+85947,136530,1960,MLB,American,WSH/MIN,1960_American_WSH/MIN, , , , , , ,0,0
+85959,136530,1960,MLB,American,WSH,1960_American_WSH/MIN,Hayward_CA_US,Hayward,CA,US,Northern America,Northern America,37.668821,-122.080796
+85963,136623,1960,MLB,National,CHC,1960_National_CHC,Louisville_KY_US,Louisville,KY,US,Northern America,Northern America,38.254238,-85.759407
+85967,136623,1960,MLB,National,CHC,1960_National_CHC,Louisville_KY_US,Louisville,KY,US,Northern America,Northern America,38.254238,-85.759407
+86065,136916,1960,MLB,National,LAD,1960_National_LAD,Enfield_NH_US,Enfield,NH,US,Northern America,Northern America,43.598271,-72.115427
+86077,136916,1960,MLB,National,LAD,1960_National_LAD,Enfield_NH_US,Enfield,NH,US,Northern America,Northern America,43.598271,-72.115427
+86297,137297,1960,MLB,National,PIT,1960_National_PIT,Morgan_GA_US,Morgan,GA,US,Northern America,Northern America,33.747051,-85.073002
+86304,137297,1960,MLB,National,PIT,1960_National_PIT,Morgan_GA_US,Morgan,GA,US,Northern America,Northern America,33.747051,-85.073002
+86579,137774,1960,MLB,American,DET,1960_American_DET,Abingdon_VA_US,Abingdon,VA,US,Northern America,Northern America,36.709579,-81.977488
+86580,137774,1960,MLB,American,DET,1960_American_DET,Abingdon_VA_US,Abingdon,VA,US,Northern America,Northern America,36.709579,-81.977488
+86782,138185,1960,MLB,American,BAL,1960_American_BAL,Whiting_IN_US,Whiting,IN,US,Northern America,Northern America,41.679758,-87.494487
+86820,138240,1960,MLB,American,KCA/OAK,1960_American_KCA/OAK,Dallas_TX_US,Dallas,TX,US,Northern America,Northern America,32.776272,-96.796856
+86829,138240,1960,MLB,American,KC,1960_American_KCA/OAK,Dallas_TX_US,Dallas,TX,US,Northern America,Northern America,32.776272,-96.796856
+87306,139052,1960,MLB,National,CIN,1960_National_CIN,Beaumont_TX_US,Beaumont,TX,US,Northern America,Northern America,30.086046,-94.101846
+87318,139052,1960,MLB,National,CIN,1960_National_CIN,Beaumont_TX_US,Beaumont,TX,US,Northern America,Northern America,30.086046,-94.101846
+87377,139240,1960,MLB,National,STL,1960_National_STL,Lakewood_FL_US,Lakewood,FL,US,Northern America,Northern America,30.261074,-81.634816
+87387,139240,1960,MLB,National,STL,1960_National_STL,Lakewood_FL_US,Lakewood,FL,US,Northern America,Northern America,30.261074,-81.634816
+87499,139413,1960,MLB,American,NYY,1960_American_NYY,Rybnik_Plzensky_CZ,Rybnik,Plzensky,CZ,Eastern Europe,Europe,49.512759,12.676752
+87501,139413,1960,MLB,American,WSH/MIN,1960_American_WSH/MIN,Rybnik_Plzensky_CZ,Rybnik,Plzensky,CZ,Eastern Europe,Europe,49.512759,12.676752
+87503,139413,1960,MLB,American,NYY,1960_American_NYY,Rybnik_Plzensky_CZ,Rybnik,Plzensky,CZ,Eastern Europe,Europe,49.512759,12.676752
+87505,139413,1960,MLB,American,WSH,1960_American_WSH/MIN,Rybnik_Plzensky_CZ,Rybnik,Plzensky,CZ,Eastern Europe,Europe,49.512759,12.676752
+87506,139415,1960,MLB,American,KCA/OAK,1960_American_KCA/OAK,NewCastle_PA_US,New Castle,PA,US,Northern America,Northern America,41.003672,-80.347009
+87508,139415,1960,MLB,American,KC,1960_American_KCA/OAK,NewCastle_PA_US,New Castle,PA,US,Northern America,Northern America,41.003672,-80.347009
+88141,140384,1960,MLB,American,KCA/OAK,1960_American_KCA/OAK,Monroe_NC_US,Monroe,NC,US,Northern America,Northern America,34.985428,-80.549511
+88149,140384,1960,MLB,American,KC,1960_American_KCA/OAK,Monroe_NC_US,Monroe,NC,US,Northern America,Northern America,34.985428,-80.549511
+88210,140571,1960,MLB,National,STL,1960_National_STL,Fajardo_PR,Fajardo, ,PR,Caribbean,Latin America and the Caribbean,39.78373,-100.445882
+88219,140571,1960,MLB,National,STL,1960_National_STL,Fajardo_PR,Fajardo, ,PR,Caribbean,Latin America and the Caribbean,39.78373,-100.445882
+88523,140939,1960,MLB,National,SF,1960_National_SF,Nassau_NewProvidence_BS,Nassau,New Providence,BS,Caribbean,Latin America and the Caribbean,25.078346,-77.338333
+88531,140939,1960,MLB,National,SF,1960_National_SF,Nassau_NewProvidence_BS,Nassau,New Providence,BS,Caribbean,Latin America and the Caribbean,25.078346,-77.338333
+88583,141021,1960,MLB,National,CHC,1960_National_CHC,Livingston_MT_US,Livingston,MT,US,Northern America,Northern America,45.671445,-110.52926
+88586,141021,1960,MLB,National,PHI,1960_National_PHI,Livingston_MT_US,Livingston,MT,US,Northern America,Northern America,45.671445,-110.52926
+88587,141021,1960,MLB,National,CHC,1960_National_CHC,Livingston_MT_US,Livingston,MT,US,Northern America,Northern America,45.671445,-110.52926
+88590,141021,1960,MLB,National,PHI,1960_National_PHI,Livingston_MT_US,Livingston,MT,US,Northern America,Northern America,45.671445,-110.52926
+88633,141081,1960,MLB,National,CHC,1960_National_CHC,NewHaven_CT_US,New Haven,CT,US,Northern America,Northern America,41.308214,-72.925052
+88634,141081,1960,MLB,National,CHC,1960_National_CHC,NewHaven_CT_US,New Haven,CT,US,Northern America,Northern America,41.308214,-72.925052
+88648,141161,1960,MLB,National,LAD,1960_National_LAD,MineralSprings_AR_US,Mineral Springs,AR,US,Northern America,Northern America,35.642582,-93.731303
+88666,141161,1960,MLB,National,LAD,1960_National_LAD,MineralSprings_AR_US,Mineral Springs,AR,US,Northern America,Northern America,35.642582,-93.731303
+89037,141808,1960,MLB,National,MWB/ATL,1960_National_MWB/ATL,Brooklyn_NY_US,Brooklyn,NY,US,Northern America,Northern America,40.650104,-73.949582
+89055,141808,1960,MLB,National,MIL,1960_National_MWB/ATL,Brooklyn_NY_US,Brooklyn,NY,US,Northern America,Northern America,40.650104,-73.949582
+89287,142176,1960,MLB,National,LAD,1960_National_LAD,Princeton_IN_US,Princeton,IN,US,Northern America,Northern America,38.355324,-87.567522
+89291,142176,1960,MLB,National,LAD,1960_National_LAD,Princeton_IN_US,Princeton,IN,US,Northern America,Northern America,38.355324,-87.567522
+89407,142369,1960,MLB,American,NYY,1960_American_NYY,Kingston_NY_US,Kingston,NY,US,Northern America,Northern America,41.928781,-74.00237
+89411,142369,1960,MLB,American,NYY,1960_American_NYY,Kingston_NY_US,Kingston,NY,US,Northern America,Northern America,41.928781,-74.00237
+89521,142671,1960,MLB,American,CWS,1960_American_CWS,StLouis_MO_US,St. Louis,MO,US,Northern America,Northern America,38.627273,-90.197889
+89528,142671,1960,MLB,American,CWS,1960_American_CWS,StLouis_MO_US,St. Louis,MO,US,Northern America,Northern America,38.627273,-90.197889
+89728,142933,1960,MLB,National,PIT,1960_National_PIT,Lafayette_IN_US,Lafayette,IN,US,Northern America,Northern America,40.416702,-86.875287
+89736,142933,1960,MLB,National,PIT,1960_National_PIT,Lafayette_IN_US,Lafayette,IN,US,Northern America,Northern America,40.416702,-86.875287
+89768,142964,1960,MLB,National,STL,1960_National_STL,KansasCity_KS_US,Kansas City,KS,US,Northern America,Northern America,39.11468,-94.749525
+89789,142964,1960,MLB,National,STL,1960_National_STL,KansasCity_KS_US,Kansas City,KS,US,Northern America,Northern America,39.11468,-94.749525
+89835,143082,1960,MLB,National,CIN,1960_National_CIN,Walnutport_PA_US,Walnutport,PA,US,Northern America,Northern America,40.754262,-75.598797
+89836,143082,1960,MLB,National,CIN,1960_National_CIN,Walnutport_PA_US,Walnutport,PA,US,Northern America,Northern America,40.754262,-75.598797
+89927,143482,1960,MLB,American,WSH/MIN,1960_American_WSH/MIN,Springfield_IL_US,Springfield,IL,US,Northern America,Northern America,39.798976,-89.644369
+89930,143482,1960,MLB,American,WSH,1960_American_WSH/MIN,Springfield_IL_US,Springfield,IL,US,Northern America,Northern America,39.798976,-89.644369
+90897,144973,1960,MLB,American,DET,1960_American_DET,Lawton_MI_US,Lawton,MI,US,Northern America,Northern America,42.167263,-85.846954
+90903,144973,1960,MLB,American,DET,1960_American_DET,Lawton_MI_US,Lawton,MI,US,Northern America,Northern America,42.167263,-85.846954
+91125,145430,1960,MLB,National,CIN,1960_National_CIN,Springfield_OH_US,Springfield,OH,US,Northern America,Northern America,39.924227,-83.808817
+91126,145430,1960,MLB,National,CIN,1960_National_CIN,Springfield_OH_US,Springfield,OH,US,Northern America,Northern America,39.924227,-83.808817
+91222,145622,1960,MLB,American,KCA/OAK,1960_American_KCA/OAK,Weston_NE_US,Weston,NE,US,Northern America,Northern America,41.194171,-96.742803
+91224,145622,1960,MLB,American,NYY,1960_American_NYY,Weston_NE_US,Weston,NE,US,Northern America,Northern America,41.194171,-96.742803
+91228,145622,1960,MLB,American,KC,1960_American_KCA/OAK,Weston_NE_US,Weston,NE,US,Northern America,Northern America,41.194171,-96.742803
+91230,145622,1960,MLB,American,NYY,1960_American_NYY,Weston_NE_US,Weston,NE,US,Northern America,Northern America,41.194171,-96.742803
+91410,145895,1960,MLB,American,CLE,1960_American_CLE,EastPalestine_OH_US,East Palestine,OH,US,Northern America,Northern America,40.833951,-80.540347
+91413,145895,1960,MLB,American,CLE,1960_American_CLE,EastPalestine_OH_US,East Palestine,OH,US,Northern America,Northern America,40.833951,-80.540347
+91553,146224,1960,MLB,National,CHC,1960_National_CHC,Tilden_NE_US,Tilden,NE,US,Northern America,Northern America,42.047229,-97.83395
+91556,146224,1960,MLB,National,CHC,1960_National_CHC,Tilden_NE_US,Tilden,NE,US,Northern America,Northern America,42.047229,-97.83395
+91685,146464,1960,MLB,American,BAL,1960_American_BAL,Danville_VA_US,Danville,VA,US,Northern America,Northern America,36.585972,-79.395023
+91704,146505,1960,MLB,National,CHC,1960_National_CHC,Whistler_AL_US,Whistler,AL,US,Northern America,Northern America,30.756577,-88.103056
+91721,146505,1960,MLB,National,CHC,1960_National_CHC,Whistler_AL_US,Whistler,AL,US,Northern America,Northern America,30.756577,-88.103056
+91834,146648,1960,MLB,American,WSH/MIN,1960_American_WSH/MIN,Santiago_Santiago_DO,Santiago,Santiago,DO,Caribbean,Latin America and the Caribbean,19.450293,-70.690611
+91836,146648,1960,MLB,American,WSH,1960_American_WSH/MIN,Santiago_Santiago_DO,Santiago,Santiago,DO,Caribbean,Latin America and the Caribbean,19.450293,-70.690611
+92121,147137,1960,MLB,American,WSH/MIN,1960_American_WSH/MIN,Youngstown_OH_US,Youngstown,OH,US,Northern America,Northern America,41.09978,-80.649519
+92130,147137,1960,MLB,American,WSH,1960_American_WSH/MIN,Youngstown_OH_US,Youngstown,OH,US,Northern America,Northern America,41.09978,-80.649519
+92197,147303,1960,MLB,National,STL,1960_National_STL,SanDiego_CA_US,San Diego,CA,US,Northern America,Northern America,32.717421,-117.162771
+92203,147303,1960,MLB,National,STL,1960_National_STL,SanDiego_CA_US,San Diego,CA,US,Northern America,Northern America,32.717421,-117.162771
+92703,148042,1960,MLB,American,NYY,1960_American_NYY,Farnham_VA_US,Farnham,VA,US,Northern America,Northern America,37.885413,-76.624956
+92708,148042,1960,MLB,American,NYY,1960_American_NYY,Farnham_VA_US,Farnham,VA,US,Northern America,Northern America,37.885413,-76.624956
+93206,148986,1960,MLB,National,CHC,1960_National_CHC,Manila_AR_US,Manila,AR,US,Northern America,Northern America,35.880073,-90.167039
+93208,148986,1960,MLB,National,CHC,1960_National_CHC,Manila_AR_US,Manila,AR,US,Northern America,Northern America,35.880073,-90.167039
+93240,149064,1960,MLB,American,DET,1960_American_DET,Hartford_CT_US,Hartford,CT,US,Northern America,Northern America,41.763494,-72.683052
+93254,149064,1960,MLB,American,DET,1960_American_DET,Hartford_CT_US,Hartford,CT,US,Northern America,Northern America,41.763494,-72.683052
+93454,149477,1960,MLB,American,KCA/OAK,1960_American_KCA/OAK,Chicago_IL_US,Chicago,IL,US,Northern America,Northern America,41.875555,-87.624421
+93455,149477,1960,MLB,American,KC,1960_American_KCA/OAK,Chicago_IL_US,Chicago,IL,US,Northern America,Northern America,41.875555,-87.624421
+93533,149588,1960,MLB,American,BAL,1960_American_BAL,Portland_OR_US,Portland,OR,US,Northern America,Northern America,45.520247,-122.674195
+93672,149784,1960,MLB,American,BOS,1960_American_BOS,Hollywood_CA_US,Hollywood,CA,US,Northern America,Northern America,34.102827,-118.32999
+93681,149795,1960,MLB,American,BAL,1960_American_BAL,NewYork_NY_US,New York,NY,US,Northern America,Northern America,43.102443,-75.291082
+93683,149795,1960,MLB,American,CWS,1960_American_CWS,NewYork_NY_US,New York,NY,US,Northern America,Northern America,43.102443,-75.291082
+93686,149795,1960,MLB,American,CWS,1960_American_CWS,NewYork_NY_US,New York,NY,US,Northern America,Northern America,43.102443,-75.291082
+94139,150413,1960,MLB,National,CHC,1960_National_CHC,Reading_PA_US,Reading,PA,US,Northern America,Northern America,40.335345,-75.927949
+94141,150413,1960,MLB,American,DET,1960_American_DET,Reading_PA_US,Reading,PA,US,Northern America,Northern America,40.335345,-75.927949
+94144,150413,1960,MLB,National,CHC,1960_National_CHC,Reading_PA_US,Reading,PA,US,Northern America,Northern America,40.335345,-75.927949
+94146,150413,1960,MLB,American,DET,1960_American_DET,Reading_PA_US,Reading,PA,US,Northern America,Northern America,40.335345,-75.927949
+94271,150581,1960,MLB,National,STL,1960_National_STL,Liberty_MO_US,Liberty,MO,US,Northern America,Northern America,39.24635,-94.418937
+94283,150581,1960,MLB,National,STL,1960_National_STL,Liberty_MO_US,Liberty,MO,US,Northern America,Northern America,39.24635,-94.418937
+94570,151186,1960,MLB,National,LAD,1960_National_LAD,Boston_MA_US,Boston,MA,US,Northern America,Northern America,42.360482,-71.059568
+94575,151186,1960,MLB,National,LAD,1960_National_LAD,Boston_MA_US,Boston,MA,US,Northern America,Northern America,42.360482,-71.059568
+95160,151934,1960,MLB,National,MWB/ATL,1960_National_MWB/ATL,Delta_CO_US,Delta,CO,US,Northern America,Northern America,38.742206,-108.068958
+95167,151934,1960,MLB,National,MIL,1960_National_MWB/ATL,Delta_CO_US,Delta,CO,US,Northern America,Northern America,38.742206,-108.068958
+95263,152119,1960,MLB,American,WSH/MIN,1960_American_WSH/MIN,Wheeling_WV_US,Wheeling,WV,US,Northern America,Northern America,40.063962,-80.720915
+95265,152119,1960,MLB,American,WSH,1960_American_WSH/MIN,Wheeling_WV_US,Wheeling,WV,US,Northern America,Northern America,40.063962,-80.720915
+95270,152142,1960,MLB,American,CLE,1960_American_CLE,Natoma_CA_US,Natoma,CA,US,Northern America,Northern America,38.654904,-121.181336
+95271,152142,1960,MLB,American,KCA/OAK,1960_American_KCA/OAK,Natoma_CA_US,Natoma,CA,US,Northern America,Northern America,38.654904,-121.181336
+95272,152142,1960,MLB,American,CLE,1960_American_CLE,Natoma_CA_US,Natoma,CA,US,Northern America,Northern America,38.654904,-121.181336
+95273,152142,1960,MLB,American,KC,1960_American_KCA/OAK,Natoma_CA_US,Natoma,CA,US,Northern America,Northern America,38.654904,-121.181336
+95482,152681,1960,MLB,American,BAL,1960_American_BAL,Oshkosh_WI_US,Oshkosh,WI,US,Northern America,Northern America,44.020692,-88.540857
+95927,153501,1960,MLB,National,CHC,1960_National_CHC,NewOrleans_LA_US,New Orleans,LA,US,Northern America,Northern America,29.949932,-90.070116
+95929,153501,1960,MLB,National,CHC,1960_National_CHC,NewOrleans_LA_US,New Orleans,LA,US,Northern America,Northern America,29.949932,-90.070116
+96170,153826,1960,MLB,American,CWS,1960_American_CWS,NewYork_NY_US,New York,NY,US,Northern America,Northern America,43.102443,-75.291082
+96173,153826,1960,MLB,American,CWS,1960_American_CWS,NewYork_NY_US,New York,NY,US,Northern America,Northern America,43.102443,-75.291082
+96309,154027,1960,MLB,American,DET,1960_American_DET,NewYork_NY_US,New York,NY,US,Northern America,Northern America,43.102443,-75.291082
+96316,154027,1960,MLB,American,DET,1960_American_DET,NewYork_NY_US,New York,NY,US,Northern America,Northern America,43.102443,-75.291082
+96633,154671,1960,MLB,American,CLE,1960_American_CLE,Aliquippa_PA_US,Aliquippa,PA,US,Northern America,Northern America,40.618207,-80.250883
+96644,154671,1960,MLB,American,CLE,1960_American_CLE,Aliquippa_PA_US,Aliquippa,PA,US,Northern America,Northern America,40.618207,-80.250883
+96699,154733,1960,MLB,American,CLE,1960_American_CLE,Denmark_TN_US,Denmark,TN,US,Northern America,Northern America,36.338387,-87.729187
+96705,154733,1960,MLB,American,CLE,1960_American_CLE,Denmark_TN_US,Denmark,TN,US,Northern America,Northern America,36.338387,-87.729187
+96720,154789,1960,MLB,American,BOS,1960_American_BOS,Wadesboro_NC_US,Wadesboro,NC,US,Northern America,Northern America,34.96821,-80.076727
+96833,155028,1960,MLB,National,PIT,1960_National_PIT,SlabFork_WV_US,Slab Fork,WV,US,Northern America,Northern America,37.687058,-81.331491
+96839,155028,1960,MLB,National,PIT,1960_National_PIT,SlabFork_WV_US,Slab Fork,WV,US,Northern America,Northern America,37.687058,-81.331491
+96925,155229,1960,MLB,National,LAD,1960_National_LAD,NewYork_NY_US,New York,NY,US,Northern America,Northern America,43.102443,-75.291082
+96929,155229,1960,MLB,National,LAD,1960_National_LAD,NewYork_NY_US,New York,NY,US,Northern America,Northern America,43.102443,-75.291082
+97116,155476,1960,MLB,American,CLE,1960_American_CLE,Bechtelsville_PA_US,Bechtelsville,PA,US,Northern America,Northern America,40.37343,-75.629075
+97118,155476,1960,MLB,American,CLE,1960_American_CLE,Bechtelsville_PA_US,Bechtelsville,PA,US,Northern America,Northern America,40.37343,-75.629075
+97290,155944,1960,MLB,American,BOS,1960_American_BOS,Birmingham_AL_US,Birmingham,AL,US,Northern America,Northern America,33.520682,-86.802433
+97291,155944,1960,MLB,American,CWS,1960_American_CWS,Birmingham_AL_US,Birmingham,AL,US,Northern America,Northern America,33.520682,-86.802433
+97300,155944,1960,MLB,American,CWS,1960_American_CWS,Birmingham_AL_US,Birmingham,AL,US,Northern America,Northern America,33.520682,-86.802433
+97422,156091,1960,MLB,American,WSH/MIN,1960_American_WSH/MIN,Zeeland_MI_US,Zeeland,MI,US,Northern America,Northern America,42.812435,-86.028817
+97449,156091,1960,MLB,American,WSH,1960_American_WSH/MIN,Zeeland_MI_US,Zeeland,MI,US,Northern America,Northern America,42.812435,-86.028817
+97756,156452,1960,MLB,American,CLE,1960_American_CLE,Sacramento_CA_US,Sacramento,CA,US,Northern America,Northern America,38.581572,-121.4944
+97766,156452,1960,MLB,American,CLE,1960_American_CLE,Sacramento_CA_US,Sacramento,CA,US,Northern America,Northern America,38.581572,-121.4944
+97912,156928,1960,MLB,National,CIN,1960_National_CIN,BayCity_MI_US,Bay City,MI,US,Northern America,Northern America,43.594468,-83.888865
+97920,156928,1960,MLB,National,CIN,1960_National_CIN,BayCity_MI_US,Bay City,MI,US,Northern America,Northern America,43.594468,-83.888865
+98208,157367,1960,MLB,American,CLE,1960_American_CLE,Sarasota_FL_US,Sarasota,FL,US,Northern America,Northern America,27.336435,-82.530653
+98211,157367,1960,MLB,American,CLE,1960_American_CLE,Sarasota_FL_US,Sarasota,FL,US,Northern America,Northern America,27.336435,-82.530653
+98274,157439,1960,MLB,American,KCA/OAK,1960_American_KCA/OAK,Houghton_MI_US,Houghton,MI,US,Northern America,Northern America,47.121872,-88.569012
+98281,157439,1960,MLB,National,MWB/ATL,1960_National_MWB/ATL,Houghton_MI_US,Houghton,MI,US,Northern America,Northern America,47.121872,-88.569012
+98289,157439,1960,MLB,American,KC,1960_American_KCA/OAK,Houghton_MI_US,Houghton,MI,US,Northern America,Northern America,47.121872,-88.569012
+98291,157439,1960,MLB,National,MIL,1960_National_MWB/ATL,Houghton_MI_US,Houghton,MI,US,Northern America,Northern America,47.121872,-88.569012
+98430,157867,1960,MLB,National,CIN,1960_National_CIN,Fresno_CA_US,Fresno,CA,US,Northern America,Northern America,36.72953,-119.708861
+98442,157867,1960,MLB,National,CIN,1960_National_CIN,Fresno_CA_US,Fresno,CA,US,Northern America,Northern America,36.72953,-119.708861
+98459,157870,1960,MLB,American,WSH/MIN,1960_American_WSH/MIN,Pittsburgh_PA_US,Pittsburgh,PA,US,Northern America,Northern America,40.441694,-79.990086
+98462,157870,1960,MLB,American,WSH,1960_American_WSH/MIN,Pittsburgh_PA_US,Pittsburgh,PA,US,Northern America,Northern America,40.441694,-79.990086
+98496,158041,1960,MLB,National,STL,1960_National_STL,Leesport_PA_US,Leesport,PA,US,Northern America,Northern America,40.447038,-75.966322
+98506,158041,1960,MLB,National,STL,1960_National_STL,Leesport_PA_US,Leesport,PA,US,Northern America,Northern America,40.447038,-75.966322
+98582,158220,1960,MLB,American,CWS,1960_American_CWS,Colton_CA_US,Colton,CA,US,Northern America,Northern America,34.073902,-117.313655
+98588,158220,1960,MLB,American,CWS,1960_American_CWS,Colton_CA_US,Colton,CA,US,Northern America,Northern America,34.073902,-117.313655
+98614,158275,1960,MLB,American,DET,1960_American_DET,Sandersville_GA_US,Sandersville,GA,US,Northern America,Northern America,32.983281,-82.811603
+98618,158275,1960,MLB,American,DET,1960_American_DET,Sandersville_GA_US,Sandersville,GA,US,Northern America,Northern America,32.983281,-82.811603
+98732,158453,1960,MLB,American,BAL,1960_American_BAL,Baltimore_MD_US,Baltimore,MD,US,Northern America,Northern America,39.290861,-76.610807
+99011,158718,1960,MLB,National,STL,1960_National_STL,LosAngeles_CA_US,Los Angeles,CA,US,Northern America,Northern America,34.054394,-118.243941
+99016,158718,1960,MLB,National,STL,1960_National_STL,LosAngeles_CA_US,Los Angeles,CA,US,Northern America,Northern America,34.054394,-118.243941
+99147,158846,1960,MLB,American,WSH/MIN,1960_American_WSH/MIN,LosAngeles_CA_US,Los Angeles,CA,US,Northern America,Northern America,34.054394,-118.243941
+99155,158846,1960,MLB,American,WSH,1960_American_WSH/MIN,LosAngeles_CA_US,Los Angeles,CA,US,Northern America,Northern America,34.054394,-118.243941
+99159,158885,1960,MLB,American,CWS,1960_American_CWS,Wheeling_WV_US,Wheeling,WV,US,Northern America,Northern America,40.063962,-80.720915
+99168,158885,1960,MLB,American,CWS,1960_American_CWS,Wheeling_WV_US,Wheeling,WV,US,Northern America,Northern America,40.063962,-80.720915
+99238,159036,1960,MLB,American,CWS,1960_American_CWS,StLouis_MO_US,St. Louis,MO,US,Northern America,Northern America,38.627273,-90.197889
+99244,159036,1960,MLB,American,CWS,1960_American_CWS,StLouis_MO_US,St. Louis,MO,US,Northern America,Northern America,38.627273,-90.197889
+99295,159136,1960,MLB,National,PIT,1960_National_PIT,Weidman_MI_US,Weidman,MI,US,Northern America,Northern America,43.687528,-84.968913
+99296,159136,1960,MLB,National,PIT,1960_National_PIT,Weidman_MI_US,Weidman,MI,US,Northern America,Northern America,43.687528,-84.968913
+99572,159633,1960,MLB,National,CIN,1960_National_CIN,NewYork_NY_US,New York,NY,US,Northern America,Northern America,43.102443,-75.291082
+99573,159633,1960,MLB,American,CLE,1960_American_CLE,NewYork_NY_US,New York,NY,US,Northern America,Northern America,43.102443,-75.291082
+99575,159633,1960,MLB,National,STL,1960_National_STL,NewYork_NY_US,New York,NY,US,Northern America,Northern America,43.102443,-75.291082
+99576,159633,1960,MLB,National,CIN,1960_National_CIN,NewYork_NY_US,New York,NY,US,Northern America,Northern America,43.102443,-75.291082
+99577,159633,1960,MLB,American,CLE,1960_American_CLE,NewYork_NY_US,New York,NY,US,Northern America,Northern America,43.102443,-75.291082
+99579,159633,1960,MLB,National,STL,1960_National_STL,NewYork_NY_US,New York,NY,US,Northern America,Northern America,43.102443,-75.291082
+100069,160226,1960,MLB,National,CIN,1960_National_CIN, , , , , , ,0,0
+100071,160226,1960,MLB,National,CIN,1960_National_CIN, , , , , , ,0,0
+100085,160267,1960,MLB,American,BOS,1960_American_BOS,Donalsonville_GA_US,Donalsonville,GA,US,Northern America,Northern America,31.040463,-84.879091
+100105,160280,1960,MLB,National,SF,1960_National_SF,Rochester_NY_US,Rochester,NY,US,Northern America,Northern America,43.157285,-77.615214
+100108,160280,1960,MLB,National,SF,1960_National_SF,Rochester_NY_US,Rochester,NY,US,Northern America,Northern America,43.157285,-77.615214
+100335,160697,1960,MLB,National,SF,1960_National_SF,Levis_QC_CA,Levis,QC,CA,Northern America,Northern America,46.79101,-71.175327
+100337,160697,1960,MLB,National,SF,1960_National_SF,Levis_QC_CA,Levis,QC,CA,Northern America,Northern America,46.79101,-71.175327
+100657,161262,1960,MLB,National,MWB/ATL,1960_National_MWB/ATL,Philadelphia_PA_US,Philadelphia,PA,US,Northern America,Northern America,39.952399,-75.16359
+100668,161262,1960,MLB,National,MIL,1960_National_MWB/ATL,Philadelphia_PA_US,Philadelphia,PA,US,Northern America,Northern America,39.952399,-75.16359
+100773,161424,1960,MLB,American,CLE,1960_American_CLE,LaHabana_LaHabana_CU,La Habana, ,CU,Caribbean,Latin America and the Caribbean,23.138028,-82.365867
+100780,161424,1960,MLB,American,CLE,1960_American_CLE,LaHabana_LaHabana_CU,La Habana, ,CU,Caribbean,Latin America and the Caribbean,23.138028,-82.365867
+100859,161453,1960,MLB,American,BOS,1960_American_BOS,Kalamazoo_MI_US,Kalamazoo,MI,US,Northern America,Northern America,42.291707,-85.587229
+101387,162371,1960,MLB,National,LAD,1960_National_LAD,Brooklyn_NY_US,Brooklyn,NY,US,Northern America,Northern America,40.650104,-73.949582
+101394,162371,1960,MLB,National,LAD,1960_National_LAD,Brooklyn_NY_US,Brooklyn,NY,US,Northern America,Northern America,40.650104,-73.949582
+101431,162413,1960,MLB,National,CHC,1960_National_CHC,Beverly_MA_US,Beverly,MA,US,Northern America,Northern America,42.558428,-70.880049
+101436,162413,1960,MLB,National,CHC,1960_National_CHC,Beverly_MA_US,Beverly,MA,US,Northern America,Northern America,42.558428,-70.880049
+101594,162648,1960,MLB,National,CHC,1960_National_CHC,Witt_IL_US,Witt,IL,US,Northern America,Northern America,39.256435,-89.348141
+101600,162648,1960,MLB,National,CHC,1960_National_CHC,Witt_IL_US,Witt,IL,US,Northern America,Northern America,39.256435,-89.348141
+101664,162741,1960,MLB,American,CWS,1960_American_CWS,Kirkwood_MO_US,Kirkwood,MO,US,Northern America,Northern America,38.5777,-90.418655
+101668,162741,1960,MLB,American,CWS,1960_American_CWS,Kirkwood_MO_US,Kirkwood,MO,US,Northern America,Northern America,38.5777,-90.418655
+101678,162771,1960,MLB,National,PIT,1960_National_PIT,Leakesville_MS_US,Leakesville,MS,US,Northern America,Northern America,31.154358,-88.557486
+101681,162771,1960,MLB,National,STL,1960_National_STL,Leakesville_MS_US,Leakesville,MS,US,Northern America,Northern America,31.154358,-88.557486
+101683,162771,1960,MLB,National,PIT,1960_National_PIT,Leakesville_MS_US,Leakesville,MS,US,Northern America,Northern America,31.154358,-88.557486
+101686,162771,1960,MLB,National,STL,1960_National_STL,Leakesville_MS_US,Leakesville,MS,US,Northern America,Northern America,31.154358,-88.557486
+102087,163382,1960,MLB,American,BAL,1960_American_BAL,LosAngeles_CA_US,Los Angeles,CA,US,Northern America,Northern America,34.054394,-118.243941
+102376,163798,1960,MLB,American,NYY,1960_American_NYY,StLouis_MO_US,St. Louis,MO,US,Northern America,Northern America,38.627273,-90.197889
+102384,163798,1960,MLB,American,NYY,1960_American_NYY,StLouis_MO_US,St. Louis,MO,US,Northern America,Northern America,38.627273,-90.197889
+102397,163818,1960,MLB,National,STL,1960_National_STL,SantaRosa_CA_US,Santa Rosa,CA,US,Northern America,Northern America,38.440468,-122.714431
+102405,163818,1960,MLB,National,STL,1960_National_STL,SantaRosa_CA_US,Santa Rosa,CA,US,Northern America,Northern America,38.440468,-122.714431
+102441,163890,1960,MLB,American,CWS,1960_American_CWS,Fresno_CA_US,Fresno,CA,US,Northern America,Northern America,36.72953,-119.708861
+102450,163890,1960,MLB,American,CWS,1960_American_CWS,Fresno_CA_US,Fresno,CA,US,Northern America,Northern America,36.72953,-119.708861
+102543,164185,1960,MLB,National,PHI,1960_National_PHI,Nassau_NewProvidence_BS,Nassau,New Providence,BS,Caribbean,Latin America and the Caribbean,25.078346,-77.338333
+102546,164185,1960,MLB,National,PHI,1960_National_PHI,Nassau_NewProvidence_BS,Nassau,New Providence,BS,Caribbean,Latin America and the Caribbean,25.078346,-77.338333
+103672,165782,1960,MLB,American,DET,1960_American_DET,StHelena_CA_US,St. Helena,CA,US,Northern America,Northern America,38.505229,-122.470042
+103678,165782,1960,MLB,American,DET,1960_American_DET,StHelena_CA_US,St. Helena,CA,US,Northern America,Northern America,38.505229,-122.470042
+103683,165834,1960,MLB,American,BAL,1960_American_BAL,Santurce_PR,Santurce, ,PR,Caribbean,Latin America and the Caribbean,39.78373,-100.445882
+103759,166050,1960,MLB,National,PHI,1960_National_PHI,Egypt_PA_US,Egypt,PA,US,Northern America,Northern America,41.246173,-78.937256
+103760,166050,1960,MLB,National,STL,1960_National_STL,Egypt_PA_US,Egypt,PA,US,Northern America,Northern America,41.246173,-78.937256
+103769,166050,1960,MLB,National,PHI,1960_National_PHI,Egypt_PA_US,Egypt,PA,US,Northern America,Northern America,41.246173,-78.937256
+103770,166050,1960,MLB,National,STL,1960_National_STL,Egypt_PA_US,Egypt,PA,US,Northern America,Northern America,41.246173,-78.937256
+103907,166206,1960,MLB,National,SF,1960_National_SF,Shreveport_LA_US,Shreveport,LA,US,Northern America,Northern America,32.522183,-93.765194
+103918,166206,1960,MLB,National,SF,1960_National_SF,Shreveport_LA_US,Shreveport,LA,US,Northern America,Northern America,32.522183,-93.765194
+104197,166448,1960,MLB,American,NYY,1960_American_NYY,Chicago_IL_US,Chicago,IL,US,Northern America,Northern America,41.875555,-87.624421
+104201,166448,1960,MLB,American,NYY,1960_American_NYY,Chicago_IL_US,Chicago,IL,US,Northern America,Northern America,41.875555,-87.624421
+104216,166463,1960,MLB,American,CWS,1960_American_CWS,BrushPrairie_WA_US,Brush Prairie,WA,US,Northern America,Northern America,45.728934,-122.542144
+104220,166463,1960,MLB,American,CWS,1960_American_CWS,BrushPrairie_WA_US,Brush Prairie,WA,US,Northern America,Northern America,45.728934,-122.542144
+104349,166651,1960,MLB,National,LAD,1960_National_LAD,Bay_AR_US,Bay,AR,US,Northern America,Northern America,35.742299,-90.56233
+104355,166651,1960,MLB,National,LAD,1960_National_LAD,Bay_AR_US,Bay,AR,US,Northern America,Northern America,35.742299,-90.56233
+104671,167069,1960,MLB,National,CHC,1960_National_CHC,Lexington_KY_US,Lexington,KY,US,Northern America,Northern America,38.046407,-84.497039
+104680,167069,1960,MLB,National,CHC,1960_National_CHC,Lexington_KY_US,Lexington,KY,US,Northern America,Northern America,38.046407,-84.497039
+104844,167500,1960,MLB,National,CHC,1960_National_CHC,Lynn_MA_US,Lynn,MA,US,Northern America,Northern America,42.466763,-70.949494
+104845,167500,1960,MLB,National,CHC,1960_National_CHC,Lynn_MA_US,Lynn,MA,US,Northern America,Northern America,42.466763,-70.949494
+104922,167648,1960,MLB,American,DET,1960_American_DET,LaHabana_LaHabana_CU,La Habana, ,CU,Caribbean,Latin America and the Caribbean,23.138028,-82.365867
+104927,167648,1960,MLB,American,DET,1960_American_DET,LaHabana_LaHabana_CU,La Habana, ,CU,Caribbean,Latin America and the Caribbean,23.138028,-82.365867
+104970,167666,1960,MLB,National,MWB/ATL,1960_National_MWB/ATL,Texarkana_TX_US,Texarkana,TX,US,Northern America,Northern America,33.425125,-94.047688
+104979,167666,1960,MLB,National,MIL,1960_National_MWB/ATL,Texarkana_TX_US,Texarkana,TX,US,Northern America,Northern America,33.425125,-94.047688
+105325,167994,1960,MLB,National,MWB/ATL,1960_National_MWB/ATL,Richmond_VA_US,Richmond,VA,US,Northern America,Northern America,37.538509,-77.43428
+105329,167994,1960,MLB,National,MIL,1960_National_MWB/ATL,Richmond_VA_US,Richmond,VA,US,Northern America,Northern America,37.538509,-77.43428
+106175,169286,1960,MLB,National,CIN,1960_National_CIN,Memphis_TN_US,Memphis,TN,US,Northern America,Northern America,35.149022,-90.051628
+106191,169286,1960,MLB,National,CIN,1960_National_CIN,Memphis_TN_US,Memphis,TN,US,Northern America,Northern America,35.149022,-90.051628
+106572,169792,1960,MLB,National,STL,1960_National_STL,Cincinnati_OH_US,Cincinnati,OH,US,Northern America,Northern America,39.101454,-84.51246
+106577,169792,1960,MLB,National,STL,1960_National_STL,Cincinnati_OH_US,Cincinnati,OH,US,Northern America,Northern America,39.101454,-84.51246
+106579,169805,1960,MLB,American,CLE,1960_American_CLE,HomerCity_PA_US,Homer City,PA,US,Northern America,Northern America,40.543401,-79.162257
+106580,169805,1960,MLB,American,CLE,1960_American_CLE,HomerCity_PA_US,Homer City,PA,US,Northern America,Northern America,40.543401,-79.162257
+106615,169841,1960,MLB,American,CLE,1960_American_CLE,WestPoint_MS_US,West Point,MS,US,Northern America,Northern America,33.599187,-88.661427
+106620,169841,1960,MLB,American,CLE,1960_American_CLE,WestPoint_MS_US,West Point,MS,US,Northern America,Northern America,33.599187,-88.661427
+106783,170242,1960,MLB,American,BOS,1960_American_BOS,Harrisonburg_VA_US,Harrisonburg,VA,US,Northern America,Northern America,38.449332,-78.868883
+107132,170742,1960,MLB,National,STL,1960_National_STL,Hollis_OK_US,Hollis,OK,US,Northern America,Northern America,34.688395,-99.912046
+107149,170742,1960,MLB,National,STL,1960_National_STL,Hollis_OK_US,Hollis,OK,US,Northern America,Northern America,34.688395,-99.912046
+107191,170979,1960,MLB,American,BAL,1960_American_BAL,Omaha_NE_US,Omaha,NE,US,Northern America,Northern America,41.258732,-95.937873
+107335,171210,1960,MLB,American,BAL,1960_American_BAL,Moosup_CT_US,Moosup,CT,US,Northern America,Northern America,41.712877,-71.880905
+107674,171866,1960,MLB,National,SF,1960_National_SF,Northampton_MA_US,Northampton,MA,US,Northern America,Northern America,42.319023,-72.630634
+107677,171866,1960,MLB,National,SF,1960_National_SF,Northampton_MA_US,Northampton,MA,US,Northern America,Northern America,42.319023,-72.630634
+107758,172085,1960,MLB,National,CHC,1960_National_CHC,Houston_TX_US,Houston,TX,US,Northern America,Northern America,29.758938,-95.367697
+107760,172085,1960,MLB,National,CHC,1960_National_CHC,Houston_TX_US,Houston,TX,US,Northern America,Northern America,29.758938,-95.367697
+108183,172611,1960,MLB,American,CLE,1960_American_CLE,Bell_CA_US,Bell,CA,US,Northern America,Northern America,33.977514,-118.187016
+108185,172611,1960,MLB,American,CLE,1960_American_CLE,Bell_CA_US,Bell,CA,US,Northern America,Northern America,33.977514,-118.187016
+108205,172628,1960,MLB,National,SF,1960_National_SF,LosAngeles_CA_US,Los Angeles,CA,US,Northern America,Northern America,34.054394,-118.243941
+108209,172628,1960,MLB,National,SF,1960_National_SF,LosAngeles_CA_US,Los Angeles,CA,US,Northern America,Northern America,34.054394,-118.243941
+108343,172767,1960,MLB,American,KCA/OAK,1960_American_KCA/OAK,Brookline_MA_US,Brookline,MA,US,Northern America,Northern America,42.331764,-71.121163
+108344,172767,1960,MLB,American,KC,1960_American_KCA/OAK,Brookline_MA_US,Brookline,MA,US,Northern America,Northern America,42.331764,-71.121163
+108367,172873,1960,MLB,American,DET,1960_American_DET,Kewanee_IL_US,Kewanee,IL,US,Northern America,Northern America,41.245593,-89.92483
+108368,172873,1960,MLB,American,DET,1960_American_DET,Kewanee_IL_US,Kewanee,IL,US,Northern America,Northern America,41.245593,-89.92483
+108870,173493,1960,MLB,American,WSH/MIN,1960_American_WSH/MIN,LaHabana_LaHabana_CU,La Habana, ,CU,Caribbean,Latin America and the Caribbean,23.138028,-82.365867
+108883,173493,1960,MLB,American,WSH,1960_American_WSH/MIN,LaHabana_LaHabana_CU,La Habana, ,CU,Caribbean,Latin America and the Caribbean,23.138028,-82.365867
+109103,174065,1960,MLB,National,CHC,1960_National_CHC,Trenton_NJ_US,Trenton,NJ,US,Northern America,Northern America,40.217058,-74.742946
+109106,174065,1960,MLB,National,CHC,1960_National_CHC,Trenton_NJ_US,Trenton,NJ,US,Northern America,Northern America,40.217058,-74.742946
+109125,174110,1960,MLB,National,CIN,1960_National_CIN,Louisville_KY_US,Louisville,KY,US,Northern America,Northern America,38.254238,-85.759407
+109131,174110,1960,MLB,National,CIN,1960_National_CIN,Louisville_KY_US,Louisville,KY,US,Northern America,Northern America,38.254238,-85.759407
+109217,174355,1960,MLB,National,MWB/ATL,1960_National_MWB/ATL,Delray_MI_US,Delray,MI,US,Northern America,Northern America,42.295872,-83.11659
+109218,174355,1960,MLB,National,MIL,1960_National_MWB/ATL,Delray_MI_US,Delray,MI,US,Northern America,Northern America,42.295872,-83.11659
+109438,174721,1960,MLB,National,MWB/ATL,1960_National_MWB/ATL,Saginaw_MI_US,Saginaw,MI,US,Northern America,Northern America,43.420039,-83.949036
+109448,174721,1960,MLB,National,MIL,1960_National_MWB/ATL,Saginaw_MI_US,Saginaw,MI,US,Northern America,Northern America,43.420039,-83.949036
+109555,174870,1960,MLB,American,NYY,1960_American_NYY,BigCabin_OK_US,Big Cabin,OK,US,Northern America,Northern America,36.537865,-95.221358
+109564,174870,1960,MLB,American,NYY,1960_American_NYY,BigCabin_OK_US,Big Cabin,OK,US,Northern America,Northern America,36.537865,-95.221358
+109615,175057,1960,MLB,National,LAD,1960_National_LAD,StonyCreekMills_PA_US,Stony Creek Mills,PA,US,Northern America,Northern America,40.345649,-75.869925
+109616,175057,1960,MLB,National,LAD,1960_National_LAD,StonyCreekMills_PA_US,Stony Creek Mills,PA,US,Northern America,Northern America,40.345649,-75.869925
+109954,175587,1960,MLB,American,CLE,1960_American_CLE,Washington_DC_US,Washington,DC,US,Northern America,Northern America,38.894955,-77.036646
+109963,175587,1960,MLB,American,CLE,1960_American_CLE,Washington_DC_US,Washington,DC,US,Northern America,Northern America,38.894955,-77.036646
+109981,175660,1960,MLB,American,BOS,1960_American_BOS,Fresno_CA_US,Fresno,CA,US,Northern America,Northern America,36.72953,-119.708861
+110067,175738,1960,MLB,National,PHI,1960_National_PHI,Chico_CA_US,Chico,CA,US,Northern America,Northern America,39.728495,-121.837478
+110076,175738,1960,MLB,National,PHI,1960_National_PHI,Chico_CA_US,Chico,CA,US,Northern America,Northern America,39.728495,-121.837478
+110173,176057,1960,MLB,American,CLE,1960_American_CLE,Williamston_NC_US,Williamston,NC,US,Northern America,Northern America,35.854604,-77.055511
+110191,176057,1960,MLB,American,CLE,1960_American_CLE,Williamston_NC_US,Williamston,NC,US,Northern America,Northern America,35.854604,-77.055511
+110777,176791,1960,MLB,National,STL,1960_National_STL,RockFalls_IL_US,Rock Falls,IL,US,Northern America,Northern America,41.779753,-89.688997
+110785,176791,1960,MLB,National,STL,1960_National_STL,RockFalls_IL_US,Rock Falls,IL,US,Northern America,Northern America,41.779753,-89.688997
+110942,177176,1960,MLB,American,BOS,1960_American_BOS,Modesto_CA_US,Modesto,CA,US,Northern America,Northern America,37.639097,-120.996878
+110987,177266,1960,MLB,American,BOS,1960_American_BOS,Boley_OK_US,Boley,OK,US,Northern America,Northern America,35.493406,-96.483622
+111096,177408,1960,MLB,National,PHI,1960_National_PHI,Detroit_MI_US,Detroit,MI,US,Northern America,Northern America,42.348664,-83.056737
+111102,177408,1960,MLB,National,PHI,1960_National_PHI,Detroit_MI_US,Detroit,MI,US,Northern America,Northern America,42.348664,-83.056737
+111164,177466,1960,MLB,National,SF,1960_National_SF,Decatur_IL_US,Decatur,IL,US,Northern America,Northern America,39.845416,-88.952415
+111168,177466,1960,MLB,National,SF,1960_National_SF,Decatur_IL_US,Decatur,IL,US,Northern America,Northern America,39.845416,-88.952415
+111179,177560,1960,MLB,National,STL,1960_National_STL,Shickshinny_PA_US,Shickshinny,PA,US,Northern America,Northern America,41.153139,-76.150208
+111183,177560,1960,MLB,National,STL,1960_National_STL,Shickshinny_PA_US,Shickshinny,PA,US,Northern America,Northern America,41.153139,-76.150208
+111187,177565,1960,MLB,American,NYY,1960_American_NYY,Springfield_MO_US,Springfield,MO,US,Northern America,Northern America,37.215331,-93.298252
+111190,177565,1960,MLB,National,SF,1960_National_SF,Springfield_MO_US,Springfield,MO,US,Northern America,Northern America,37.215331,-93.298252
+111193,177565,1960,MLB,American,NYY,1960_American_NYY,Springfield_MO_US,Springfield,MO,US,Northern America,Northern America,37.215331,-93.298252
+111196,177565,1960,MLB,National,SF,1960_National_SF,Springfield_MO_US,Springfield,MO,US,Northern America,Northern America,37.215331,-93.298252
+111307,177777,1960,MLB,National,CHC,1960_National_CHC,Greenwood_SC_US,Greenwood,SC,US,Northern America,Northern America,34.1954,-82.161788
+111308,177777,1960,MLB,National,CHC,1960_National_CHC,Greenwood_SC_US,Greenwood,SC,US,Northern America,Northern America,34.1954,-82.161788
+111541,178266,1960,MLB,American,DET,1960_American_DET,Columbus_OH_US,Columbus,OH,US,Northern America,Northern America,39.96226,-83.000706
+111542,178266,1960,MLB,American,DET,1960_American_DET,Columbus_OH_US,Columbus,OH,US,Northern America,Northern America,39.96226,-83.000706
+111863,178741,1960,MLB,National,CHC,1960_National_CHC,Columbia_IL_US,Columbia,IL,US,Northern America,Northern America,34.000749,-81.034331
+111869,178741,1960,MLB,National,CHC,1960_National_CHC,Columbia_IL_US,Columbia,IL,US,Northern America,Northern America,34.000749,-81.034331
+111949,178869,1960,MLB,American,CWS,1960_American_CWS,Dallas_TX_US,Dallas,TX,US,Northern America,Northern America,32.776272,-96.796856
+111951,178869,1960,MLB,American,CWS,1960_American_CWS,Dallas_TX_US,Dallas,TX,US,Northern America,Northern America,32.776272,-96.796856
+112271,179412,1960,MLB,National,CHC,1960_National_CHC,Memphis_TN_US,Memphis,TN,US,Northern America,Northern America,35.149022,-90.051628
+112272,179412,1960,MLB,National,CHC,1960_National_CHC,Memphis_TN_US,Memphis,TN,US,Northern America,Northern America,35.149022,-90.051628
+112375,179511,1960,MLB,American,CLE,1960_American_CLE,Arecibo_PR,Arecibo, ,PR,Caribbean,Latin America and the Caribbean,39.78373,-100.445882
+112383,179511,1960,MLB,American,CLE,1960_American_CLE,Arecibo_PR,Arecibo, ,PR,Caribbean,Latin America and the Caribbean,39.78373,-100.445882
+112593,179784,1960,MLB,National,STL,1960_National_STL,Wichita_KS_US,Wichita,KS,US,Northern America,Northern America,37.692236,-97.337545
+112599,179784,1960,MLB,National,STL,1960_National_STL,Wichita_KS_US,Wichita,KS,US,Northern America,Northern America,37.692236,-97.337545
+112642,179815,1960,MLB,American,NYY,1960_American_NYY,NewYork_NY_US,New York,NY,US,Northern America,Northern America,43.102443,-75.291082
+112650,179815,1960,MLB,American,NYY,1960_American_NYY,NewYork_NY_US,New York,NY,US,Northern America,Northern America,43.102443,-75.291082
+113498,181093,1960,MLB,National,CIN,1960_National_CIN,Jackson_MS_US,Jackson,MS,US,Northern America,Northern America,32.299038,-90.184769
+113502,181093,1960,MLB,National,STL,1960_National_STL,Jackson_MS_US,Jackson,MS,US,Northern America,Northern America,32.299038,-90.184769
+113505,181093,1960,MLB,National,CIN,1960_National_CIN,Jackson_MS_US,Jackson,MS,US,Northern America,Northern America,32.299038,-90.184769
+113509,181093,1960,MLB,National,STL,1960_National_STL,Jackson_MS_US,Jackson,MS,US,Northern America,Northern America,32.299038,-90.184769
+113512,181163,1960,MLB,American,BOS,1960_American_BOS,Hollywood_CA_US,Hollywood,CA,US,Northern America,Northern America,34.102827,-118.32999
+113657,181268,1960,MLB,National,LAD,1960_National_LAD,Durham_NC_US,Durham,NC,US,Northern America,Northern America,35.994033,-78.898619
+113664,181268,1960,MLB,National,LAD,1960_National_LAD,Durham_NC_US,Durham,NC,US,Northern America,Northern America,35.994033,-78.898619
+113858,181626,1960,MLB,National,LAD,1960_National_LAD,Pittsburgh_PA_US,Pittsburgh,PA,US,Northern America,Northern America,40.441694,-79.990086
+113864,181626,1960,MLB,National,LAD,1960_National_LAD,Pittsburgh_PA_US,Pittsburgh,PA,US,Northern America,Northern America,40.441694,-79.990086
+113911,181743,1960,MLB,American,DET,1960_American_DET,Cleveland_OH_US,Cleveland,OH,US,Northern America,Northern America,41.505161,-81.693445
+113913,181743,1960,MLB,American,DET,1960_American_DET,Cleveland_OH_US,Cleveland,OH,US,Northern America,Northern America,41.505161,-81.693445
+113956,181910,1960,MLB,National,CHC,1960_National_CHC,Pittsburgh_PA_US,Pittsburgh,PA,US,Northern America,Northern America,40.441694,-79.990086
+113967,181910,1960,MLB,National,CHC,1960_National_CHC,Pittsburgh_PA_US,Pittsburgh,PA,US,Northern America,Northern America,40.441694,-79.990086
+114086,181974,1960,MLB,National,PIT,1960_National_PIT,WestFrankfort_IL_US,West Frankfort,IL,US,Northern America,Northern America,37.897828,-88.931458
+114091,181974,1960,MLB,National,PIT,1960_National_PIT,WestFrankfort_IL_US,West Frankfort,IL,US,Northern America,Northern America,37.897828,-88.931458
+114098,181995,1960,MLB,National,PHI,1960_National_PHI,HoodRiver_OR_US,Hood River,OR,US,Northern America,Northern America,45.70531,-121.521793
+114103,181995,1960,MLB,National,PHI,1960_National_PHI,HoodRiver_OR_US,Hood River,OR,US,Northern America,Northern America,45.70531,-121.521793
+114113,182014,1960,MLB,American,BOS,1960_American_BOS,Cleves_OH_US,Cleves,OH,US,Northern America,Northern America,39.162278,-84.749212
+114120,182014,1960,MLB,American,CLE,1960_American_CLE,Cleves_OH_US,Cleves,OH,US,Northern America,Northern America,39.162278,-84.749212
+114123,182014,1960,MLB,American,CLE,1960_American_CLE,Cleves_OH_US,Cleves,OH,US,Northern America,Northern America,39.162278,-84.749212

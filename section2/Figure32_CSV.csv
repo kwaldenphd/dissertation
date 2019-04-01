@@ -1,0 +1,84 @@
+﻿OBJECTID,Team_ID,Season,Parent_League,Parent_Team,League,Team,Team_1,Classification,Location_ID,City,State,Country,Lat,Long
+11440,2016_Appalachian_Bluefield,2016,American,TOR,Appalachian,Bluefield,Bluefield,Rk,Bluefield_VA_US,Bluefield,VA,US,37.252617,-81.27121
+11441,2016_Appalachian_Bristol,2016,National,PIT,Appalachian,Bristol,Bristol,Rk,Bristol_VA_US,Bristol,VA,US,36.596495,-82.188467
+11442,2016_Appalachian_Burlington,2016,American,KC,Appalachian,Burlington,Burlington,Rk,Burlington_NC_US,Burlington,NC,US,36.095692,-79.437799
+11443,2016_Appalachian_Danville,2016,National,ATL,Appalachian,Danville,Danville,Rk,Danville_GA_US,Danville,GA,US,32.60571,-83.245436
+11444,2016_Appalachian_Elizabethton,2016,American,MIN,Appalachian,Elizabethton,Elizabethton,Rk,Elizabethton_TN_US,Elizabethton,TN,US,36.34872,-82.210688
+11445,2016_Appalachian_Greeneville,2016,American,HOU,Appalachian,Greeneville,Greeneville,Rk,Greeneville_TN_US,Greeneville,TN,US,36.163158,-82.830986
+11446,2016_Appalachian_JohnsonCity,2016,National,STL,Appalachian,Johnson City,Johnson City,Rk,JohnsonCity_TN_US,Johnson City,TN,US,36.31344,-82.353473
+11447,2016_Appalachian_Kingsport,2016,National,NYM,Appalachian,Kingsport,Kingsport,Rk,Kingsport_TN_US,Kingsport,TN,US,36.548434,-82.561819
+11448,2016_Appalachian_Princeton,2016,American,TB,Appalachian,Princeton,Princeton,Rk,Princeton_WV_US,Princeton,WV,US,37.366328,-81.102577
+11449,2016_Appalachian_Pulaski,2016,American,NYY,Appalachian,Pulaski,Pulaski,Rk,Pulaski_VA_US,Pulaski,VA,US,37.047898,-80.779793
+11450,2016_Arizona_Angels,2016,American,LAA,Arizona,Angels,Angels,Rk,AZ_US, ,AZ,US,34.395342,-111.763275
+11451,2016_Arizona_Athletics,2016,American,OAK,Arizona,Athletics,Athletics,Rk,AZ_US, ,AZ,US,34.395342,-111.763275
+11452,2016_Arizona_Brewers,2016,National,MIL,Arizona,Brewers,Brewers,Rk,AZ_US, ,AZ,US,34.395342,-111.763275
+11453,2016_Arizona_Cubs,2016,National,CHC,Arizona,Cubs,Cubs,Rk,AZ_US, ,AZ,US,34.395342,-111.763275
+11454,2016_Arizona_Diamondbacks,2016,National,ARI,Arizona,Diamondbacks,Diamondbacks,Rk,AZ_US, ,AZ,US,34.395342,-111.763275
+11455,2016_Arizona_Dodgers,2016,National,LAD,Arizona,Dodgers,Dodgers,Rk,AZ_US, ,AZ,US,34.395342,-111.763275
+11456,2016_Arizona_Giants,2016,National,SF,Arizona,Giants,Giants,Rk,AZ_US, ,AZ,US,34.395342,-111.763275
+11457,2016_Arizona_Indians,2016,American,CLE,Arizona,Indians,Indians,Rk,AZ_US, ,AZ,US,34.395342,-111.763275
+11458,2016_Arizona_Mariners,2016,American,SEA,Arizona,Mariners,Mariners,Rk,AZ_US, ,AZ,US,34.395342,-111.763275
+11459,2016_Arizona_Padres,2016,National,SD,Arizona,Padres,Padres,Rk,AZ_US, ,AZ,US,34.395342,-111.763275
+11460,2016_Arizona_Rangers,2016,American,TEX,Arizona,Rangers,Rangers,Rk,AZ_US, ,AZ,US,34.395342,-111.763275
+11461,2016_Arizona_Reds,2016,National,CIN,Arizona,Reds,Reds,Rk,AZ_US, ,AZ,US,34.395342,-111.763275
+11462,2016_Arizona_Royals,2016,American,KC,Arizona,Royals,Royals,Rk,AZ_US, ,AZ,US,34.395342,-111.763275
+11463,2016_Arizona_WhiteSox,2016,American,CWS,Arizona,White Sox,White Sox,Rk,AZ_US, ,AZ,US,34.395342,-111.763275
+11524,2016_Eastern_Akron,2016,American,CLE,Eastern,Akron,Akron,AA,Akron_OH_US,Akron,OH,US,41.083064,-81.518485
+11525,2016_Eastern_Altoona,2016,National,PIT,Eastern,Altoona,Altoona,AA,Altoona_PA_US,Altoona,PA,US,40.518681,-78.394736
+11526,2016_Eastern_Binghamton,2016,National,NYM,Eastern,Binghamton,Binghamton,AA,Binghamton_NY_US,Binghamton,NY,US,42.096968,-75.914341
+11527,2016_Eastern_Bowie,2016,American,BAL,Eastern,Bowie,Bowie,AA,Bowie_MD_US,Bowie,MD,US,38.942966,-76.731234
+11528,2016_Eastern_Erie,2016,American,DET,Eastern,Erie,Erie,AA,Erie_PA_US,Erie,PA,US,42.129066,-80.085242
+11529,2016_Eastern_Harrisburg,2016,National,WSH,Eastern,Harrisburg,Harrisburg,AA,Harrisburg_PA_US,Harrisburg,PA,US,40.266311,-76.886112
+11530,2016_Eastern_Hartford,2016,National,COL,Eastern,Hartford,Hartford,AA,Hartford_PA_US,Hartford,PA,US,31.1024,-85.696878
+11531,2016_Eastern_NewHampshire,2016,American,TOR,Eastern,New Hampshire,New Hampshire,AA,Manchester_NH_US,Manchester,NH,US,42.99564,-71.454789
+11532,2016_Eastern_Portland,2016,American,BOS,Eastern,Portland,Portland,AA,Portland_OR_US,Portland,OR,US,45.520247,-122.674195
+11533,2016_Eastern_Reading,2016,National,PHI,Eastern,Reading,Reading,AA,Reading_PA_US,Reading,PA,US,40.335345,-75.927949
+11534,2016_Eastern_Richmond,2016,National,SF,Eastern,Richmond,Richmond,AA,Richmond_VA_US,Richmond,VA,US,37.538509,-77.43428
+11535,2016_Eastern_Trenton,2016,American,NYY,Eastern,Trenton,Trenton,AA,Trenton_NJ_US,Trenton,NJ,US,40.217058,-74.742946
+11548,2016_GulfCoast_Astros,2016,American,HOU,Gulf Coast,Astros,Astros,Rk,FL_US, ,FL,US,27.756767,-81.463983
+11549,2016_GulfCoast_BlueJays,2016,American,TOR,Gulf Coast,Blue Jays,Blue Jays,Rk,FL_US, ,FL,US,27.756767,-81.463983
+11550,2016_GulfCoast_Braves,2016,National,ATL,Gulf Coast,Braves,Braves,Rk,FL_US, ,FL,US,27.756767,-81.463983
+11551,2016_GulfCoast_Cardinals,2016,National,STL,Gulf Coast,Cardinals,Cardinals,Rk,FL_US, ,FL,US,27.756767,-81.463983
+11552,2016_GulfCoast_Marlins,2016,National,MIA,Gulf Coast,Marlins,Marlins,Rk,FL_US, ,FL,US,27.756767,-81.463983
+11553,2016_GulfCoast_Mets,2016,National,NYM,Gulf Coast,Mets,Mets,Rk,FL_US, ,FL,US,27.756767,-81.463983
+11554,2016_GulfCoast_Nationals,2016,National,WSH,Gulf Coast,Nationals,Nationals,Rk,FL_US, ,FL,US,27.756767,-81.463983
+11555,2016_GulfCoast_Orioles,2016,American,BAL,Gulf Coast,Orioles,Orioles,Rk,FL_US, ,FL,US,27.756767,-81.463983
+11556,2016_GulfCoast_Phillies,2016,National,PHI,Gulf Coast,Phillies,Phillies,Rk,FL_US, ,FL,US,27.756767,-81.463983
+11557,2016_GulfCoast_Pirates,2016,National,PIT,Gulf Coast,Pirates,Pirates,Rk,FL_US, ,FL,US,27.756767,-81.463983
+11558,2016_GulfCoast_Rays,2016,American,TB,Gulf Coast,Rays,Rays,Rk,FL_US, ,FL,US,27.756767,-81.463983
+11559,2016_GulfCoast_RedSox,2016,American,BOS,Gulf Coast,Red Sox,Red Sox,Rk,FL_US, ,FL,US,27.756767,-81.463983
+11560,2016_GulfCoast_TigersEast,2016,American,DET,Gulf Coast,Tigers East,Tigers East,Rk,FL_US, ,FL,US,27.756767,-81.463983
+11561,2016_GulfCoast_TigersWest,2016,American,DET,Gulf Coast,Tigers West,Tigers West,Rk,FL_US, ,FL,US,27.756767,-81.463983
+11562,2016_GulfCoast_Twins,2016,American,MIN,Gulf Coast,Twins,Twins,Rk,FL_US, ,FL,US,27.756767,-81.463983
+11563,2016_GulfCoast_YankeesEast,2016,American,NYY,Gulf Coast,Yankees East,Yankees East,Rk,FL_US, ,FL,US,27.756767,-81.463983
+11564,2016_GulfCoast_YankeesWest,2016,American,NYY,Gulf Coast,Yankees West,Yankees West,Rk,FL_US, ,FL,US,27.756767,-81.463983
+11565,2016_International_Buffalo,2016,American,TOR,International,Buffalo,Buffalo,AAA,Buffalo_NY_US,Buffalo,NY,US,42.886717,-78.878392
+11566,2016_International_Charlotte,2016,American,CWS,International,Charlotte,Charlotte,AAA,Charlotte_NC_US,Charlotte,NC,US,35.227087,-80.843127
+11567,2016_International_Columbus,2016,American,CLE,International,Columbus,Columbus,AAA,Columbus_OH_US,Columbus,OH,US,39.96226,-83.000706
+11568,2016_International_Durham,2016,American,TB,International,Durham,Durham,AAA,Durham_NC_US,Durham,NC,US,35.994033,-78.898619
+11569,2016_International_Gwinnett,2016,National,ATL,International,Gwinnett,Gwinnett,AAA,Gwinnett_GA_US,Gwinnett,GA,US,32.329381,-83.113737
+11570,2016_International_Indianapolis,2016,National,PIT,International,Indianapolis,Indianapolis,AAA,Indianapolis_IN_US,Indianapolis,IN,US,39.768333,-86.15835
+11571,2016_International_LehighValley,2016,National,PHI,International,Lehigh Valley,Lehigh Valley,AAA,Allentown_PA_US,Allentown,PA,US,40.602206,-75.471279
+11572,2016_International_Louisville,2016,National,CIN,International,Louisville,Louisville,AAA,Louisville_KY_US,Louisville,KY,US,38.254238,-85.759407
+11573,2016_International_Norfolk,2016,American,BAL,International,Norfolk,Norfolk,AAA,Norfolk_VA_US,Norfolk,VA,US,36.846288,-76.292925
+11574,2016_International_Pawtucket,2016,American,BOS,International,Pawtucket,Pawtucket,AAA,Pawtucket_RI_US,Pawtucket,RI,US,41.878711,-71.382556
+11575,2016_International_Rochester,2016,American,MIN,International,Rochester,Rochester,AAA,Rochester_NY_US,Rochester,NY,US,43.157285,-77.615214
+11576,2016_International_Scranton/Wilkes-Barre,2016,American,NYY,International,Scranton/Wilkes-Barre,Scranton/Wilkes-Barre,AAA,Moosic_PA_US,Moosic,PA,US,41.353413,-75.738248
+11577,2016_International_Syracuse,2016,National,WSH,International,Syracuse,Syracuse,AAA,Syracuse_NY_US,Syracuse,NY,US,43.048122,-76.147424
+11578,2016_International_Toledo,2016,American,DET,International,Toledo,Toledo,AAA,Toledo_OH_US,Toledo,OH,US,41.678675,-83.512728
+11579,2016_Midwest_Beloit,2016,American,OAK,Midwest,Beloit,Beloit,A,Beloit_MI_US,Beloit,MI,US,39.458684,-98.108282
+11580,2016_Midwest_BowlingGreen,2016,American,TB,Midwest,Bowling Green,Bowling Green,A,BowlingGreen_KY_US,Bowling Green,KY,US,36.99032,-86.443602
+11581,2016_Midwest_Burlington,2016,American,LAA,Midwest,Burlington,Burlington,A,Burlington_IA_US,Burlington,IA,US,40.807539,-91.112923
+11582,2016_Midwest_CedarRapids,2016,American,MIN,Midwest,Cedar Rapids,Cedar Rapids,A,CedarRapids_IA_US,Cedar Rapids,IA,US,41.975887,-91.670405
+11583,2016_Midwest_Clinton,2016,American,SEA,Midwest,Clinton,Clinton,A,Clinton_IA_US,Clinton,IA,US,41.844474,-90.188738
+11584,2016_Midwest_Dayton,2016,National,CIN,Midwest,Dayton,Dayton,A,Dayton_OH_US,Dayton,OH,US,39.758948,-84.191607
+11585,2016_Midwest_FortWayne,2016,National,SD,Midwest,Fort Wayne,Fort Wayne,A,FortWayne_IN_US,Fort Wayne,IN,US,41.07999,-85.138601
+11586,2016_Midwest_GreatLakes,2016,National,LAD,Midwest,Great Lakes,Great Lakes,A,Midland_MI_US,Midland,MI,US,35.227366,-80.500622
+11587,2016_Midwest_KaneCounty,2016,National,ARI,Midwest,Kane County,Kane County,A,Geneva_IL_US,Geneva,IL,US,41.887528,-88.305352
+11588,2016_Midwest_LakeCounty,2016,American,CLE,Midwest,Lake County,Lake County,A,Eastlake_OH_US,Eastlake,OH,US,41.659241,-81.432209
+11589,2016_Midwest_Lansing,2016,American,TOR,Midwest,Lansing,Lansing,A,Lansing_MI_US,Lansing,MI,US,42.733771,-84.55538
+11590,2016_Midwest_Peoria,2016,National,STL,Midwest,Peoria,Peoria,A,Peoria_IL_US,Peoria,IL,US,40.693861,-89.589101
+11591,2016_Midwest_QuadCities,2016,American,HOU,Midwest,Quad Cities,Quad Cities,A,Davenport_IA_US,Davenport,IA,US,41.523644,-90.577637
+11592,2016_Midwest_SouthBend,2016,National,CHC,Midwest,South Bend,South Bend,A,SouthBend_IN_US,South Bend,IN,US,41.683381,-86.250007
+11593,2016_Midwest_WestMichigan,2016,American,DET,Midwest,West Michigan,West Michigan,A,ComstockPark_MI_US,Comstock Park,MI,US,39.78373,-100.445882
+11594,2016_Midwest_Wisconsin,2016,National,MIL,Midwest,Wisconsin,Wisconsin,A,Appleton_WI_US,Appleton,WI,US,44.261134,-88.40676

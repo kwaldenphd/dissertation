@@ -1,0 +1,158 @@
+﻿OBJECTID,Team_ID,Season,Parent_League,Parent_Team,League,Team,Team_1,Classification,Location_ID,City,State,Country,Lat,Long
+1,1960_Alabama-Florida_Dothan,1960,National,STL,Alabama-Florida,Dothan,Dothan,D,Dothan_AL_US,Dothan,AL,US,31.223231,-85.390489
+2,1960_Alabama-Florida_FortWaltonBeach,1960,American,WSH,Alabama-Florida,Fort Walton Beach,Fort Walton Beach,D,FortWaltonBeach_FL_US,Fort Walton Beach,FL,US,30.405755,-86.618842
+3,1960_Alabama-Florida_Montgomery,1960,American,DET,Alabama-Florida,Montgomery,Montgomery,D,Montgomery_AL_US,Montgomery,AL,US,32.366966,-86.300648
+4,1960_Alabama-Florida_PanamaCity,1960,National,LAD,Alabama-Florida,Panama City,Panama City,D,PanamaCity_FL_US,Panama City,FL,US,30.160083,-85.654573
+5,1960_Alabama-Florida_Pensacola,1960,American,CWS,Alabama-Florida,Pensacola,Pensacola,D,Pensacola_FL_US,Pensacola,FL,US,30.421309,-87.216915
+6,1960_Alabama-Florida_Selma,1960,American,CLE,Alabama-Florida,Selma,Selma,D,Selma_AL_US,Selma,AL,US,32.407359,-87.021101
+15,1960_AmericanAssociation_Charleston,1960,American,WSH,American Association,Charleston,Charleston,AAA,Charleston_WV_US,Charleston,WV,US,38.350599,-81.633281
+16,1960_AmericanAssociation_Dallas-FortWorth,1960,American,KC,American Association,Dallas-Fort Worth,Dallas-Fort Worth,AAA,Dallas_TX_US,Dallas,TX,US,32.776272,-96.796856
+17,1960_AmericanAssociation_Denver,1960,American,DET,American Association,Denver,Denver,AAA,Denver_CO_US,Denver,CO,US,39.739154,-104.984703
+18,1960_AmericanAssociation_Houston,1960,National,CHC,American Association,Houston,Houston,AAA,Houston_TX_US,Houston,TX,US,29.758938,-95.367697
+19,1960_AmericanAssociation_Indianapolis,1960,National,PHI,American Association,Indianapolis,Indianapolis,AAA,Indianapolis_IN_US,Indianapolis,IN,US,39.768333,-86.15835
+20,1960_AmericanAssociation_Louisville,1960,National,MIL,American Association,Louisville,Louisville,AAA,Louisville_KY_US,Louisville,KY,US,38.254238,-85.759407
+21,1960_AmericanAssociation_Minneapolis,1960,American,BOS,American Association,Minneapolis,Minneapolis,AAA,Minneapolis_MN_US,Minneapolis,MN,US,44.9773,-93.265469
+22,1960_AmericanAssociation_St.Paul,1960,National,LAD,American Association,St. Paul,St. Paul,AAA,StPaul_FL_US,St. Paul,FL,US,27.786396,-82.65081
+23,1960_Appalachian_Bluefield,1960,American,BAL,Appalachian,Bluefield,Bluefield,D-,Bluefield_VA_US,Bluefield,VA,US,37.252617,-81.27121
+24,1960_Appalachian_JohnsonCity,1960,National,PHI,Appalachian,Johnson City,Johnson City,D-,JohnsonCity_TN_US,Johnson City,TN,US,36.31344,-82.353473
+25,1960_Appalachian_Kingsport,1960,National,PIT,Appalachian,Kingsport,Kingsport,D-,Kingsport_TN_US,Kingsport,TN,US,36.548434,-82.561819
+26,1960_Appalachian_Morristown,1960,National,CHC,Appalachian,Morristown,Morristown,D-,Morristown_TN_US,Morristown,TN,US,36.213981,-83.294892
+27,1960_Appalachian_Salem,1960,National,SF,Appalachian,Salem,Salem,D-,Salem_VA_US,Salem,VA,US,37.293378,-80.054667
+28,1960_Appalachian_Wytheville,1960,American,WSH,Appalachian,Wytheville,Wytheville,D-,Wytheville_VA_US,Wytheville,VA,US,36.947997,-81.086975
+29,1960_ArizonaInstructional_Cubs,1960,National,CHC,Arizona Instructional,Cubs,Cubs,Rk,AZ_US, ,AZ,US,34.395342,-111.763275
+30,1960_ArizonaInstructional_Dodgers,1960,National,LAD,Arizona Instructional,Dodgers,Dodgers,Rk,AZ_US, ,AZ,US,34.395342,-111.763275
+31,1960_ArizonaInstructional_Giants,1960,National,SF,Arizona Instructional,Giants,Giants,Rk,AZ_US, ,AZ,US,34.395342,-111.763275
+32,1960_ArizonaInstructional_Orioles,1960,American,BAL,Arizona Instructional,Orioles,Orioles,Rk,AZ_US, ,AZ,US,34.395342,-111.763275
+33,1960_California_Bakersfield,1960,National,PHI,California,Bakersfield,Bakersfield,C,Bakersfield_CA_US,Bakersfield,CA,US,35.373871,-119.019464
+34,1960_California_Fresno,1960,National,SF,California,Fresno,Fresno,C,Fresno_CA_US,Fresno,CA,US,36.72953,-119.708861
+35,1960_California_Modesto,1960,American,NYY,California,Modesto,Modesto,C,Modesto_CA_US,Modesto,CA,US,37.639097,-120.996878
+36,1960_California_Reno,1960,National,LAD,California,Reno,Reno,C,Reno_NV_US,Reno,NV,US,39.52927,-119.813674
+37,1960_California_Stockton,1960,American,BAL,California,Stockton,Stockton,C,Stockton_CA_US,Stockton,CA,US,37.957702,-121.29078
+38,1960_California_Visalia,1960,American,KC,California,Visalia,Visalia,C,Visalia_CA_US,Visalia,CA,US,36.330228,-119.292058
+39,1960_Carolina_Burlington,1960,American,CLE,Carolina,Burlington,Burlington,B,Burlington_NC_US,Burlington,NC,US,36.095692,-79.437799
+40,1960_Carolina_Durham,1960,American,DET,Carolina,Durham,Durham,B,Durham_NC_US,Durham,NC,US,35.994033,-78.898619
+41,1960_Carolina_Greensboro,1960,American,NYY,Carolina,Greensboro,Greensboro,B,Greensboro_NC_US,Greensboro,NC,US,36.072636,-79.791975
+42,1960_Carolina_Raleigh,1960,American,BOS,Carolina,Raleigh,Raleigh,B,Raleigh_NC_US,Raleigh,NC,US,35.780398,-78.639099
+43,1960_Carolina_Wilson,1960,American,WSH,Carolina,Wilson,Wilson,B,Wilson_NC_US,Wilson,NC,US,35.721269,-77.915539
+44,1960_Carolina_Winston-Salem,1960,National,STL,Carolina,Winston-Salem,Winston-Salem,B,Winston-Salem_NC_US,Winston-Salem,NC,US,36.099817,-80.244144
+45,1960_Eastern_Allentown,1960,American,BOS,Eastern,Allentown,Allentown,A,Allentown_PA_US,Allentown,PA,US,40.602206,-75.471279
+46,1960_Eastern_Binghamton,1960,American,NYY,Eastern,Binghamton,Binghamton,A,Binghamton_NY_US,Binghamton,NY,US,42.096968,-75.914341
+47,1960_Eastern_Lancaster,1960,National,CHC,Eastern,Lancaster,Lancaster,A,Lancaster_CA_US,Lancaster,CA,US,34.698106,-118.136615
+48,1960_Eastern_Reading,1960,American,CLE,Eastern,Reading,Reading,A,Reading_PA_US,Reading,PA,US,40.335345,-75.927949
+49,1960_Eastern_Springfield,1960,National,SF,Eastern,Springfield,Springfield,A,Springfield_MA_US,Springfield,MA,US,42.101483,-72.589811
+50,1960_Eastern_Williamsport,1960,National,PHI,Eastern,Williamsport,Williamsport,A,Williamsport_PA_US,Williamsport,PA,US,41.249329,-77.002767
+51,1960_FloridaInstructional_Athletics,1960,American,KC,Florida Instructional,Athletics,Athletics,Rk,FL_US, ,FL,US,27.756767,-81.463983
+52,1960_FloridaInstructional_Braves,1960,National,MIL,Florida Instructional,Braves,Braves,Rk,FL_US, ,FL,US,27.756767,-81.463983
+53,1960_FloridaInstructional_Indians,1960,American,CLE,Florida Instructional,Indians,Indians,Rk,FL_US, ,FL,US,27.756767,-81.463983
+54,1960_FloridaInstructional_Twins,1960,American,WSH,Florida Instructional,Twins,Twins,Rk,FL_US, ,FL,US,27.756767,-81.463983
+55,1960_FloridaInstructional_WhiteSox,1960,American,CWS,Florida Instructional,White Sox,White Sox,Rk,FL_US, ,FL,US,27.756767,-81.463983
+56,1960_FloridaState_DaytonaBeach,1960,National,STL,Florida State,Daytona Beach,Daytona Beach,D,DaytonaBeach_FL_US,Daytona Beach,FL,US,29.210815,-81.022833
+57,1960_FloridaState_Lakeland,1960,American,CLE,Florida State,Lakeland,Lakeland,D,Lakeland_FL_US,Lakeland,FL,US,28.039465,-81.949804
+58,1960_FloridaState_Leesburg,1960,American,BAL,Florida State,Leesburg,Leesburg,D,Leesburg_FL_US,Leesburg,FL,US,28.810823,-81.877858
+59,1960_FloridaState_Orlando,1960,National,LAD,Florida State,Orlando,Orlando,D,FL_US, ,FL,US,27.756767,-81.463983
+60,1960_FloridaState_Palatka,1960,National,CIN,Florida State,Palatka,Palatka,D,Palatka_FL_US,Palatka,FL,US,29.648788,-81.637211
+61,1960_FloridaState_Sanford,1960,American,KC,Florida State,Sanford,Sanford,D,Sanford_FL_US,Sanford,FL,US,28.811718,-81.268033
+62,1960_FloridaState_St.Petersburg,1960,American,NYY,Florida State,St. Petersburg,St. Petersburg,D,StPetersburg_FL_US,St. Petersburg,FL,US,27.770861,-82.679266
+63,1960_FloridaState_Tampa,1960,National,PHI,Florida State,Tampa,Tampa,D,Tampa_FL_US,Tampa,FL,US,27.94776,-82.458444
+64,1960_Illinois-Indiana-Iowa_Burlington,1960,National,PIT,Illinois-Indiana-Iowa,Burlington,Burlington,B,Burlington_IA_US,Burlington,IA,US,40.807539,-91.112923
+65,1960_Illinois-Indiana-Iowa_CedarRapids,1960,National,MIL,Illinois-Indiana-Iowa,Cedar Rapids,Cedar Rapids,B,CedarRapids_IA_US,Cedar Rapids,IA,US,41.975887,-91.670405
+66,1960_Illinois-Indiana-Iowa_DesMoines,1960,National,PHI,Illinois-Indiana-Iowa,Des Moines,Des Moines,B,DesMoines_IA_US,Des Moines,IA,US,41.591064,-93.603715
+67,1960_Illinois-Indiana-Iowa_FoxCities,1960,American,BAL,Illinois-Indiana-Iowa,Fox Cities,Fox Cities,B,Appleton_WI_US,Appleton,WI,US,44.261134,-88.40676
+68,1960_Illinois-Indiana-Iowa_GreenBay,1960,National,LAD,Illinois-Indiana-Iowa,Green Bay,Green Bay,B,GreenBay_WI_US,Green Bay,WI,US,44.529941,-88.024832
+69,1960_Illinois-Indiana-Iowa_Lincoln,1960,American,CWS,Illinois-Indiana-Iowa,Lincoln,Lincoln,B,Lincoln_NE_US,Lincoln,NE,US,40.8,-96.667821
+70,1960_Illinois-Indiana-Iowa_SiouxCity,1960,American,KC,Illinois-Indiana-Iowa,Sioux City,Sioux City,B,SiouxCity_IA_US,Sioux City,IA,US,42.496682,-96.405878
+71,1960_Illinois-Indiana-Iowa_Topeka,1960,National,CIN,Illinois-Indiana-Iowa,Topeka,Topeka,B,Topeka_KS_US,Topeka,KS,US,39.049011,-95.677556
+72,1960_International_Buffalo,1960,National,PHI,International,Buffalo,Buffalo,AAA,Buffalo_NY_US,Buffalo,NY,US,42.886717,-78.878392
+73,1960_International_Columbus,1960,National,PIT,International,Columbus,Columbus,AAA,Columbus_OH_US,Columbus,OH,US,39.96226,-83.000706
+74,1960_International_Havana/JerseyCity,1960,National,CIN,International,Havana/Jersey City,Havana/Jersey City,AAA,JerseyCity_NJ_US,Jersey City,NJ,US,40.728158,-74.077642
+75,1960_International_Miami,1960,American,BAL,International,Miami,Miami,AAA,Miami_FL_US,Miami,FL,US,25.774266,-80.193659
+76,1960_International_Montreal,1960,National,LAD,International,Montreal,Montreal,AAA,Montreal_QC_CA,Montreal,QC,CA,45.522451,-73.591283
+77,1960_International_Richmond,1960,American,NYY,International,Richmond,Richmond,AAA,Richmond_VA_US,Richmond,VA,US,37.538509,-77.43428
+78,1960_International_Rochester,1960,National,STL,International,Rochester,Rochester,AAA,Rochester_NY_US,Rochester,NY,US,43.157285,-77.615214
+79,1960_International_Toronto,1960,American,CLE,International,Toronto,Toronto,AAA,Toronto_ON_CA,Toronto,ON,CA,43.652921,-79.384901
+80,1960_Midwest_Clinton,1960,American,CWS,Midwest,Clinton,Clinton,D,Clinton_IA_US,Clinton,IA,US,41.844474,-90.188738
+81,1960_Midwest_Davenport,1960,National,MIL,Midwest,Davenport,Davenport,D,Davenport_IA_US,Davenport,IA,US,41.523644,-90.577637
+82,1960_Midwest_Decatur,1960,American,DET,Midwest,Decatur,Decatur,D,Decatur_IL_US,Decatur,IL,US,39.845416,-88.952415
+83,1960_Midwest_Dubuque,1960,National,PIT,Midwest,Dubuque,Dubuque,D,Dubuque_IA_US,Dubuque,IA,US,42.500622,-90.664797
+84,1960_Midwest_Keokuk,1960,National,STL,Midwest,Keokuk,Keokuk,D,Keokuk_IA_US,Keokuk,IA,US,40.397266,-91.384874
+85,1960_Midwest_Kokomo,1960,National,LAD,Midwest,Kokomo,Kokomo,D,Kokomo_IN_US,Kokomo,IN,US,40.486444,-86.133635
+86,1960_Midwest_Quincy,1960,National,SF,Midwest,Quincy,Quincy,D,Quincy_IL_US,Quincy,IL,US,39.935602,-91.409873
+87,1960_Midwest_Waterloo,1960,American,BOS,Midwest,Waterloo,Waterloo,D,Waterloo_IA_US,Waterloo,IA,US,42.492764,-92.342963
+96,1960_NewYork-Pennsylvania_Auburn,1960,American,NYY,New York-Pennsylvania,Auburn,Auburn,D,Auburn_NY_US,Auburn,NY,US,42.93202,-76.567203
+97,1960_NewYork-Pennsylvania_Corning,1960,American,BOS,New York-Pennsylvania,Corning,Corning,D,Corning_NY_US,Corning,NY,US,42.142852,-77.05469
+98,1960_NewYork-Pennsylvania_Elmira,1960,National,PHI,New York-Pennsylvania,Elmira,Elmira,D,Elmira_NY_US,Elmira,NY,US,42.089797,-76.807734
+99,1960_NewYork-Pennsylvania_Erie,1960,American,WSH,New York-Pennsylvania,Erie,Erie,D,Erie_PA_US,Erie,PA,US,42.129066,-80.085242
+100,1960_NewYork-Pennsylvania_Geneva,1960,National,CIN,New York-Pennsylvania,Geneva,Geneva,D,Geneva_NY_US,Geneva,NY,US,42.868955,-76.977744
+101,1960_NewYork-Pennsylvania_Wellsville,1960,National,MIL,New York-Pennsylvania,Wellsville,Wellsville,D,Wellsville_NY_US,Wellsville,NY,US,42.122013,-77.948057
+102,1960_Northern_Aberdeen,1960,American,BAL,Northern,Aberdeen,Aberdeen,C,Aberdeen_MD_US,Aberdeen,MD,US,39.509556,-76.16412
+103,1960_Northern_Duluth-Superior,1960,American,DET,Northern,Duluth-Superior,Duluth-Superior,C,Duluth_MN_US,Duluth,MN,US,46.772932,-92.125122
+104,1960_Northern_EauClaire,1960,National,MIL,Northern,Eau Claire,Eau Claire,C,EauClaire_WI_US,Eau Claire,WI,US,44.811349,-91.498494
+105,1960_Northern_Fargo-Moorhead,1960,American,NYY,Northern,Fargo-Moorhead,Fargo-Moorhead,C,Fargo-Moorhead_ND_US,Fargo-Moorhead,ND,US,47.620146,-100.540737
+106,1960_Northern_GrandForks,1960,National,PIT,Northern,Grand Forks,Grand Forks,C,GrandForks_ND_US,Grand Forks,ND,US,47.907824,-97.059203
+107,1960_Northern_Minot,1960,American,CLE,Northern,Minot,Minot,C,Minot_ND_US,Minot,ND,US,48.23251,-101.296273
+108,1960_Northern_St.Cloud,1960,National,CHC,Northern,St. Cloud,St. Cloud,C,StCloud_MN_US,St. Cloud,MN,US,45.561608,-94.1642
+109,1960_Northern_Winnipeg,1960,National,STL,Northern,Winnipeg,Winnipeg,C,Winnipeg_MB_CA,Winnipeg,MB,CA,49.883334,-97.166674
+110,1960_Northwest_Eugene,1960,National,SF,Northwest,Eugene,Eugene,B,Eugene_OR_US,Eugene,OR,US,44.101181,-123.152384
+111,1960_Northwest_Lewiston,1960,American,KC,Northwest,Lewiston,Lewiston,B,Lewiston_ID_US,Lewiston,ID,US,46.416551,-117.017657
+112,1960_Northwest_Salem,1960, , ,Northwest,Salem,Salem,B,Salem_OR_US,Salem,OR,US,44.939157,-123.033121
+113,1960_Northwest_Tri-City,1960,American,BAL,Northwest,Tri-City,Tri-City,B,Troy_NY_US,Troy,NY,US,42.728412,-73.691785
+114,1960_Northwest_Wenatchee,1960, , ,Northwest,Wenatchee,Wenatchee,B,Wenatchee_WA_US,Wenatchee,WA,US,47.42346,-120.310349
+115,1960_Northwest_Yakima,1960,National,MIL,Northwest,Yakima,Yakima,B,Yakima_WA_US,Yakima,WA,US,46.596449,-120.55318
+116,1960_PacificCoast_Portland,1960, , ,Pacific Coast,Portland,Portland,AAA,Portland_OR_US,Portland,OR,US,45.520247,-122.674195
+117,1960_PacificCoast_Sacramento,1960,National,MIL,Pacific Coast,Sacramento,Sacramento,AAA,Sacramento_CA_US,Sacramento,CA,US,38.581572,-121.4944
+118,1960_PacificCoast_SaltLakeCity,1960,National,PIT,Pacific Coast,Salt Lake City,Salt Lake City,AAA,SaltLakeCity_UT_US,Salt Lake City,UT,US,40.767013,-111.890431
+119,1960_PacificCoast_SanDiego,1960,American,CWS,Pacific Coast,San Diego,San Diego,AAA,SanDiego_CA_US,San Diego,CA,US,32.717421,-117.162771
+120,1960_PacificCoast_SEAP/MIL,1960,National,CIN,Pacific Coast,Seattle,Seattle,AAA,Seattle_WA_US,Seattle,WA,US,47.603832,-122.330062
+121,1960_PacificCoast_Spokane,1960,National,LAD,Pacific Coast,Spokane,Spokane,AAA,Spokane_WA_US,Spokane,WA,US,47.65886,-117.424713
+122,1960_PacificCoast_Tacoma,1960,National,SF,Pacific Coast,Tacoma,Tacoma,AAA,Tacoma_WA_US,Tacoma,WA,US,47.24958,-122.439875
+123,1960_PacificCoast_Vancouver,1960,American,BAL,Pacific Coast,Vancouver,Vancouver,AAA,Vancouver_BC_CA,Vancouver,BC,CA,49.260894,-123.113938
+124,1960_PeninsulaWinter_Braves,1960,National,MIL,Peninsula Winter,Braves,Braves,Rk,FL_US, ,FL,US,27.756767,-81.463983
+125,1960_PeninsulaWinter_Cardinals,1960,National,STL,Peninsula Winter,Cardinals,Cardinals,Rk,FL_US, ,FL,US,27.756767,-81.463983
+126,1960_PeninsulaWinter_Dodgers,1960,National,LAD,Peninsula Winter,Dodgers,Dodgers,Rk,FL_US, ,FL,US,27.756767,-81.463983
+127,1960_PeninsulaWinter_Giants,1960,National,SF,Peninsula Winter,Giants,Giants,Rk,FL_US, ,FL,US,27.756767,-81.463983
+128,1960_PeninsulaWinter_Orioles,1960,American,BAL,Peninsula Winter,Orioles,Orioles,Rk,FL_US, ,FL,US,27.756767,-81.463983
+129,1960_PeninsulaWinter_Phillies,1960,National,PHI,Peninsula Winter,Phillies,Phillies,Rk,FL_US, ,FL,US,27.756767,-81.463983
+130,1960_PeninsulaWinter_Pirates,1960,National,PIT,Peninsula Winter,Pirates,Pirates,Rk,FL_US, ,FL,US,27.756767,-81.463983
+131,1960_PeninsulaWinter_Yankees,1960,American,NYY,Peninsula Winter,Yankees,Yankees,Rk,FL_US, ,FL,US,27.756767,-81.463983
+132,1960_Pioneer_Billings,1960,National,STL,Pioneer,Billings,Billings,C,Billings_MT_US,Billings,MT,US,45.787496,-108.49607
+133,1960_Pioneer_Boise,1960,National,MIL,Pioneer,Boise,Boise,C,Boise_ID_US,Boise,ID,US,43.61656,-116.200835
+134,1960_Pioneer_GreatFalls,1960,National,LAD,Pioneer,Great Falls,Great Falls,C,GreatFalls_MT_US,Great Falls,MT,US,47.504885,-111.291891
+135,1960_Pioneer_IdahoFalls,1960,American,CWS,Pioneer,Idaho Falls,Idaho Falls,C,IdahoFalls_ID_US,Idaho Falls,ID,US,43.493079,-112.044349
+136,1960_Pioneer_Missoula,1960,National,CIN,Pioneer,Missoula,Missoula,C,Missoula_MT_US,Missoula,MT,US,46.87008,-113.99528
+137,1960_Pioneer_Pocatello,1960,National,SF,Pioneer,Pocatello,Pocatello,C,Pocatello_ID_US,Pocatello,ID,US,42.868861,-112.44011
+138,1960_Sophomore_Albuquerque,1960,American,KC,Sophomore,Albuquerque,Albuquerque,D,Albuquerque_NM_US,Albuquerque,NM,US,35.084103,-106.650985
+139,1960_Sophomore_Alpine,1960,American,BOS,Sophomore,Alpine,Alpine,D,Alpine_TX_US,Alpine,TX,US,30.35738,-103.660937
+140,1960_Sophomore_Artesia,1960,National,SF,Sophomore,Artesia,Artesia,D,Artesia_NM_US,Artesia,NM,US,32.842335,-104.403296
+141,1960_Sophomore_Carlsbad,1960,National,CHC,Sophomore,Carlsbad,Carlsbad,D,FL_US, ,FL,US,27.756767,-81.463983
+142,1960_Sophomore_Hobbs,1960,National,PIT,Sophomore,Hobbs,Hobbs,D,Hobbs_NM_US,Hobbs,NM,US,32.702612,-103.13604
+143,1960_Sophomore_Odessa,1960,National,LAD,Sophomore,Odessa,Odessa,D,Odessa_TX_US,Odessa,TX,US,31.845715,-102.367687
+144,1960_SouthAtlantic_Asheville,1960,National,PHI,South Atlantic,Asheville,Asheville,A,Asheville_NC_US,Asheville,NC,US,35.60095,-82.554016
+145,1960_SouthAtlantic_Charleston,1960,American,CWS,South Atlantic,Charleston,Charleston,A,Charleston_SC_US,Charleston,SC,US,32.787601,-79.940273
+146,1960_SouthAtlantic_Charlotte,1960,American,WSH,South Atlantic,Charlotte,Charlotte,A,Charlotte_NC_US,Charlotte,NC,US,35.227087,-80.843127
+147,1960_SouthAtlantic_Columbia,1960,National,CIN,South Atlantic,Columbia,Columbia,A,Columbia_SC_US,Columbia,SC,US,34.000749,-81.034331
+148,1960_SouthAtlantic_Jacksonville,1960,National,MIL,South Atlantic,Jacksonville,Jacksonville,A,Jacksonville_FL_US,Jacksonville,FL,US,30.332184,-81.655651
+149,1960_SouthAtlantic_Knoxville,1960,American,DET,South Atlantic,Knoxville,Knoxville,A,Knoxville_TN_US,Knoxville,TN,US,35.960395,-83.921026
+150,1960_SouthAtlantic_Macon,1960,National,LAD,South Atlantic,Macon,Macon,A,Macon_GA_US,Macon,GA,US,32.840695,-83.632402
+151,1960_SouthAtlantic_Savannah,1960,National,PIT,South Atlantic,Savannah,Savannah,A,Savannah_GA_US,Savannah,GA,US,32.083541,-81.099834
+152,1960_SouthernAssociation_Atlanta,1960,National,LAD,Southern Association,Atlanta,Atlanta,AA,Atlanta_GA_US,Atlanta,GA,US,33.749099,-84.390185
+153,1960_SouthernAssociation_Birmingham,1960,American,DET,Southern Association,Birmingham,Birmingham,AA,Birmingham_AL_US,Birmingham,AL,US,33.520682,-86.802433
+154,1960_SouthernAssociation_Chattanooga,1960,National,PHI,Southern Association,Chattanooga,Chattanooga,AA,Chattanooga_TN_US,Chattanooga,TN,US,35.04563,-85.30968
+155,1960_SouthernAssociation_LittleRock,1960, , ,Southern Association,Little Rock,Little Rock,AA,LittleRock_AR_US,Little Rock,AR,US,34.746481,-92.289595
+156,1960_SouthernAssociation_Memphis,1960,National,STL,Southern Association,Memphis,Memphis,AA,Memphis_TN_US,Memphis,TN,US,35.149022,-90.051628
+157,1960_SouthernAssociation_Mobile,1960,American,CLE,Southern Association,Mobile,Mobile,AA,Mobile_AL_US,Mobile,AL,US,30.694357,-88.043054
+158,1960_SouthernAssociation_Nashville,1960,National,CIN,Southern Association,Nashville,Nashville,AA,Nashville_TN_US,Nashville,TN,US,36.16223,-86.774353
+159,1960_SouthernAssociation_Shreveport,1960,American,KC,Southern Association,Shreveport,Shreveport,AA,Shreveport_LA_US,Shreveport,LA,US,32.522183,-93.765194
+160,1960_Texas_Amarillo,1960,American,NYY,Texas,Amarillo,Amarillo,AA,Amarillo_TX_US,Amarillo,TX,US,35.207219,-101.833825
+161,1960_Texas_Austin,1960,National,MIL,Texas,Austin,Austin,AA,Austin_TX_US,Austin,TX,US,30.271129,-97.743699
+162,1960_Texas_RioGrandeValley,1960,National,SF,Texas,Rio Grande Valley,Rio Grande Valley,AA,Harlingen_TX_US,Harlingen,TX,US,26.190631,-97.696103
+163,1960_Texas_SanAntonio,1960,National,CHC,Texas,San Antonio,San Antonio,AA,SanAntonio_TX_US,San Antonio,TX,US,29.4246,-98.49514
+164,1960_Texas_Tulsa,1960,National,STL,Texas,Tulsa,Tulsa,AA,Tulsa_OK_US,Tulsa,OK,US,36.155681,-95.992911
+165,1960_Texas_Victoria,1960,American,DET,Texas,Victoria,Victoria,AA,Victoria_BC_CA,Victoria,BC,CA,48.428333,-123.364927
+166,1960_WesternCarolina_Gastonia,1960, , ,Western Carolina,Gastonia,Gastonia,D,Gastonia_NC_US,Gastonia,NC,US,35.262082,-81.1873
+167,1960_WesternCarolina_Hickory,1960, , ,Western Carolina,Hickory,Hickory,D,Hickory_NC_US,Hickory,NC,US,35.73319,-81.341201
+168,1960_WesternCarolina_Lexington,1960, , ,Western Carolina,Lexington,Lexington,D,Lexington_KY_US,Lexington,KY,US,38.046407,-84.497039
+169,1960_WesternCarolina_Newton-Conover,1960, , ,Western Carolina,Newton-Conover,Newton-Conover,D,Newton_NC_US,Newton,NC,US,35.669855,-81.221471
+170,1960_WesternCarolina_RutherfordCounty,1960, , ,Western Carolina,Rutherford County,Rutherford County,D,Spindale_NC_US,Spindale,NC,US,35.360121,-81.929271
+171,1960_WesternCarolina_Salisbury,1960, , ,Western Carolina,Salisbury,Salisbury,D,Salisbury_MD_US,Salisbury,MD,US,38.366211,-75.600888
+172,1960_WesternCarolina_Shelby,1960, , ,Western Carolina,Shelby,Shelby,D,Shelby_NC_US,Shelby,NC,US,35.292351,-81.535646
+173,1960_WesternCarolina_Statesville,1960, , ,Western Carolina,Statesville,Statesville,D,Statesville_NC_US,Statesville,NC,US,35.782636,-80.887296
